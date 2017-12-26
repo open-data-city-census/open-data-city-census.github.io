@@ -1,29 +1,64 @@
 ---
 layout: default
 ---
+<div id="main">
+	<section class="wrapper style4 container">
 
-<section class="wrapper style4 container">
-
-	<div class="content">
-		<section>
-		<div id="city-datasets">
-			<table class="city-datasets">
-			<thead>
-				<tr>
-					<th></th>
-					<th></th>
-					<th></th>
-					<th>Punktzahl</th>
-					<th>Erster Datensatz</th>
-					<th>Zuletzt aktualisert vor</th>
-					<th>Datensätze</th>
-					<th>Datensätze mit offener Lizenz</th>
-				</tr>
-			</thead>
-			<tbody>
-			</tbody>
-			</table>
+		<div class="row">
+			<div class="9u 12u(narrower)">
+				<div class="content">
+					<section>
+					<div id="city-datasets">
+						<table class="city-datasets">
+						<thead>
+							<tr>
+								<th></th>
+								<th></th>
+								<th></th>
+								<th>Punktzahl</th>
+								<th>Datensatz Score (max 3)</th>
+								<th>Datensätze</th>
+								<th>Datensätze mit offener Lizenz</th>
+							</tr>
+						</thead>
+						<tbody>
+						</tbody>
+						</table>
+					</div>
+					</section>
+				</div>
+			</div>
+			<div class="3u 12u(narrower)">
+				<div class="sidebar">
+					<section>
+						<div class="explanation">
+							<b>Punktzahl</b>
+							<p>Die Punktzahl ergibt sich aus den standardisierten gewichteten Rängen der einzelnen Kategorien. Die maximale Punktzahl beträgt 100. Je kleiner die Punktzahl, umso besser schneidet das Portal ab.<br/>
+							Die Kategorien sind wie folgt gewichtet:</p>
+							<ul>
+								<li>40% Datensatz Score</li>
+								<li>20% Kategorie Score</li>
+								<li>15% Kategorie Varianz</li>
+								<li>10% Anzahl Datensätze</li>
+								<li>5% Anzahl verschiedener Formate</li>
+								<li>5% Letztes Update</li>
+								<li>5% Anzahl Kategorien</li>
+							</ul>
+					</div>
+					</section>
+					<section>
+						<div class="explanation">
+							<b>Datensatz Score</b>
+							<p>Ingesamt können drei Punkte pro Datensatz erreicht werden. Das Maximum kann erreicht werden, wenn alle Datensätze 3 Punkte haben.<br/>
+							Folgende Kriterien werden verwendet:</p>
+							<ul>
+								<li>Lizenz</li>
+								<li>offenes (nicht-propiritäres) Format</li>
+								<li>maschinenlesbares Format</li>
+							</ul>
+					</div>
+					</section>
+			</div>
 		</div>
-		</section>
-	</div>
 	</section>
+</div>
