@@ -10,7 +10,11 @@ HUMANIZE_TIME = {
   'n': 'Nie'
 };
 function historic(name, data) {
-  return _.find(data, {id: name});
+  var result = _.find(data, {id: name});
+  if(result) {
+    return result;
+  }
+  return { 'overall_rank': 0};
 }
 function overallRanking(d) {
   return parseInt(d.overall_rank);
