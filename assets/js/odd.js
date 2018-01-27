@@ -94,10 +94,10 @@ function create_dataset_table(elem, data, historic_ranking) {
 var rankingsCsv = 'https://s3.amazonaws.com/open-data-germany-orgs/open_data_germany_ranks.csv';
 var timeFormat = d3.timeFormat('%Y-%m-%d');
 var todayFormatted = timeFormat(new Date);
-var yesterday = new Date();
-yesterday.setDate(yesterday.getDate() - 1);
-var yesterdayFormatted = timeFormat(yesterday);
-var rankingChange = 'https://s3.amazonaws.com/open-data-germany-orgs/ranks/'+yesterdayFormatted+'.csv';
+var lastWeek = new Date();
+lastWeek.setDate(lastWeek.getDate() - 7);
+var lastWeekFormatted = timeFormat(lastWeek);
+var rankingChange = 'https://s3.amazonaws.com/open-data-germany-orgs/ranks/'+lastWeekFormatted+'.csv';
 document.onreadystatechange = function () {
   var q = d3.queue();
   if(document.getElementById('city-datasets')) {
