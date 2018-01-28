@@ -1,0 +1,7 @@
+[
+	{ name: 'PDF'},
+	{ name: 'HTML'},
+	{ name: 'CSV'},
+	{ name: 'XML'},
+	{ name: 'ZIP'},
+]
