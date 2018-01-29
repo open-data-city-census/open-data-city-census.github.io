@@ -22,6 +22,15 @@ layout: default
 			{% capture top_format_content %}
 				{% include ranked_list.html ranking=site.data.topFormate %}
 			{% endcapture %}
+			{% capture formate_viz %}
+				{% include create_viz.html elementId="viz-formate" data_file=site.data.top_formate %}
+			{% endcapture %}
+			{% capture lizenzen_viz %}
+				{% include create_viz.html elementId="viz-lizenzen" data_file=site.data.top_lizenzen %}
+			{% endcapture %}
+			{% capture portale_viz %}
+				{% include create_viz.html elementId="top-portale" data_file=site.data.top_portale %}
+			{% endcapture %}
 			{% capture top_5_footer %}
 				<a href="/ranking.html">zum Ranking</a>
 			{% endcapture %}
@@ -33,6 +42,12 @@ layout: default
       </div>
       <div class="w-1/3">
 				{% include widget.html card_id="top-license" header="Top 5 Lizenzen" content=top_lizenzen_content %}
+      </div>
+      <div class="w-1/3">
+				{% include widget.html card_id="formats-graph" header="Top Formate" content=formate_viz %}
+      </div>
+      <div class="w-1/3">
+				{% include widget.html card_id="portale-graph" header="Portale" content=portale_viz %}
       </div>
     </div>
   </div>

@@ -1,0 +1,10 @@
+<div id="{{include.elementId}}"></div>
+<script type="text/javascript">
+	document.onLoad = function () {
+		var elementId = '{{include.elementId}}';
+		var width = document.getElementById(elementId).offsetWidth;
+		var spec = {{include.data_file | jsonify }};
+		spec.width = width-90;
+		vegaEmbed('#'+elementId, spec, {actions: false});
+	}
+</script>
