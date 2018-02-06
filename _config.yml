@@ -13,4 +13,5 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-remote_theme: city-census/Twenty-Jekyll-Theme
+remote_theme: citycensus/city-census-theme
+exclude: ['node_modules', 'config']

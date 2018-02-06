@@ -1,5 +1,12 @@
-.page-content {
-	margin-top: 100px;
+p {
+	margin-bottom: 1rem;
+	line-height: 1.5rem;
+}
+.nav-item a.active:visited, .nav-item a.active {
+	color: #2779bd;
+}
+.nav-item a, .nav-item a:visited {
+	color: #D8D8DA;
 }
 
 .explanation {
@@ -7,4 +14,25 @@
 	line-height: 16pt;
 }
 
+.detail {
+	background-color: #f4f4f4;
+}
 
+.detail .content {
+	background: #fff;
+	padding: 1rem;
+}
+table {
+	border: none;
+}
+table td {
+	padding: 10px;
+}
+
+table tr:even {
+	background: #ccc;
+}
+.explanation {
+	font-size: 12pt;
+	line-height: 16pt;
+}

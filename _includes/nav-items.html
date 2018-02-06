@@ -1,0 +1,14 @@
+<div class="hidden bg-blue-dark md:block md:bg-white md:border-b">
+	<div class="container mx-auto px-4">
+		<div class="md:flex">
+			{% for item in site.data.nav %}
+			<div class="nav-item" >
+				<a href="{{site.baseurl}}{{item.url}}" class="{% if item.url == page.url %}active md:text-blue-dark {% else %}md:text-grey-dark md:opacity-100 md:hover:border-grey-dark hover:opacity-100{% endif %}">{{item.title}}</a>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+</div>
+<div class="flex flex-grow justify-end">
+	<img src="{{site.baseurl}}/assets/images/logo-bmbf.svg" height="50" class="mr-2">
+</div>

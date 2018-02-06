@@ -1,0 +1,69 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v3.0.json",
+  "width": 400,
+  "height": 200,
+  "padding": 5,
+
+  "data": {
+    "url": "https://s3.amazonaws.com/open-data-germany-orgs/overall_stats/formats.json",
+    "format": { "type": "json", "property": "result.search_facets.res_format.items"},
+    "name": "table",
+    "transform": [
+      {"type": "filter", "expr": "datum.count > 500"},
+      { "type": "collect",  "sort": { "field": "count",    "order": "descending" }}
+    ]
+  },
+  
+  "scales": [
+    {
+      "name": "xscale",
+      "type": "band",
+      "domain": {"data": "table", "field": "display_name"},
+      "range": "width",
+      "padding": 0.05,
+      "round": true
+    },
+    {
+      "name": "yscale",
+      "domain": {"data": "table", "field": "count"},
+      "nice": true,
+      "range": "height"
+    }
+  ],
+
+  "axes": [
+    { "orient": "bottom", "scale": "xscale" },
+    { "orient": "left", "scale": "yscale" }
+  ],
+
+  "marks": [
+    {
+      "type": "rect",
+      "from": {"data":"table"},
+      "encode": {
+        "enter": {
+          "x": {"scale": "xscale", "field": "display_name"},
+          "width": {"scale": "xscale", "band": 1},
+          "y": {"scale": "yscale", "field": "count"},
+          "y2": {"scale": "yscale", "value": 0}
+        },
+        "update": {
+          "fill": {"value": "steelblue"}
+        },
+        "hover": {
+          "fill": {"value": "red"}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "encode": {
+        "enter": {
+          "align": {"value": "center"},
+          "baseline": {"value": "bottom"},
+          "fill": {"value": "#333"}
+        }
+      }
+    }
+  ]
+}

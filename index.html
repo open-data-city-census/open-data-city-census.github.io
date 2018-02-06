@@ -1,64 +1,60 @@
 ---
 layout: default
 ---
-<div id="main">
-	<section class="wrapper style4 container">
+<div class="hero bg-dark-sky-blue pb-6">
+	<h1>Open Data City Census</h1>
+	<h2>Automatisches Ranking der Open Data Programme deutscher Städte</h2>
+</div>
+<div class="section">
+  <div class="-mt-8 p-6 mx-auto card">
+    <h4 class="text-center">Platz 1</h4>
+    <h5 class="text-center text-2xl">Rostock</h5>
+  </div>
+  <div class="container content mt-8">
+    <div class="flex flex-wrap">
+			{% capture top_5_content %}
+				{% include ranked_list.html ranking=site.data.top5 %}
+			{% endcapture %}
+			{% capture top_lizenzen_content %}
+				{% include ranked_list.html ranking=site.data.topLizenzen %}
+			{% endcapture %}
+			{% capture top_format_content %}
+				{% include ranked_list.html ranking=site.data.topFormate %}
+			{% endcapture %}
+			{% capture formate_viz %}
+				{% include create_viz.html elementId="viz-formate" data_file=site.data.top_formate %}
+			{% endcapture %}
+			{% capture lizenzen_viz %}
+				{% include create_viz.html elementId="viz-lizenzen" data_file=site.data.top_lizenzen %}
+			{% endcapture %}
+			{% capture portale_viz %}
+				{% include create_viz.html elementId="top-portale" data_file=site.data.top_portale %}
+			{% endcapture %}
+      <div class="w-1/3">
+				{% include widget.html class="mr-4" card_id="top-5" header="Top 5" content=top_5_content %}
+      </div>
+      <div class="w-1/3">
+				{% include widget.html class="mr-4" card_id="top-formats" header="Top 5 Formate" content=top_format_content  %}
+      </div>
+      <div class="w-1/3">
+				{% include widget.html card_id="top-license" header="Top 5 Lizenzen" content=top_lizenzen_content %}
+      </div>
+    </div>
+			<div class="flex justify-center">
+				<a class="button m-auto bg-blue hover:bg-blue-dark text-white font-bold py-2 px-4 rounded text-2xl" href="/ranking.html">Zum Ranking</a>
+			</div>
+  </div>
+</div>
+<div class="section section-alternate">
+  <div class="container content">
+		<h3>Über das Projekt</h3>
+		<div class="mt-8">
+			<p>Das Projekt ist ein Vorhaben im Rahmen des Prototype Funds der OKF und des BMBF.</p>
+			<p>Es wurde in der zweiten Förderrunde ausgewählt und läuft vom 1.September2017 - 28.Februar 2018.</p>
 
-		<div class="row">
-			<div class="9u 12u(narrower)">
-				<div class="content">
-					<section>
-					<div id="city-datasets">
-						<table class="city-datasets">
-						<thead>
-							<tr>
-								<th></th>
-								<th></th>
-								<th></th>
-								<th>Punktzahl</th>
-								<th>Datensatz Score (max 3)</th>
-								<th>Datensätze</th>
-								<th>Datensätze mit offener Lizenz</th>
-							</tr>
-						</thead>
-						<tbody>
-						</tbody>
-						</table>
-					</div>
-					</section>
-				</div>
-			</div>
-			<div class="3u 12u(narrower)">
-				<div class="sidebar">
-					<section>
-						<div class="explanation">
-							<b>Punktzahl</b>
-							<p>Die Punktzahl ergibt sich aus den standardisierten gewichteten Rängen der einzelnen Kategorien. Die maximale Punktzahl beträgt 100. Je kleiner die Punktzahl, umso besser schneidet das Portal ab.<br/>
-							Die Kategorien sind wie folgt gewichtet:</p>
-							<ul>
-								<li>40% Datensatz Score</li>
-								<li>20% Kategorie Score</li>
-								<li>15% Kategorie Varianz</li>
-								<li>10% Anzahl Datensätze</li>
-								<li>5% Anzahl verschiedener Formate</li>
-								<li>5% Letztes Update</li>
-								<li>5% Anzahl Kategorien</li>
-							</ul>
-					</div>
-					</section>
-					<section>
-						<div class="explanation">
-							<b>Datensatz Score</b>
-							<p>Ingesamt können drei Punkte pro Datensatz erreicht werden. Das Maximum kann erreicht werden, wenn alle Datensätze 3 Punkte haben.<br/>
-							Folgende Kriterien werden verwendet:</p>
-							<ul>
-								<li>Lizenz</li>
-								<li>offenes (nicht-propiritäres) Format</li>
-								<li>maschinenlesbares Format</li>
-							</ul>
-					</div>
-					</section>
-			</div>
+			<p>Open Data Stadt Zensus soll den aktuellen von der Community betriebenen City Census ersetzen und erweitern. Der Fortschritt der Städte und Kommunen Deutschlands im Bereich Offenen Daten soll sichtbar werden und ein Benchmarking für Kommunen und Bürger ermöglichen.</p>
+
+			<p>Die aktuellen (englischen) Kategorien sollen in Zusammenarbeit mit den Open Data Kommunen Deutschlands überarbeitet werden und das govdata Portal als Metadatenportal genutzt werden, um den Mehraufwand für die Kommunen möglichst gering zu halten.</p>
 		</div>
-	</section>
+  </div>
 </div>
