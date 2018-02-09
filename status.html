@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div class="container mx-auto" id="harvest-status">
+	<div class="flex flex-wrap -mx-2">
+		{% for harvester in site.data.harvesters | sort: 'id' %}
+		<div class="bg-white max-w-sm shadow-lg rounded-lg overflow-hidden mb-4 w-1/4 mx-2">
+			<div class="sm:flex sm:items-center px-6 py-4">
+				<div class="text-center sm:text-left sm:flex-grow">
+					<div class="harvest-source text-xl leading-tight" data-source="{{harvester.id}}">{{harvester.name}}</div>
+					<div id="harvest-{{harvester.id}}" class="text-sm leading-tight text-grey-darker"></div>
+				</div>
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+</div>
