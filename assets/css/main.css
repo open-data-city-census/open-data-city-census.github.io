@@ -20,7 +20,6 @@ p {
 
 .detail .content {
 	background: #fff;
-	padding: 1rem;
 }
 table {
 	border: none;
@@ -35,4 +34,15 @@ table tr:even {
 .explanation {
 	font-size: 12pt;
 	line-height: 16pt;
+}
+.ranking-city .heroicon-outline {fill: #4A4A4A;}
+.ranking-city .heroicon-shadow {fill: #4A4A4A; opacity:0.2;}
+.ranking-city .heroicon-component-fill {fill: #fff;}
+.ranking-city .heroicon-component-accent {fill: #004DA1;}
+
+#ranking-body.scroll {
+	margin-top: 68px;
+}
+.w-1-8 {
+	width: 12%;
 }

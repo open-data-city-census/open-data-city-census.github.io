@@ -5,21 +5,72 @@ layout: default
   <div class="container content">
 		<div id="city-datasets">
 			<h3>Ranking</h3>
-			<table class="city-datasets">
-			<thead>
-				<tr>
-					<th></th>
-					<th></th>
-					<th></th>
-					<th>Punktzahl</th>
-					<th>Datensatz Score (max 3)</th>
-					<th>Datensätze</th>
-					<th>Datensätze mit offener Lizenz</th>
-				</tr>
-			</thead>
-			<tbody>
-			</tbody>
-			</table>
+			<div class="flex bg-grey-dark p-6 w-full" id="ranking-header">
+					<div class="flex ml-4 w-1/5 flex-col justify-center">Stadt</div>
+					<div class="flex w-1-8 pl-2 flex-col justify-center">Punktzahl</div>
+					<div class="flex w-1/3 pl-2 flex-col justify-center">Datenqualität</div>
+					<div class="flex w-1/6 pl-2 flex-col justify-center">Datensätze</div>
+					<div class="flex w-1/6 pl-2 flex-col justify-center">% Datensätze mit offener Lizenz</div>
+			</div>
+			<div class="" id="ranking-body">
+				{% assign ranks = site.data.odd_rank | sort: 'overall_rank' %}
+				{% for entry in ranks %}
+					<div class="flex p-2">
+						<div class="flex flex-no-grow p-2 flex-col justify-center">{{entry.overall_rank | ceil }}</div>
+						<div class="flex w-1/5 p-2 align-middle flex-col justify-center">{{entry.name}}</div>
+						<div class="flex w-1-8 p-2 align-middle flex-col justify-center">
+							<div class="">
+								{{entry.overall_rank_data | round: 2}}
+							</div>
+							<div class="">
+							</div>
+						</div>
+						<div class="flex p-2 w-1/3">
+							{% assign means = site.data.city_stats.datasets[entry.id] %}
+							{% assign update_color = "red" %}
+							{% assign license_color = "red" %}
+							{% assign format_color = "red" %}
+							{% if means.update_time_mean <= 0.6 and means.update_time_mean > 0.3 %}
+								{% assign update_color = "yellow" %}
+							{% elsif means.update_time_mean > 0.6 %}
+								{% assign update_color = "green" %}
+					 		{% endif %}
+							{% if means.license_mean <= 0.6 and means.license_mean > 0.3 %}
+								{% assign license_color = "yellow" %}
+							{% elsif means.license_mean > 0.6 %}
+								{% assign license_color = "green" %}
+					 		{% endif %}
+							{% if means.format_mean <= 0.6 and means.format_mean > 0.3 %}
+								{% assign format_color = "yellow" %}
+							{% elsif means.format_mean > 0.6 %}
+								{% assign format_color = "green" %}
+					 		{% endif %}
+							<div class="flex-col">
+								<div class="flex pt-1 items-baseline">
+									<div class="w-6 h-6 bg-{{update_color}}">&nbsp;</div>
+									<p class="pl-2 mb-0 text-sm">Update Zyklus</p>
+								</div>
+								<div class="flex pt-1 items-baseline">
+									<div class="w-6 h-6 bg-{{license_color}}">&nbsp;</div>
+									<p class="pl-2 mb-0 text-sm">Lizenz</p>
+								</div>
+								<div class="flex pt-1 items-baseline">
+									<div class="w-6 h-6 bg-{{format_color}}">&nbsp;</div>
+									<p class="pl-2 mb-0 text-sm">Format</p>
+								</div>
+							</div>
+						</div>
+						<div class="flex p-2 w-1/6 flex-col justify-center">{{entry.datasets | ceil}}</div>
+						<div class="flex p-2 w-1/6 flex-col justify-center">
+							{% if entry.datasets > 0 %}
+								{{entry.open_datasets | divided_by: entry.datasets | times: 100 | ceil}}
+							{% else %}
+							0
+							{% endif %}
+						</div>
+					</div>
+				{% endfor %}
+			</div>
 		</div>
 		</section>
 	</div>
