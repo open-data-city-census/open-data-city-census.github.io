@@ -4,7 +4,6 @@ layout: default
 <div class="section detail">
   <div class="container content">
 		<div id="city-datasets">
-			<h3>Ranking</h3>
 			<div class="flex bg-grey-dark p-6 w-full" id="ranking-header">
 					<div class="flex ml-4 w-1/5 flex-col justify-center">Stadt</div>
 					<div class="flex w-1-8 pl-2 flex-col justify-center">Punktzahl</div>
@@ -16,8 +15,8 @@ layout: default
 				{% assign ranks = site.data.odd_rank | sort: 'overall_rank' %}
 				{% for entry in ranks %}
 					<div class="flex p-2">
-						<div class="flex flex-no-grow p-2 flex-col justify-center">{{entry.overall_rank | ceil }}</div>
-						<div class="flex w-1/5 p-2 align-middle flex-col justify-center">{{entry.name}}</div>
+						<div class="flex flex-no-grow p-2 flex-col justify-center text-xl">{{entry.overall_rank | ceil }}</div>
+						<div class="flex w-1/5 p-2 align-middle flex-col justify-center text-xl">{{entry.name}}</div>
 						<div class="flex w-1-8 p-2 align-middle flex-col justify-center">
 							<div class="">
 								{{entry.overall_rank_data | round: 2}}
