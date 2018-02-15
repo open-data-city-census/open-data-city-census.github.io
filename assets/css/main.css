@@ -15,7 +15,7 @@ p {
 }
 
 .detail {
-	background-color: #f4f4f4;
+	background-color: #fefefe;
 }
 
 .detail .content {
@@ -45,4 +45,7 @@ table tr:even {
 }
 .w-1-8 {
 	width: 12%;
+}
+#ranking-header {
+  font-weight: bold;
 }
