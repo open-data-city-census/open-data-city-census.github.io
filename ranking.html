@@ -44,17 +44,17 @@ layout: default
 							{% elsif means.format_mean > 0.6 %}
 								{% assign format_color = "green" %}
 					 		{% endif %}
-							<div class="flex-col">
+							<div class="flex-col indicators">
 								<div class="flex pt-1 items-baseline">
-									<div class="w-6 h-6 bg-{{update_color}}">&nbsp;</div>
+									<div class="w-6 h-6 {{update_color}}">&nbsp;</div>
 									<p class="pl-2 mb-0 text-sm">Update Zyklus</p>
 								</div>
 								<div class="flex pt-1 items-baseline">
-									<div class="w-6 h-6 bg-{{license_color}}">&nbsp;</div>
+									<div class="w-6 h-6 {{license_color}}">&nbsp;</div>
 									<p class="pl-2 mb-0 text-sm">Lizenz</p>
 								</div>
 								<div class="flex pt-1 items-baseline">
-									<div class="w-6 h-6 bg-{{format_color}}">&nbsp;</div>
+									<div class="w-6 h-6 {{format_color}}">&nbsp;</div>
 									<p class="pl-2 mb-0 text-sm">Format</p>
 								</div>
 							</div>
@@ -62,9 +62,16 @@ layout: default
 						<div class="flex p-2 w-1/6 flex-col justify-center">{{entry.datasets | ceil}}</div>
 						<div class="flex p-2 w-1/6 flex-col justify-center">
 							{% if entry.datasets > 0 %}
-								{{entry.open_datasets | divided_by: entry.datasets | times: 100 | ceil}}
+                {% assign dataset_percentage= entry.open_datasets | divided_by: entry.datasets | times: 100 | ceil %}
+                {% assign chartClass = "red" %}
+                {% if dataset_percentage > 80 %}
+                  {% assign chartClass = "green" %}
+                {% elsif dataset_percentage > 50 %}
+                  {% assign chartClass = "yellow" %}
+                  {% endif %}
+                {% include donut.html amount=dataset_percentage chartClass=chartClass %}
 							{% else %}
-							0
+                {% include donut.html amount=0 %}
 							{% endif %}
 						</div>
 					</div>

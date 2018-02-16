@@ -13,7 +13,9 @@ p {
 	font-size: 12pt;
 	line-height: 16pt;
 }
-
+.donut {
+  height: 80px;
+}
 .detail {
 	background-color: #fefefe;
 }
@@ -48,4 +50,49 @@ table tr:even {
 }
 #ranking-header {
   font-weight: bold;
+}
+.chart-text {
+  fill: #000;
+  -moz-transform: translateY(0.25em);
+  -ms-transform: translateY(0.25em);
+  -webkit-transform: translateY(0.25em);
+  transform: translateY(0.25em);
+}
+
+.chart-number {
+  font-size: 0.6em;
+  line-height: 1;
+  text-anchor: middle;
+  -moz-transform: translateY(-0.25em);
+  -ms-transform: translateY(-0.25em);
+  -webkit-transform: translateY(-0.25em);
+  transform: translateY(-0.25em);
+}
+
+.chart-label {
+  font-size: 0.4em;
+  text-transform: uppercase;
+  text-anchor: middle;
+  -moz-transform: translateY(0.7em);
+  -ms-transform: translateY(0.7em);
+  -webkit-transform: translateY(0.7em);
+  transform: translateY(0.7em);
+}
+.donut .donut-segment.green {
+  stroke: #A0C769;
+}
+.donut .donut-segment.yellow {
+  stroke: #E2D925;
+}
+.donut .donut-segment.red {
+  stroke: #BB0551;
+}
+.indicators .green {
+  background-color: #A0C769;
+}
+.indicators .yellow {
+  background-color: #E2D925;
+}
+.indicators .red {
+  background-color: #BB0551;
 }
