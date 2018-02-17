@@ -8,7 +8,20 @@ p {
 .nav-item a, .nav-item a:visited {
 	color: #D8D8DA;
 }
-
+a.button {
+	color: #ffffff;
+	font-weight: 400;
+}
+a.button:hover {
+	margin-top: -1px;
+	margin-bottom: 1px;
+	box-shadow: 0 2px 4px 2px rgba(0,0,0,0.10);
+	text-decoration: none
+}
+.button-pop {
+	background-image: linear-gradient(to bottom, #4990e2, #4a73e3);
+	text-transform: uppercase;
+}
 .explanation {
 	font-size: 12pt;
 	line-height: 16pt;
@@ -96,3 +109,42 @@ table tr:even {
 .indicators .red {
   background-color: #BB0551;
 }
+.benefits ul {
+	list-style: none;
+}
+.benefits ul li div{
+	background-image: url(../images/noun_29430.svg);
+	-webkit-filter: hue-rotate(120deg) saturate(0.5);
+	filter: hue-rotate(120deg) saturate(0.5);
+	background-size: 15px 15px;
+	background-repeat: no-repeat;
+}
+.benefits .checkmark-{
+}
+.checkmark__circle {
+  stroke-dasharray: 166;
+  stroke-dashoffset: 166;
+  stroke-width: 2;
+  stroke-miterlimit: 10;
+  fill: none;
+}
+
+.checkmark {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  display: block;
+  stroke-width: 2;
+  stroke: #fff;
+  stroke-miterlimit: 10;
+  margin: 10% auto;
+  box-shadow: inset 0px 0px 0px green;
+}
+
+.checkmark__check {
+  transform-origin: 50% 50%;
+  stroke-dasharray: 48;
+  stroke-dashoffset: 48;
+}
+
+
