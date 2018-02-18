@@ -49,24 +49,17 @@ layout: default
   <div class="container content benefits">
 		<h3>Was bringt mir das Ranking?</h3>
     <div class="flex flex-wrap mt-4">
+      {% for vorteil in site.data.vorteile %}
       <div class="w-1/2">
-				<div class="flex items-center align-middle ranking-city">{% include landmark_svg.html %}</div>
-				<h4 class="pt-4 align-middle text-xl">Städte</h4>
+        <div class="flex items-center align-middle ranking-city">{% include {{vorteil.icon | append: '.svg.html'}} %}</div>
+        <h4 class="pt-4 align-middle text-xl">{{vorteil.title}}</h4>
 				<ul class="mt-4 pl-0">
-					{% for vorteil in site.data.vorteile.city %}
-						<li><div class="pb-4 pl-6">{{vorteil}}</div></li>
+					{% for item in vorteil.vorteile %}
+						<li><div class="pb-4 pl-6">{{item}}</div></li>
 					{% endfor %}
 				</ul>
 			</div>
-      <div class="w-1/2">
-				<div class="flex items-center align-middle ranking-city">{% include couples_svg.html %}</div>
-				<h4 class="pt-4 align-middle text-xl">Bürger</h4>
-				<ul class="mt-4 pl-0">
-					{% for vorteil in site.data.vorteile.citizen %}
-						<li><div class="pb-4 pl-6">{{vorteil}}</div></li>
-					{% endfor %}
-				</ul>
-			</div>
+      {% endfor %}
 		</div>
 	</div>
 </div>
@@ -75,30 +68,16 @@ layout: default
   <div class="container content">
 		<h3>Was soll mit dem Ranking erreicht werden?</h3>
     <div class="flex flex-wrap mt-4">
+      {% for goal in site.data.goals %}
 			<div class="w-1/2">
-				<div class="flex items-center align-middle ranking-city">{% include chart.svg.html %}</div>
-				<h4 class="pt-4 text-xl">Benchmark der Qualität</h4>
-				<div class="pt-4">
-					{% capture benchmark %}{% include benchmark.md %}{% endcapture %}
-					{{benchmark | markdownify }}
+        <div class="flex items-center align-middle ranking-city">{% include {{goal.icon}} %}</div>
+        <h4 class="pt-4 text-xl">{{goal.title}}</h4>
+				<div class="pt-4 pr-6">
+          {% capture text %}{% include {{goal.text}} %}{% endcapture %}
+					{{text| markdownify }}
 				</div>
 			</div>
-      <div class="w-1/2">
-				<div class="flex items-center align-middle ranking-city">{% include trophy.svg.html %}</div>
-				<h4 class="pt-4 text-xl">Fortschritt zeigen</h4>
-				<div class="pt-4">
-					{% capture benchmark %}{% include benchmark.md %}{% endcapture %}
-					{{benchmark | markdownify }}
-				</div>
-			</div>
-      <div class="w-1/2 mt-8">
-				<div class="flex items-center align-middle ranking-city">{% include microphone.svg.html %}</div>
-				<h4 class="pt-4 text-xl">Diskussionsanstoß</h4>
-				<div class="pt-4">
-					{% capture benchmark %}{% include benchmark.md %}{% endcapture %}
-					{{benchmark | markdownify }}
-				</div>
-			</div>
+      {% endfor %}
 		</div>
 	</div>
 </div>
@@ -106,12 +85,8 @@ layout: default
   <div class="container content">
 		<h3>Über das Projekt</h3>
 		<div class="mt-8">
-			<p>Das Projekt ist ein Vorhaben im Rahmen des Prototype Funds der OKF und des BMBF.</p>
-			<p>Es wurde in der zweiten Förderrunde ausgewählt und läuft vom 1.September 2017 - 28.Februar 2018.</p>
-
-			<p>Open Data Stadt Zensus soll den aktuellen von der Community betriebenen City Census ersetzen und erweitern. Der Fortschritt der Städte und Kommunen Deutschlands im Bereich Offenen Daten soll sichtbar werden und ein Benchmarking für Kommunen und Bürger ermöglichen.</p>
-
-			<p>Die aktuellen (englischen) Kategorien sollen in Zusammenarbeit mit den Open Data Kommunen Deutschlands überarbeitet werden und das govdata Portal als Metadatenportal genutzt werden, um den Mehraufwand für die Kommunen möglichst gering zu halten.</p>
+      {% capture text %}{% include projekt.md %}{% endcapture %}
+      {{text| markdownify }}
 		</div>
   </div>
 </div>

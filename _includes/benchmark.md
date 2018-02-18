@@ -1,3 +1,3 @@
-Viel text
+Wir wollen die __Qualität der Daten__ in deutschen Open Data Portalen zeigen und bewerten. Das Ranking basiert auf einem detaillierten Benchmarking jedes einzelnen Datensatzes.
 
-der als _marldown_ geschrieben ist.
+Das Ranking legt mehr Wert auf Qualität und weniger auf Quantität.
