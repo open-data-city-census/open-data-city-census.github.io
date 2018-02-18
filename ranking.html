@@ -17,11 +17,15 @@ layout: default
 					<div class="flex p-2">
 						<div class="flex flex-no-grow p-2 flex-col justify-center text-xl">{{entry.overall_rank | ceil }}</div>
 						<div class="flex w-1/5 p-2 align-middle flex-col justify-center text-xl">{{entry.name}}</div>
-						<div class="flex w-1-8 p-2 align-middle flex-col justify-center">
+						<div class="flex w-1-8 p-2 align-middle flex-col justify-center overlay-container" data-name="entry-{{entry.overall_rank}}">
 							<div class="">
 								{{entry.overall_rank_data | round: 2}}
 							</div>
 							<div class="">
+							</div>
+							<div id="entry-{{entry.overall_rank}}" class="overlay border shadow text-xs">
+								<b>Detailrang</b>
+								{% include detail_rang_table.html entry=entry %}
 							</div>
 						</div>
 						<div class="flex p-2 w-1/3">
@@ -47,15 +51,15 @@ layout: default
 							<div class="flex-col indicators">
 								<div class="flex pt-1 items-baseline">
 									<div class="w-6 h-6 {{update_color}}">&nbsp;</div>
-									<p class="pl-2 mb-0 text-sm">Update Zyklus</p>
+									<p class="detail-data pl-2 mb-0 text-sm">Update Zyklus <span class="text-grey-dark {% unless forloop.first %}hidden{% endunless %}">({{means.update_time_mean | round: 2 | replace: '.',',' }} von 1)<span></p>
 								</div>
 								<div class="flex pt-1 items-baseline">
 									<div class="w-6 h-6 {{license_color}}">&nbsp;</div>
-									<p class="pl-2 mb-0 text-sm">Lizenz</p>
+									<p class="detail-data pl-2 mb-0 text-sm">Lizenzen <span class="text-grey-dark {% unless forloop.first %}hidden{% endunless %}">({{means.license_mean | round: 2 | replace: '.',',' }} von 1)<span></p>
 								</div>
 								<div class="flex pt-1 items-baseline">
 									<div class="w-6 h-6 {{format_color}}">&nbsp;</div>
-									<p class="pl-2 mb-0 text-sm">Format</p>
+									<p class="detail-data pl-2 mb-0 text-sm">Formate <span class="text-grey-dark {% unless forloop.first %}hidden{% endunless %}">({{means.format_mean | round: 2 | replace: '.',',' }} von 1)<span></p>
 								</div>
 							</div>
 						</div>
