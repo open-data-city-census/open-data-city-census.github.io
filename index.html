@@ -41,20 +41,52 @@ layout: default
       </div>
     </div>
 			<div class="flex justify-center">
-				<a class="button m-auto bg-blue hover:bg-blue-dark text-white font-bold py-2 px-4 rounded text-2xl" href="/ranking.html">Zum Ranking</a>
+				<a class="button m-auto bg-blue button-pop shadow hover:bg-blue-dark text-white font-bold py-3 px-4 rounded text-2xl" href="/ranking.html">Zum Ranking</a>
 			</div>
   </div>
 </div>
 <div class="section section-alternate">
+  <div class="container content benefits">
+		<h3>Was bringt mir das Ranking?</h3>
+    <div class="flex flex-wrap mt-4">
+      {% for vorteil in site.data.vorteile %}
+      <div class="w-1/2">
+        <div class="flex items-center align-middle ranking-city">{% include {{vorteil.icon | append: '.svg.html'}} %}</div>
+        <h4 class="pt-4 align-middle text-xl">{{vorteil.title}}</h4>
+				<ul class="mt-4 pl-0">
+					{% for item in vorteil.vorteile %}
+						<li><div class="pb-4 pl-6">{{item}}</div></li>
+					{% endfor %}
+				</ul>
+			</div>
+      {% endfor %}
+		</div>
+	</div>
+</div>
+
+<div class="section section-alternate-2">
+  <div class="container content">
+		<h3>Was soll mit dem Ranking erreicht werden?</h3>
+    <div class="flex flex-wrap mt-4">
+      {% for goal in site.data.goals %}
+			<div class="w-1/2">
+        <div class="flex items-center align-middle ranking-city">{% include {{goal.icon}} %}</div>
+        <h4 class="pt-4 text-xl">{{goal.title}}</h4>
+				<div class="pt-4 pr-6">
+          {% capture text %}{% include {{goal.text}} %}{% endcapture %}
+					{{text| markdownify }}
+				</div>
+			</div>
+      {% endfor %}
+		</div>
+	</div>
+</div>
+<div class="section">
   <div class="container content">
 		<h3>Über das Projekt</h3>
 		<div class="mt-8">
-			<p>Das Projekt ist ein Vorhaben im Rahmen des Prototype Funds der OKF und des BMBF.</p>
-			<p>Es wurde in der zweiten Förderrunde ausgewählt und läuft vom 1.September2017 - 28.Februar 2018.</p>
-
-			<p>Open Data Stadt Zensus soll den aktuellen von der Community betriebenen City Census ersetzen und erweitern. Der Fortschritt der Städte und Kommunen Deutschlands im Bereich Offenen Daten soll sichtbar werden und ein Benchmarking für Kommunen und Bürger ermöglichen.</p>
-
-			<p>Die aktuellen (englischen) Kategorien sollen in Zusammenarbeit mit den Open Data Kommunen Deutschlands überarbeitet werden und das govdata Portal als Metadatenportal genutzt werden, um den Mehraufwand für die Kommunen möglichst gering zu halten.</p>
+      {% capture text %}{% include projekt.md %}{% endcapture %}
+      {{text| markdownify }}
 		</div>
   </div>
 </div>

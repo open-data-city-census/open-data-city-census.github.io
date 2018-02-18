@@ -1,0 +1,18 @@
+- id: city
+  title: "Städte"
+  icon: landmark
+  vorteile:
+    - "Transparenz zur Qualität der Daten"
+    - "Ranking ohne Mehraufwand"
+    - "Insights in die eigenen Daten"
+    - "Benchmarking"
+    - "Kommunikationsmittel an die Bürger und Politik"
+    - "Vergleich mit anderen Kommunen"
+- id: citizen
+  title: "Bürger"
+  icon: couples
+  vorteile:
+    - "Transparenz zur Qualität der Daten"
+    - "Kommunikationsmittel an die Politik"
+    - "Diskussionsansatz mit der Kommune"
+    - "Vergleich mit anderen Kommunen"

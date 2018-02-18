@@ -1,0 +1,16 @@
+- name: benchmark
+  title: "Benchmark der Qualität"
+  icon: chart.svg.html
+  text: benchmark.md
+- name: fortschritt
+  title: "Fortschritt zeigen"
+  icon: trophy.svg.html
+  text: fortschritt.md
+- name: mehraufwand
+  title: "Keinen Mehraufwand erzeugen"
+  icon: hourglass.svg.html
+  text: mehraufwand.md
+- name: diskussion
+  title: "Diskussionsanstoß"
+  icon: microphone.svg.html
+  text: diskussion.md
