@@ -147,6 +147,24 @@ table tr:even {
   stroke-dashoffset: 48;
 }
 
+.detail-data:hover span {
+	display: inline;
+}
+.overlay-container:hover .overlay {
+	display: block;
+}
+.overlay {
+	display: none;
+	position: absolute;
+	background: #fff;
+	border: 1px solid #ccc;
+	margin-top: 100px;
+	padding: 1rem;
+}
+.overlay table td{
+	padding: 0 5px 0 0;
+	margin: 0;
+}
 .page h2, .page h3, .page h4 {
   margin-top: 2rem;
 }
