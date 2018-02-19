@@ -1,31 +1,31 @@
 {% assign score=include.entry %}
-<table>
-	<tr>
-		<td> Datensatzqualität (40%)</td>
-		<td>{{score.dataset_score_rank_std | ceil}}.</td>
-	</tr>
-	<tr>
-		<td>Kategorien Verteilung (20%)</td>
-		<td>{{score.category_score_rank_std | ceil}}.</td>
-	</tr>
-	<tr>
-		<td>Varianz in Kategorien (15%)</td>
-		<td>{{score.category_variance_rank_std | ceil}}.</td>
-	</tr>
-	<tr>
-		<td>Anzahl Datensätze (10%)</td>
-		<td>{{score.dataset_rank_std| ceil}}.</td>
-	</tr>
-	<tr>
-		<td>Anzahl Formate (5%)</td>
-		<td>{{score.formats_rank_std| ceil}}.</td>
-	</tr>
-	<tr>
-		<td>Letzes Update Rank (5%)</td>
-		<td>{{score.last_update_rank_std | ceil}}.</td>
-	</tr>
-	<tr>
-		<td>Anzahl Kategorien (5%)</td>
-		<td>{{score.category_rank_std | ceil}}.</td>
-	</tr>
+<table class="mb-4">
+  <tr>
+    <td> Datensatzqualität (40%)</td>
+    <td>{{score.dataset_score_rank_std | ceil}}.</td>
+  </tr>
+  <tr>
+    <td>Kategorien Verteilung (20%)</td>
+    <td>{{score.category_score_rank_std | ceil}}.</td>
+  </tr>
+  <tr>
+    <td>Varianz in Kategorien (15%)</td>
+    <td>{{score.category_variance_rank_std | ceil}}.</td>
+  </tr>
+  <tr>
+    <td>Anzahl Datensätze (10%)</td>
+    <td>{{score.dataset_rank_std| ceil}}.</td>
+  </tr>
+  <tr>
+    <td>Anzahl Formate (5%)</td>
+    <td>{{score.formats_rank_std| ceil}}.</td>
+  </tr>
+  <tr>
+    <td>Letzes Update Rank (5%)</td>
+    <td>{{score.last_update_rank_std | ceil}}.</td>
+  </tr>
+  <tr>
+    <td>Anzahl Kategorien (5%)</td>
+    <td>{{score.category_rank_std | ceil}}.</td>
+  </tr>
 </table>
