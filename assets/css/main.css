@@ -147,4 +147,12 @@ table tr:even {
   stroke-dashoffset: 48;
 }
 
-
+.page h2, .page h3, .page h4 {
+  margin-top: 2rem;
+}
+.page h2 {
+  font-size: 1.5rem;
+}
+.page h3 {
+  font-size: 1.25rem;
+}
