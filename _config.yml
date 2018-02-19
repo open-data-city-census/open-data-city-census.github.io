@@ -15,3 +15,5 @@ plugins:
 
 remote_theme: citycensus/city-census-theme
 exclude: ['node_modules', 'config']
+kramdown:
+  hard_wrap: true

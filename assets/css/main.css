@@ -165,3 +165,12 @@ table tr:even {
 	padding: 0 5px 0 0;
 	margin: 0;
 }
+.page h2, .page h3, .page h4 {
+  margin-top: 2rem;
+}
+.page h2 {
+  font-size: 1.5rem;
+}
+.page h3 {
+  font-size: 1.25rem;
+}
