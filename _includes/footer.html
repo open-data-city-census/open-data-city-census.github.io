@@ -1,0 +1,26 @@
+<div id="footer">
+  <div class="container content flex">
+    <div class="w-1/3">
+			{% for item in site.data.nav %}
+			<div class="mt-2">
+				<a href="{{site.baseurl}}{{item.url}}" class="">{{item.title}}</a>
+			</div>
+			{% endfor %}
+		</div>
+    <div class="w-1/3">
+			{% for item in site.data.footer %}
+			<div class="mt-2">
+				<a href="{{site.baseurl}}{{item.url}}" class="">{{item.title}}</a>
+			</div>
+			{% endfor %}
+		</div>
+    <div class="w-1/3 flex">
+			<div class="mt-2 w-1/2">
+        <img src="{{site.baseUrl}}/assets/images/PrototypeFund-P-Logo.png"  class="w-1/2"/>
+      </div>
+			<div class="mt-2 w-1/2">
+        <img src="{{site.baseUrl}}/assets/images/logo-bmbf.svg" />
+      </div>
+		</div>
+  </div>
+</div>

@@ -174,3 +174,6 @@ table tr:even {
 .page h3 {
   font-size: 1.25rem;
 }
+#footer {
+  background: #E7E3DB;
+}
