@@ -19,7 +19,7 @@ layout: default
 						<div class="flex w-1/5 p-2 align-middle flex-col justify-center text-xl">{{entry.name}}</div>
 						<div class="flex w-1-8 p-2 align-middle flex-col justify-center overlay-container" data-name="entry-{{entry.overall_rank}}">
 							<div class="">
-								{{entry.overall_rank_data | round: 2}}
+								{{100 | minus: entry.overall_rank_data | round: 2 }}
 							</div>
 							<div class="">
 							</div>
