@@ -1,0 +1,4 @@
+---
+city: neuwied
+layout: city
+---

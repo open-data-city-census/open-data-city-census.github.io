@@ -1,0 +1,5 @@
+{% assign datasets = site.data.city_stats[page.city] %}
+{% for dataset in datasets %}
+{{dataset.id}}
+{% include quality.html update_time=dataset.update_time license=dataset.license format=dataset.format %}
+{% endfor %}

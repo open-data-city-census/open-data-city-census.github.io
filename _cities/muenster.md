@@ -1,0 +1,4 @@
+---
+city: muenster
+layout: city
+---

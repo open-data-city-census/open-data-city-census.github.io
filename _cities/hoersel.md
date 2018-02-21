@@ -1,0 +1,4 @@
+---
+city: hoersel
+layout: city
+---

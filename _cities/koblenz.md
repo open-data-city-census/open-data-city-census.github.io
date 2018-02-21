@@ -1,0 +1,4 @@
+---
+city: koblenz
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: dresden
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: verbandsgemeindekonz
+layout: city
+---

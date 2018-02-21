@@ -1,0 +1,4 @@
+---
+city: dueren
+layout: city
+---

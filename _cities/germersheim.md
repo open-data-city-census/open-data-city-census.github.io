@@ -1,0 +1,4 @@
+---
+city: germersheim
+layout: city
+---

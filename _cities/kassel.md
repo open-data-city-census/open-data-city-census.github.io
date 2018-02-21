@@ -1,0 +1,4 @@
+---
+city: kassel
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: hiddenhausen
+layout: city
+---

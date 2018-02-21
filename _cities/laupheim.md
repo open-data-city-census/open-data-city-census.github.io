@@ -1,0 +1,4 @@
+---
+city: laupheim
+layout: city
+---

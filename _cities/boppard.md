@@ -1,0 +1,4 @@
+---
+city: boppard
+layout: city
+---

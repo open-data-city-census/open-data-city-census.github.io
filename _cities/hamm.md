@@ -1,0 +1,4 @@
+---
+city: hamm
+layout: city
+---

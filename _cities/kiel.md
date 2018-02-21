@@ -1,0 +1,4 @@
+---
+city: kiel
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: verbandsgemeindelandstuhl
+layout: city
+---

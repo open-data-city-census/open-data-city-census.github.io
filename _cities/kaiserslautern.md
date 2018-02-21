@@ -1,0 +1,4 @@
+---
+city: kaiserslautern
+layout: city
+---

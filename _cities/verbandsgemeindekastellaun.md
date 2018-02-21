@@ -1,0 +1,4 @@
+---
+city: verbandsgemeindekastellaun
+layout: city
+---

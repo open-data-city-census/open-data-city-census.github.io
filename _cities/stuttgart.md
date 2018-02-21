@@ -1,0 +1,4 @@
+---
+city: stuttgart
+layout: city
+---

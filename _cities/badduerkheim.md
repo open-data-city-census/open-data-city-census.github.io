@@ -1,0 +1,4 @@
+---
+city: badduerkheim
+layout: city
+---

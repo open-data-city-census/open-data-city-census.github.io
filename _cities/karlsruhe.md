@@ -1,0 +1,4 @@
+---
+city: karlsruhe
+layout: city
+---

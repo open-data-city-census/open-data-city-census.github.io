@@ -1,0 +1,4 @@
+---
+city: verbandsgemeindegerolstein
+layout: city
+---

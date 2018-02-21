@@ -1,0 +1,4 @@
+---
+city: koeln
+layout: city
+---

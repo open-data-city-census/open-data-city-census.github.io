@@ -1,0 +1,4 @@
+---
+city: berlin
+layout: city
+---

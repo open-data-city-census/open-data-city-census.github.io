@@ -1,0 +1,4 @@
+---
+city: saarbruecken
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: zwickau
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: speyer
+layout: city
+---

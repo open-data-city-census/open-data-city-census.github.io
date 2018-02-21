@@ -1,0 +1,4 @@
+---
+city: rostock
+layout: city
+---

@@ -1,0 +1,12 @@
+---
+layout: page
+---
+<div class="container content">
+  {% assign city_id = page.city %}
+  {% assign cities = site.data.odd_rank | where: "id",city_id %}
+  {% for city in cities limit: 1 %}
+    <h1>{{city.name}}</h1>
+  {% endfor %}
+  {{content}}
+  {% include dataset_details.html %}
+</div>

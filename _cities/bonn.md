@@ -1,0 +1,4 @@
+---
+city: bonn
+layout: city
+---

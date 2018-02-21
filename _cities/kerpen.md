@@ -1,0 +1,4 @@
+---
+city: kerpen
+layout: city
+---

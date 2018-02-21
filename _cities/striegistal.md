@@ -1,0 +1,4 @@
+---
+city: striegistal
+layout: city
+---

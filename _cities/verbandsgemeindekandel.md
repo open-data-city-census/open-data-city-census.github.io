@@ -1,0 +1,4 @@
+---
+city: verbandsgemeindekandel
+layout: city
+---
