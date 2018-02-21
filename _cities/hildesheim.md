@@ -1,0 +1,4 @@
+---
+city: hildesheim
+layout: city
+---

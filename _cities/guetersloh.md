@@ -1,0 +1,4 @@
+---
+city: guetersloh
+layout: city
+---

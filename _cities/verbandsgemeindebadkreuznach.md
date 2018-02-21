@@ -1,0 +1,4 @@
+---
+city: verbandsgemeindebadkreuznach
+layout: city
+---

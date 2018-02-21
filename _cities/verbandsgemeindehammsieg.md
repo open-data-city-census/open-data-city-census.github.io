@@ -1,0 +1,4 @@
+---
+city: verbandsgemeindehammsieg
+layout: city
+---

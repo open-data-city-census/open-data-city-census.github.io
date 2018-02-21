@@ -1,0 +1,4 @@
+---
+city: wiesbaden
+layout: city
+---

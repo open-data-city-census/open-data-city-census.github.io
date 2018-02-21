@@ -1,0 +1,4 @@
+---
+city: verbandsgemeindeedenkoben
+layout: city
+---

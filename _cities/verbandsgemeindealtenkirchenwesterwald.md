@@ -1,0 +1,4 @@
+---
+city: verbandsgemeindealtenkirchenwesterwald
+layout: city
+---

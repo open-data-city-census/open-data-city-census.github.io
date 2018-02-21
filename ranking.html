@@ -9,14 +9,16 @@ layout: default
 					<div class="flex w-1-8 pl-2 flex-col justify-center">Punktzahl</div>
 					<div class="flex w-1/3 pl-2 flex-col justify-center">Datenqualität</div>
 					<div class="flex w-1/6 pl-2 flex-col justify-center">Datensätze</div>
-					<div class="flex w-1/6 pl-2 flex-col justify-center">% Datensätze mit offener Lizenz</div>
+					<div class="flex w-1/6 pl-2 flex-col justify-center">Datensätze mit offener Lizenz</div>
 			</div>
 			<div class="" id="ranking-body">
 				{% assign ranks = site.data.odd_rank | sort: 'overall_rank' %}
 				{% for entry in ranks %}
 					<div class="flex p-2">
 						<div class="flex flex-no-grow p-2 flex-col justify-center text-xl">{{entry.overall_rank | ceil }}</div>
-						<div class="flex w-1/5 p-2 align-middle flex-col justify-center text-xl">{{entry.name}}</div>
+						<div class="flex w-1/5 p-2 align-middle flex-col justify-center text-xl">
+							<a href="{{site.baseUrl}}/cities/{{entry.id}}.html">{{entry.name}}</a>
+						</div>
 						<div class="flex w-1-8 p-2 align-middle flex-col justify-center overlay-container" data-name="entry-{{entry.overall_rank}}">
 							<div class="">
 								{{100 | minus: entry.overall_rank_data | round: 2 }}
@@ -26,58 +28,24 @@ layout: default
 							<div id="entry-{{entry.overall_rank}}" class="overlay border shadow text-xs">
 								<b>Detailrang</b>
 								{% include detail_rang_table.html entry=entry %}
+								<a class="button bg-blue py-2 px-2 rounded text-lg" href="{{site.baseUrl}}/cities/{{entry.id}}.html">mehr Details</a>
                 <a class="button bg-blue py-2 px-2 rounded text-lg" href="{{site.baseUrl}}/punkte.html">mehr zum Punktesystem</a>
 							</div>
 						</div>
 						<div class="flex p-2 w-1/3">
 							{% assign means = site.data.city_stats.datasets[entry.id] %}
-							{% assign update_color = "red" %}
-							{% assign license_color = "red" %}
-							{% assign format_color = "red" %}
-							{% if means.update_time_mean <= 0.6 and means.update_time_mean > 0.3 %}
-								{% assign update_color = "yellow" %}
-							{% elsif means.update_time_mean > 0.6 %}
-								{% assign update_color = "green" %}
-					 		{% endif %}
-							{% if means.license_mean <= 0.6 and means.license_mean > 0.3 %}
-								{% assign license_color = "yellow" %}
-							{% elsif means.license_mean > 0.6 %}
-								{% assign license_color = "green" %}
-					 		{% endif %}
-							{% if means.format_mean <= 0.6 and means.format_mean > 0.3 %}
-								{% assign format_color = "yellow" %}
-							{% elsif means.format_mean > 0.6 %}
-								{% assign format_color = "green" %}
-					 		{% endif %}
-							<div class="flex-col indicators">
-								<div class="flex pt-1 items-baseline">
-									<div class="w-6 h-6 {{update_color}}">&nbsp;</div>
-									<p class="detail-data pl-2 mb-0 text-sm">Update Zyklus <span class="text-grey-dark {% unless forloop.first %}hidden{% endunless %}">({{means.update_time_mean | round: 2 | replace: '.',',' }} von 1)<span></p>
-								</div>
-								<div class="flex pt-1 items-baseline">
-									<div class="w-6 h-6 {{license_color}}">&nbsp;</div>
-									<p class="detail-data pl-2 mb-0 text-sm">Lizenzen <span class="text-grey-dark {% unless forloop.first %}hidden{% endunless %}">({{means.license_mean | round: 2 | replace: '.',',' }} von 1)<span></p>
-								</div>
-								<div class="flex pt-1 items-baseline">
-									<div class="w-6 h-6 {{format_color}}">&nbsp;</div>
-									<p class="detail-data pl-2 mb-0 text-sm">Formate <span class="text-grey-dark {% unless forloop.first %}hidden{% endunless %}">({{means.format_mean | round: 2 | replace: '.',',' }} von 1)<span></p>
-								</div>
-							</div>
+              {% assign classes = "hidden" %}
+              {% if forloop.first %}
+                {% assign classes = "" %}
+              {% endif %}
+              {% assign update_text = means.update_time_mean | round: 2 | replace: '.',',' | append: " von 1" %}
+              {% assign format_text = means.format_mean | round: 2 | replace: '.',',' | append: " von 1" %}
+              {% assign license_text = means.license_mean | round: 2 | replace: '.',',' | append: " von 1" %}
+              {% include quality.html update_time=means.update_time_mean update_text=update_text license=means.license_mean license_text=license_text format=means.format_mean format_text=format_text classes=classes %}
 						</div>
 						<div class="flex p-2 w-1/6 flex-col justify-center">{{entry.datasets | ceil}}</div>
 						<div class="flex p-2 w-1/6 flex-col justify-center">
-							{% if entry.datasets > 0 %}
-                {% assign dataset_percentage= entry.open_datasets | divided_by: entry.datasets | times: 100 | ceil %}
-                {% assign chartClass = "red" %}
-                {% if dataset_percentage > 80 %}
-                  {% assign chartClass = "green" %}
-                {% elsif dataset_percentage > 50 %}
-                  {% assign chartClass = "yellow" %}
-                  {% endif %}
-                {% include donut.html amount=dataset_percentage chartClass=chartClass %}
-							{% else %}
-                {% include donut.html amount=0 %}
-							{% endif %}
+							{% include donot_helper.html item=entry.datasets byItem=entry.open_datasets %}
 						</div>
 					</div>
 				{% endfor %}

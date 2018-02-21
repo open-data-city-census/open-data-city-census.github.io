@@ -1,0 +1,4 @@
+---
+city: seesen
+layout: city
+---

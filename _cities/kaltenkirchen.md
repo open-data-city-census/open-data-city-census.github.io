@@ -1,0 +1,4 @@
+---
+city: kaltenkirchen
+layout: city
+---

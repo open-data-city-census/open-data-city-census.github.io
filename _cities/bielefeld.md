@@ -1,0 +1,4 @@
+---
+city: bielefeld
+layout: city
+---

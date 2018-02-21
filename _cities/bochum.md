@@ -1,0 +1,4 @@
+---
+city: bochum
+layout: city
+---

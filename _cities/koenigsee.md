@@ -1,0 +1,4 @@
+---
+city: koenigsee
+layout: city
+---

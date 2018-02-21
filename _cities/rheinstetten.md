@@ -1,0 +1,4 @@
+---
+city: rheinstetten
+layout: city
+---

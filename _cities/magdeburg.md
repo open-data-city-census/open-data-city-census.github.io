@@ -1,0 +1,4 @@
+---
+city: magdeburg
+layout: city
+---

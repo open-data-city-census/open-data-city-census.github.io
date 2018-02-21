@@ -1,0 +1,4 @@
+---
+city: spalt
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: nuernberg
+layout: city
+---

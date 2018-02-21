@@ -1,0 +1,54 @@
+update_time,license,format,overall,groups,id
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",stadt-koblenz-digitale-denkmalliste-ebene-koblenz-einzeldenkmaler-punkte1
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",stadt-koblenz-digitale-denkmalliste-ebene-koblenz-einzeldenkmaler-linien1
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",stadt-koblenz-digitale-denkmalliste-ebene-koblenz-einzeldenkmaeler-flachen1
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",stadt-koblenz-digitale-denkmalliste-ebene-koblenz-denkmalzonen-grunflachen1
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",stadt-koblenz-digitale-denkmalliste-ebene-koblenz-bauliche-gesamtanlagen1
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",stadt-koblenz-digitale-denkmalliste-ebene-koblenz-denkmalzonen1
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",stadt-koblenz-digitale-denkmalliste-ebene-stadt-koblenz-digitale-denkmalliste1
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-ackerzahl-ebene-lgb-bfd5-l-ackerzahl1
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-entstehung-ebene-lgb-bfd5-l-entstehung1
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-k-faktor-ebene-lgb-bfd5-l-k-faktor1
+0,0,0,0,"Geographie, Geologie und Geobasisdaten",lgb-bfd5-l-feldkapazitat-ebene-feldkapazitat-1-2-000-bis-50-0001
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-nutzbare-feldkapazitat-ebene-lgb-bfd5-l-nutzbare-feldkapazitat1
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-ertragspotential-ebene-lgb-bfd5-l-ertragspotential1
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-ertragspotential-ebene-ertragspotential-1-2-000-bis-50-0001
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-bodenart-ebene-lgb-bfd5-l-bodenart1
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-k-faktor-ebene-k-faktor-1-2-000-bis-50-0001
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-bodenart-ebene-bodenart-1-2-000-bis-50-0001
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-nutzbare-feldkapazitat-ebene-nutzbare-feldkapazitat-1-2-000-bis-50-0001
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-entstehung-ebene-entstehung-1-2-000-bis-50-0001
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-wurzelraum-ebene-lgb-bfd5-l-wurzelraum1
+0,0,0,0,"Geographie, Geologie und Geobasisdaten",lgb-bfd5-l-feldkapazitat-ebene-lgb-bfd5-l-feldkapazitat1
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-wurzelraum-ebene-durchwurzelbarer-bodenraum-1-2-000-bis-50-0001
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-ackerzahl-ebene-ackerzahl-1-2-000-bis-50-0001
+0,1,0,1,Wirtschaft und Arbeit,datenkompass-wirtschaft-kreisfreie-stadt-koblenz
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",datenkompass-tourismus-kreisfreie-stadt-koblenz
+0,1,0,1,"Gesundheit,Soziales",datenkompass-soziales-und-gesundheit-kreisfreie-stadt-koblenz
+0,1,0,1,Wirtschaft und Arbeit,datenkompass-wirtschaftliche-entwicklungspotenziale-kreisfreie-stadt-koblenz
+0,1,0,1,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",stadt-koblenz-digitale-denkmalliste-ebene-koblenz-bauliche-gesamtanlagen
+0,1,0,1,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",stadt-koblenz-digitale-denkmalliste-ebene-koblenz-einzeldenkmaeler-flachen
+0,1,0,1,Bildung und Wissenschaft,datenkompass-erziehung-und-bildung-kreisfreie-stadt-koblenz
+0,1,0,1,Bevölkerung,datenkompass-bevolkerung-und-gebiet-haushalte-und-familien-kreisfreie-stadt-koblenz
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-nutzbare-feldkapazitat-ebene-nutzbare-feldkapazitat-1-2-000-bis-50-000
+0,0,0,0,"Geographie, Geologie und Geobasisdaten",lgb-bfd5-l-feldkapazitat-ebene-feldkapazitat-1-2-000-bis-50-000
+0,1,0,1,Wirtschaft und Arbeit,datenkompass-arbeitsmarkt-erwerbstatigkeit-kreisfreie-stadt-koblenz
+0,1,0,1,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",stadt-koblenz-digitale-denkmalliste-ebene-koblenz-denkmalzonen-grunflachen
+0,1,0,1,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",stadt-koblenz-digitale-denkmalliste-ebene-koblenz-denkmalzonen
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-bodenart-ebene-lgb-bfd5-l-bodenart
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-ertragspotential-ebene-lgb-bfd5-l-ertragspotential
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-ackerzahl-ebene-ackerzahl-1-2-000-bis-50-000
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-entstehung-ebene-lgb-bfd5-l-entstehung
+0,0,0,0,"Geographie, Geologie und Geobasisdaten",lgb-bfd5-l-feldkapazitat-ebene-lgb-bfd5-l-feldkapazitat
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-k-faktor-ebene-k-faktor-1-2-000-bis-50-000
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-ackerzahl-ebene-lgb-bfd5-l-ackerzahl
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",stadt-koblenz-digitale-denkmalliste-ebene-stadt-koblenz-digitale-denkmalliste
+0,1,0,1,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",stadt-koblenz-digitale-denkmalliste-ebene-koblenz-einzeldenkmaler-linien
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-wurzelraum-ebene-durchwurzelbarer-bodenraum-1-2-000-bis-50-000
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-bodenart-ebene-bodenart-1-2-000-bis-50-000
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",stadt-koblenz-digitale-denkmalliste-ebene-koblenz-einzeldenkmaler-punkte
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-k-faktor-ebene-lgb-bfd5-l-k-faktor
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-entstehung-ebene-entstehung-1-2-000-bis-50-000
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-nutzbare-feldkapazitat-ebene-lgb-bfd5-l-nutzbare-feldkapazitat
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-wurzelraum-ebene-lgb-bfd5-l-wurzelraum
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Umwelt und Klima,Wirtschaft und Arbeit",lgb-bfd5-l-ertragspotential-ebene-ertragspotential-1-2-000-bis-50-000

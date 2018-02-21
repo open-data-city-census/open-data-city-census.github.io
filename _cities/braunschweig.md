@@ -1,0 +1,4 @@
+---
+city: braunschweig
+layout: city
+---

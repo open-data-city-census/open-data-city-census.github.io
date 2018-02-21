@@ -1,0 +1,4 @@
+---
+city: verbandsgemeindevallendar
+layout: city
+---

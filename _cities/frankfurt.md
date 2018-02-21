@@ -1,0 +1,4 @@
+---
+city: frankfurt
+layout: city
+---

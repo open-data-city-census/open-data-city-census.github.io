@@ -1,0 +1,4 @@
+---
+city: esslingen
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: chemnitz
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: haimhausen
+layout: city
+---

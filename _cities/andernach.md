@@ -1,0 +1,4 @@
+---
+city: andernach
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: paderborn
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: hassloch
+layout: city
+---

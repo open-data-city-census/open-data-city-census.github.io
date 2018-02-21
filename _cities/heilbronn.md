@@ -1,0 +1,4 @@
+---
+city: heilbronn
+layout: city
+---

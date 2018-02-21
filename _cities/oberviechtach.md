@@ -1,0 +1,4 @@
+---
+city: oberviechtach
+layout: city
+---

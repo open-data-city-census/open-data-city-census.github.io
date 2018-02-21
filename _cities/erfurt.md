@@ -1,0 +1,4 @@
+---
+city: erfurt
+layout: city
+---

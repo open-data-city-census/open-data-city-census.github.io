@@ -1,0 +1,4 @@
+---
+city: verbandsgemeindebirkenfeld
+layout: city
+---

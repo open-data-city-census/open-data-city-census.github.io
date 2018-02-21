@@ -1,0 +1,4 @@
+---
+city: augsburg
+layout: city
+---

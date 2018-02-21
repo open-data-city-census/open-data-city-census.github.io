@@ -1,0 +1,4 @@
+---
+city: aachen
+layout: city
+---

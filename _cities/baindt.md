@@ -1,0 +1,4 @@
+---
+city: baindt
+layout: city
+---

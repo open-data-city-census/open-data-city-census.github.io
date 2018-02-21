@@ -1,0 +1,4 @@
+---
+city: hamburg
+layout: city
+---
