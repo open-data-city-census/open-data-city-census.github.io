@@ -1,5 +1,11 @@
 {% assign datasets = site.data.city_stats[page.city] %}
-{% for dataset in datasets %}
-{{dataset.id}}
-{% include quality.html update_time=dataset.update_time license=dataset.license format=dataset.format %}
-{% endfor %}
+<div class="w-full">
+	<div class="inline-flex flex-wrap">
+		{% for dataset in datasets %}
+			<div class="dataset mb-8 w-1/3">
+				<h4>{{dataset.id}}</h4>
+				{% include quality.html update_time=dataset.update_time license=dataset.license format=dataset.format lower=0.4 upper=0.6 %}
+			</div>
+		{% endfor %}
+	</div>
+</div>

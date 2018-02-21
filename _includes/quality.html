@@ -1,4 +1,4 @@
-{% assign udpate_time = include.update_time | times: 1 %}
+{% assign update_time = include.update_time | times: 1 %}
 {% assign license = include.license |times: 1 %}
 {% assign format = include.format |times: 1 %}
 {% assign update_text = include.update_text %}
@@ -35,3 +35,4 @@
     <div class="w-6 h-6 {{format_color}}">&nbsp;</div>
     <p class="detail-data pl-2 mb-0 text-sm">Formate <span class="text-grey-dark {{include.classes}}">{{format_text}}<span></p>
   </div>
+</div>

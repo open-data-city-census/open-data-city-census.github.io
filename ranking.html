@@ -42,7 +42,6 @@ layout: default
               {% assign format_text = means.format_mean | round: 2 | replace: '.',',' | append: " von 1" %}
               {% assign license_text = means.license_mean | round: 2 | replace: '.',',' | append: " von 1" %}
               {% include quality.html update_time=means.update_time_mean update_text=update_text license=means.license_mean license_text=license_text format=means.format_mean format_text=format_text classes=classes %}
-							</div>
 						</div>
 						<div class="flex p-2 w-1/6 flex-col justify-center">{{entry.datasets | ceil}}</div>
 						<div class="flex p-2 w-1/6 flex-col justify-center">

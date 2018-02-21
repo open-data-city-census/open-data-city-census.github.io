@@ -1,0 +1,123 @@
+update_time,license,format,overall,groups,id
+0,1,1,2,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",wertstoffhofe
+0,1,1,2,,vornamen-von-neugeborenen-2015
+0,1,1,2,,vornamen-von-neugeborenen-20141
+0,1,1,2,,vornamen-von-neugeborenen-20131
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",verwaltungseinheiten-der-landeshauptstadt-munchen
+0,1,1,2,,toilettenkabinen-an-der-isar
+0,1,1,2,,privathaushalte-in-den-stadtbezirken
+0,1,1,2,"Geographie, Geologie und Geobasisdaten,Kultur, Freizeit, Sport, Tourismus",points-of-interest-an-der-sudlichen-isar
+0,1,1,2,"Geographie, Geologie und Geobasisdaten,Transport und Verkehr",parkhauser-munchen
+0,1,1,2,"Kultur, Freizeit, Sport, Tourismus,Wirtschaft und Arbeit",oktoberfest
+0,1,1,2,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",offentliche-toiletten-der-landeshauptstadt-munchen
+0,1,1,2,"Geographie, Geologie und Geobasisdaten,Kultur, Freizeit, Sport, Tourismus",offentliche-spielplatze-munchen
+0,1,1,2,"Geographie, Geologie und Geobasisdaten,Kultur, Freizeit, Sport, Tourismus",m-wlan-hotspots
+0,1,1,2,"Geographie, Geologie und Geobasisdaten,Kultur, Freizeit, Sport, Tourismus",mullsammelbehalter-an-der-isar
+0,1,1,2,Umwelt und Klima,monatszahlen-witterung
+0,1,1,2,Wirtschaft und Arbeit,monatszahlen-wirtschaft
+0,1,1,2,Transport und Verkehr,monatszahlen-verkehrsunfalle
+0,1,1,2,"Kultur, Freizeit, Sport, Tourismus",monatszahlen-tourismus
+0,1,1,2,"Kultur, Freizeit, Sport, Tourismus",monatszahlen-theater
+0,1,1,2,Soziales,monatszahlen-soziale-leistungen
+0.5,1,1,2.5,"Kultur, Freizeit, Sport, Tourismus",monatszahlen-orchester
+0,1,1,2,"Kultur, Freizeit, Sport, Tourismus",monatszahlen-museen
+0,1,1,2,"Kultur, Freizeit, Sport, Tourismus",monatszahlen-kinos
+0,1,1,2,Transport und Verkehr,monatszahlen-kfz-neuzulassungen
+0,1,1,2,Transport und Verkehr,monatszahlen-kfz-bestand
+0,1,1,2,Wirtschaft und Arbeit,monatszahlen-gewerbe
+0,1,1,2,"Kultur, Freizeit, Sport, Tourismus",monatszahlen-freizeit
+0,1,1,2,Transport und Verkehr,monatszahlen-flugverkehr
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",monatszahlen-feuerwehr-munchen
+0,1,1,2,,monatszahlen-einburgerungen
+0,1,1,2,Bevölkerung,monatszahlen-bevolkerung
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",monatszahlen-bauen
+0,1,1,2,Wirtschaft und Arbeit,monatszahlen-arbeitsmarkt
+0,1,1,2,"Geographie, Geologie und Geobasisdaten,Transport und Verkehr,Wirtschaft und Arbeit",markte-in-munchen
+0,1,1,2,Politik und Wahlen,indikatorenatlas-wahlen-wahlbeteiligung
+0,1,1,2,Transport und Verkehr,indikatorenatlas-verkehr-pkw-neuzulassungsanteil
+0,1,1,2,Transport und Verkehr,indikatorenatlas-verkehr-personenwagendichte
+0,1,1,2,Transport und Verkehr,indikatorenatlas-verkehr-motorisierungsgrad
+0,1,1,2,Soziales,indikatorenatlas-kinderbetreuung-trager-der-einrichtung
+0,1,1,2,Soziales,indikatorenatlas-kinderbetreuung-familiensprache-nicht-deutsch
+0,1,1,2,Soziales,indikatorenatlas-kinderbetreuung-betreuungsangebot
+0,1,1,2,Soziales,indikatorenatlas-kinderbetreuung-altersgruppen
+0,1,1,2,Bildung und Wissenschaft,indikatorenatlas-grundschuler-innen-nationalitat
+0,1,1,2,Bildung und Wissenschaft,indikatorenatlas-grundschuler-innen-familiensprache-nicht-deutsch
+0,1,1,2,,indikatorenatlas-gesundheit-zahnarztedichte
+0,1,1,2,,indikatorenatlas-gesundheit-psychologische-psychotherapeuten
+0,1,1,2,,indikatorenatlas-gesundheit-apotheken
+0,1,1,2,Gesundheit,indikatorenatlas-gesundheit-arztedichte
+0,1,1,2,,indikatorenatlas-bevolkerung-alleinerziehende-haushalte
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-zusammengefasste-geburtenrate
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-uberalterungsquotient
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-rohe-sterberate
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-rohe-geburtenrate
+0,1,1,2,,indikatorenatlas-bevolkerung-religionszugehorigkeit
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-optionskinderquote
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-naturlicher-saldo-auf-1000-einwohner-innen
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-mutter-uber-35-jahre
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-mobilitatsziffer
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-mittlere-lebenserwartung
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-migrationshintergrundquote-kinder
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-migrationshintergrundquote
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-jugendquotient
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-innerraumliche-umzugsziffer
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-hochbetagte
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-haushalte-nach-nationengruppe
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-haushalte-mit-kindern
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-gesamtwanderungsziffer
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-gesamtwanderungssaldo-kinder
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-frauenanteil-hochbetagte
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-frauenanteil
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-einwohnerdichte
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-einpersonenhaushalte
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-eingeburgertenquote
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-durchschnittsalter-erstgebarender-mutter
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-durchschnittsalter-der-mutter
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-durchschnittliche-wohndauer-munchen
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-durchschnittliche-wohndauer-aktuelle-adresse
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-durchschnittliches-sterbealter
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-binnenwanderungsziffer
+0,1,1,2,,indikatorenatlas-bevolkerung-bevolkerungsanteile-der-stadtbezirke
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-aussenwanderungsziffer-kinder-unter-14-jahre
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-aussenwanderungsziffer-gesamt
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-aussenwanderungsziffer-deutsche
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-aussenwanderungsziffer-auslander-innen
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-aussenwanderungsziffer-65-jahre-und-alter
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-aussenwanderungsvolumen
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-auslander-innenanteil
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-altersgruppen
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-altersdurchschnitt
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-altenquotient
+0,1,1,2,Bevölkerung,indikatorenatlas-bevolkerung-allgemeine-geburtenrate
+0,1,1,2,Wirtschaft und Arbeit,indikatorenatlas-arbeitsmarkt-sozialversicherungspflichtig-beschaftigtendichte
+0,1,1,2,Wirtschaft und Arbeit,indikatorenatlas-arbeitsmarkt-sozialversicherungspflichtig-beschaftigte
+0,1,1,2,Wirtschaft und Arbeit,indikatorenatlas-arbeitsmarkt-sozialgeld-empfangerdichte
+0,1,1,2,Wirtschaft und Arbeit,indikatorenatlas-arbeitsmarkt-leistungsempfanger-nach-sgb-ii
+0,1,1,2,Wirtschaft und Arbeit,indikatorenatlas-arbeitsmarkt-erwerbsfahigenquote
+0,1,1,2,Wirtschaft und Arbeit,indikatorenatlas-arbeitsmarkt-arbeitslosendichte
+0,1,1,2,Wirtschaft und Arbeit,indikatorenatlas-arbeitsmarkt-arbeitslose
+0,1,1,2,Wirtschaft und Arbeit,indikatorenatlas-arbeitsmarkt-alg-ii-empfangerdichte
+0,1,1,2,Wirtschaft und Arbeit,indikatorenatlas-arbeitsmarkt-alg-ii-empfanger
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",ergebnishaushalt-der-landeshauptstadt-munchen
+0,1,1,2,Politik und Wahlen,bundestagswahlen-2013
+0,1,1,2,,bevolkerung-in-den-stadtbezirken
+0,1,1,2,Bevölkerung,die-bevolkerung-seit-1900
+0,1,1,2,"Geographie, Geologie und Geobasisdaten,Transport und Verkehr",behindertenparkplatze
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",amtlicher-stadtplan-munchen
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",aktuelle-luftbilder-der-landeshauptstadt-munchen-60-cm-bodenauflosung
+0,0,0,0,Politik und Wahlen,5b70754c-2cfd-413d-924f-45b9d27df9a0
+0,0,0,0,Politik und Wahlen,f6a5699f-e37a-4cec-bf33-7c3b791c2571
+0,0,0,0,Politik und Wahlen,bce75919-d373-4b16-9d71-b9caf52edb66
+0,0,0,0,Politik und Wahlen,11f541b6-4e66-4709-9952-c3fcd3bb8427
+0,0,0,0,Politik und Wahlen,dfabf94b-a8e3-4363-9729-e72bfebd92cf
+0,0,0,0,Politik und Wahlen,2770307a-823c-4f4f-a0b1-728b9256efbe
+0,0,0,0,Politik und Wahlen,fe048703-8d92-4b65-8450-905da12f1e76
+0,0,0,0,Politik und Wahlen,361e6c3d-1157-4996-a5fd-94132e63a207
+0,0,0,0,Politik und Wahlen,b28c3bef-d77f-40ba-8fb8-4dcf63db2063
+0,0,0,0,Politik und Wahlen,cfd438f8-db61-47cb-bc8c-b8ecbab77983
+0,0,0,0,Politik und Wahlen,3dce5a6e-dd5e-4cd1-8a20-f76480621a52
+0,0,0,0,Politik und Wahlen,6afafada-73d5-43fc-8502-68955855c66d
+0,0,0,0,Politik und Wahlen,0470ece1-0f98-4bf1-9455-e438a9e32ef2
+0,0,0,0,Politik und Wahlen,54db1374-d9b3-4ab3-8f39-ae0ae579c302
+0,0,0,0,Politik und Wahlen,3bcda24f-9986-4d3c-a0e9-cabe3b89cd17
