@@ -1,0 +1,14 @@
+{% assign item = include.item %}
+{% assign byItem = include.byItem %}
+{% if item > 0 %}
+	{% assign dataset_percentage= byItem | divided_by: item | times: 100 | ceil %}
+	{% assign chartClass = "red" %}
+	{% if dataset_percentage > 80 %}
+		{% assign chartClass = "green" %}
+	{% elsif dataset_percentage > 50 %}
+		{% assign chartClass = "yellow" %}
+		{% endif %}
+	{% include donut.html amount=dataset_percentage chartClass=chartClass %}
+{% else %}
+	{% include donut.html amount=0 %}
+{% endif %}
