@@ -31,37 +31,14 @@ layout: default
 						</div>
 						<div class="flex p-2 w-1/3">
 							{% assign means = site.data.city_stats.datasets[entry.id] %}
-							{% assign update_color = "red" %}
-							{% assign license_color = "red" %}
-							{% assign format_color = "red" %}
-							{% if means.update_time_mean <= 0.6 and means.update_time_mean > 0.3 %}
-								{% assign update_color = "yellow" %}
-							{% elsif means.update_time_mean > 0.6 %}
-								{% assign update_color = "green" %}
-					 		{% endif %}
-							{% if means.license_mean <= 0.6 and means.license_mean > 0.3 %}
-								{% assign license_color = "yellow" %}
-							{% elsif means.license_mean > 0.6 %}
-								{% assign license_color = "green" %}
-					 		{% endif %}
-							{% if means.format_mean <= 0.6 and means.format_mean > 0.3 %}
-								{% assign format_color = "yellow" %}
-							{% elsif means.format_mean > 0.6 %}
-								{% assign format_color = "green" %}
-					 		{% endif %}
-							<div class="flex-col indicators">
-								<div class="flex pt-1 items-baseline">
-									<div class="w-6 h-6 {{update_color}}">&nbsp;</div>
-									<p class="detail-data pl-2 mb-0 text-sm">Update Zyklus <span class="text-grey-dark {% unless forloop.first %}hidden{% endunless %}">({{means.update_time_mean | round: 2 | replace: '.',',' }} von 1)<span></p>
-								</div>
-								<div class="flex pt-1 items-baseline">
-									<div class="w-6 h-6 {{license_color}}">&nbsp;</div>
-									<p class="detail-data pl-2 mb-0 text-sm">Lizenzen <span class="text-grey-dark {% unless forloop.first %}hidden{% endunless %}">({{means.license_mean | round: 2 | replace: '.',',' }} von 1)<span></p>
-								</div>
-								<div class="flex pt-1 items-baseline">
-									<div class="w-6 h-6 {{format_color}}">&nbsp;</div>
-									<p class="detail-data pl-2 mb-0 text-sm">Formate <span class="text-grey-dark {% unless forloop.first %}hidden{% endunless %}">({{means.format_mean | round: 2 | replace: '.',',' }} von 1)<span></p>
-								</div>
+              {% assign classes = "hidden" %}
+              {% if forloop.first %}
+                {% assign classes = "" %}
+              {% endif %}
+              {% assign update_text = means.update_time_mean | round: 2 | replace: '.',',' | append: " von 1" %}
+              {% assign format_text = means.format_mean | round: 2 | replace: '.',',' | append: " von 1" %}
+              {% assign license_text = means.license_mean | round: 2 | replace: '.',',' | append: " von 1" %}
+              {% include quality.html update_time=means.update_time_mean update_text=update_text license=means.license_mean license_text=license_text format=means.format_mean format_text=format_text classes=classes %}
 							</div>
 						</div>
 						<div class="flex p-2 w-1/6 flex-col justify-center">{{entry.datasets | ceil}}</div>
