@@ -114,8 +114,8 @@ table tr:even {
 }
 .benefits ul li div{
 	background-image: url(../images/noun_29430.svg);
-	-webkit-filter: hue-rotate(120deg) saturate(0.5);
-	filter: hue-rotate(120deg) saturate(0.5);
+  -webkit-filter: hue-rotate(120deg) saturate(0.5);
+  filter: hue-rotate(120deg) saturate(0.5);
 	background-size: 15px 15px;
 	background-repeat: no-repeat;
 }
@@ -173,6 +173,13 @@ table tr:even {
 }
 .page h3 {
   font-size: 1.25rem;
+}
+.formats th{
+  padding-right: 1rem;
+}
+.formats .check {
+  -webkit-filter: hue-rotate(120deg) saturate(0.5);
+  filter: hue-rotate(120deg) saturate(0.5);
 }
 #footer {
   background: #E7E3DB;

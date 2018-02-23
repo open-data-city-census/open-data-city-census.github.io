@@ -92,3 +92,14 @@ Standardisierter Rang: 1
 Rang: 10
 Max Rang: 80
 Standardisierter Rang: 12,5
+
+# Lizenzen & Formate
+
+Hier eine Liste von Lizenzen und Formaten und deren Bedeutung beim Scoring.
+## Formate
+
+{% include formats.html %}
+
+## Offene Lizenzen
+
+{% include lizenzen.html %}
