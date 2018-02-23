@@ -1,0 +1,4 @@
+---
+city: ratingen
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: verbandsgemeindebadhoenningen
+layout: city
+---

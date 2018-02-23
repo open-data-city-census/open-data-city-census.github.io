@@ -1,0 +1,4 @@
+---
+city: leipzig
+layout: city
+---

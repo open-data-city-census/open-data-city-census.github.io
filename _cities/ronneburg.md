@@ -1,0 +1,4 @@
+---
+city: ronneburg
+layout: city
+---

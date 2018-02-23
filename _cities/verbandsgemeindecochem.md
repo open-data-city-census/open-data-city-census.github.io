@@ -1,0 +1,4 @@
+---
+city: verbandsgemeindecochem
+layout: city
+---

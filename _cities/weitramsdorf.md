@@ -1,0 +1,4 @@
+---
+city: weitramsdorf
+layout: city
+---

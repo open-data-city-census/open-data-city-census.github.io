@@ -1,0 +1,4 @@
+---
+city: essen
+layout: city
+---

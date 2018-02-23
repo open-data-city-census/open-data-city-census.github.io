@@ -1,0 +1,4 @@
+---
+city: duesseldorf
+layout: city
+---

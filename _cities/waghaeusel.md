@@ -1,0 +1,4 @@
+---
+city: waghaeusel
+layout: city
+---

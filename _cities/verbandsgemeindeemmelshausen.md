@@ -1,0 +1,4 @@
+---
+city: verbandsgemeindeemmelshausen
+layout: city
+---

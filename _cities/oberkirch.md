@@ -1,0 +1,4 @@
+---
+city: oberkirch
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: rackwitz
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: bremen
+layout: city
+---

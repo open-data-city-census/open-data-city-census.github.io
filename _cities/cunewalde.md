@@ -1,0 +1,4 @@
+---
+city: cunewalde
+layout: city
+---

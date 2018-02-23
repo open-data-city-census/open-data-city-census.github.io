@@ -1,0 +1,4 @@
+---
+city: verbandsgemeindeheidesheimamrhein
+layout: city
+---

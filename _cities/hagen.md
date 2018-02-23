@@ -1,0 +1,4 @@
+---
+city: hagen
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: wuppertal
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: cottbus
+layout: city
+---

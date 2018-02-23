@@ -1,0 +1,4 @@
+---
+city: gelsenkirchen
+layout: city
+---

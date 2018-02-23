@@ -1,0 +1,4 @@
+---
+city: potsdam
+layout: city
+---

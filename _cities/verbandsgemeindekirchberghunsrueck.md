@@ -1,0 +1,4 @@
+---
+city: verbandsgemeindekirchberghunsrueck
+layout: city
+---

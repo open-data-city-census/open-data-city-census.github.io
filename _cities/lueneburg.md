@@ -1,0 +1,4 @@
+---
+city: lueneburg
+layout: city
+---

@@ -181,3 +181,6 @@ table tr:even {
   -webkit-filter: hue-rotate(120deg) saturate(0.5);
   filter: hue-rotate(120deg) saturate(0.5);
 }
+#footer {
+  background: #E7E3DB;
+}

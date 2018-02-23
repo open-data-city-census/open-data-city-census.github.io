@@ -1,0 +1,4 @@
+---
+city: trier
+layout: city
+---

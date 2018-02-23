@@ -1,0 +1,4 @@
+---
+city: duisburg
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: crimmitschau
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: gera
+layout: city
+---

@@ -1,0 +1,4 @@
+---
+city: salzgitter
+layout: city
+---

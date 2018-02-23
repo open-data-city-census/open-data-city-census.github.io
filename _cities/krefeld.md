@@ -1,0 +1,4 @@
+---
+city: krefeld
+layout: city
+---

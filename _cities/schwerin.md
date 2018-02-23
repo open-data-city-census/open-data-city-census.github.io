@@ -1,0 +1,4 @@
+---
+city: schwerin
+layout: city
+---

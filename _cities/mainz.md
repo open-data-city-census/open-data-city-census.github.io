@@ -1,0 +1,4 @@
+---
+city: mainz
+layout: city
+---

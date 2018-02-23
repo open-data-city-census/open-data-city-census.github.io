@@ -1,0 +1,38 @@
+{% assign update_time = include.update_time | times: 1 %}
+{% assign license = include.license |times: 1 %}
+{% assign format = include.format |times: 1 %}
+{% assign update_text = include.update_text %}
+{% assign license_text = include.license_text %}
+{% assign format_text = include.format_text %}
+{% assign update_color = "red" %}
+{% assign license_color = "red" %}
+{% assign format_color = "red" %}
+{% if update_time <= 0.6 and update_time > 0.3 %}
+  {% assign update_color = "yellow" %}
+{% elsif update_time > 0.6 %}
+  {% assign update_color = "green" %}
+{% endif %}
+{% if license <= 0.6 and means.license_mean > 0.3 %}
+  {% assign license_color = "yellow" %}
+{% elsif license > 0.6 %}
+  {% assign license_color = "green" %}
+{% endif %}
+{% if format <= 0.6 and means.format_mean > 0.3 %}
+  {% assign format_color = "yellow" %}
+{% elsif format > 0.6 %}
+  {% assign format_color = "green" %}
+{% endif %}
+<div class="flex-col indicators">
+  <div class="flex pt-1 items-baseline">
+    <div class="w-6 h-6 {{update_color}}">&nbsp;</div>
+    <p class="detail-data pl-2 mb-0 text-sm">Update Zyklus <span class="text-grey-dark {{include.classes}}">{{update_text}}<span></p>
+  </div>
+  <div class="flex pt-1 items-baseline">
+    <div class="w-6 h-6 {{license_color}}">&nbsp;</div>
+    <p class="detail-data pl-2 mb-0 text-sm">Lizenzen <span class="text-grey-dark {{include.classes}}">{{license_text}}<span></p>
+  </div>
+  <div class="flex pt-1 items-baseline">
+    <div class="w-6 h-6 {{format_color}}">&nbsp;</div>
+    <p class="detail-data pl-2 mb-0 text-sm">Formate <span class="text-grey-dark {{include.classes}}">{{format_text}}<span></p>
+  </div>
+</div>
