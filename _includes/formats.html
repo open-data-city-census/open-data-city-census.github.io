@@ -1,0 +1,18 @@
+<table class="formats">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Offenes Format</th>
+      <th>Maschinenlesbar</th>
+    </tr>
+  </thead>
+  <tbody>
+{% for format in site.data.formats %}
+  <tr>
+    <td>{{format.name}}</td>
+    <td>{% if format.open %}<img class="check" src="{{site.baseUrl}}/assets/images/noun_29430.svg" width="20"/>{% endif %}</td>
+    <td>{% if format.maschine %}<img class="check" src="{{site.baseUrl}}/assets/images/noun_29430.svg" width="20"/>{% endif %}</td>
+  </tr>
+{% endfor %}
+  </tbody>
+</table>

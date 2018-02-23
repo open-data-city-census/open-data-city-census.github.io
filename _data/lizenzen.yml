@@ -1,0 +1,50 @@
+- ids:
+    - "cc-by"
+  title: "Namensnennung 2.0 Generic"
+- ids:
+  - "odc-by"
+  title: "Open Data Commons Attribution License"
+- ids:
+  - "cc-by 3.0"
+  - "cc by 3.0 de"
+  - "cc-by-3.0"
+  - "cc-by-4.0"
+  - "https://creativecommons.org/licenses/by/3.0/de/"
+  title: "Namensnennung Deutschland"
+  versions:
+    - "3.0"
+    - "4.0"
+- ids:
+  - "dl-de-by-2.0"
+  - "dl-de/by-2-0"
+  - "dl-de-by-1.0"
+  - "dl-de-by 1.0"
+  - "https://www.govdata.de/dl-de/by-2-0"
+  title: "Datenlizenz Deutschland – Namensnennung"
+  versions:
+    - "1.0"
+    - "2.0"
+    - "3.0"
+- ids:
+  - "dl-de-zero-2.0"
+  - "https://www.govdata.de/dl-de/zero-2-0"
+  title: "Datenlizenz Deutschland – Zero – Version 2.0"
+- ids:
+  - "cc-by-sa 3.0"
+  - "cc-by-sa"
+  title: "Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland"
+- ids:
+  - "other-open"
+  - "andere offene lizenzen"
+  title: "Anderes offene Lizenz"
+- ids:
+  - "cc0-1.0"
+  - "cc-zero"
+  title: "CC0 1.0 Universell (CC0 1.0) Public Domain Dedication"
+- ids:
+  - "gfdl"
+  title: "GNU-Lizenz für freie Dokumentation"
+- ids:
+  - "odbl"
+  - "odc-odbl"
+  title: "Open Data Commons Open Database License"

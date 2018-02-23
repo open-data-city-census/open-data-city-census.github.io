@@ -1,0 +1,3 @@
+{% for lizenz in site.data.lizenzen %}
+{{lizenz.title}} {% if lizenz.versions %}({{lizenz.versions | join: ", " }}) {%endif %}
+{% endfor %}
