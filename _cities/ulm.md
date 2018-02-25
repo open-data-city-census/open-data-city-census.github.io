@@ -1,0 +1,4 @@
+---
+city: ulm
+layout: city
+---

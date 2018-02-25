@@ -1,0 +1,4 @@
+---
+city: bedburg
+layout: city
+---
