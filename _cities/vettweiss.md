@@ -1,0 +1,4 @@
+---
+city: vettweiss
+layout: city
+---

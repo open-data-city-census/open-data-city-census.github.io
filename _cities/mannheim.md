@@ -1,0 +1,4 @@
+---
+city: mannheim
+layout: city
+---

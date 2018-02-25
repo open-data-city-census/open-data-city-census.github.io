@@ -1,0 +1,4 @@
+---
+city: bruehl
+layout: city
+---

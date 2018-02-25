@@ -108,7 +108,79 @@
     "name": "Hamburg"
   },
   {
-"id": "aachen",
-"name": "Aachen"
+    "id": "juelich",
+    "name": "Jühlich"
+  },
+  {
+    "id": "bergheim",
+    "name": "Bergheim"
+  },
+  {
+    "id": "bruehl",
+    "name": "Brühl"
+  },
+  {
+    "id": "kall",
+    "name": "Kall"
+  },
+  {
+    "id": "elsdorf",
+    "name": "Elsdorf"
+  },
+  {
+    "id": "merzenich",
+    "name": "Merzenich"
+  },
+  {
+    "id": "huertgenwald",
+    "name": "Hürtgenwald"
+  },
+  {
+    "id": "langerwehe",
+    "name": "Langerwehe"
+  },
+  {
+    "id": "wesseling",
+    "name": "Wesseling"
+  },
+  {
+    "id": "vettweiss",
+    "name": "Vettweiß"
+  },
+  {
+    "id": "heimbach",
+    "name": "Heimbach"
+  },
+  {
+    "id": "kreuzau",
+    "name": "Kreuzau"
+  },
+  {
+    "id": "linnich",
+    "name": "Linnich"
+  },
+  {
+    "id": "bad-muenstereifel",
+    "name": "Bad Münstereifel"
+  },
+  {
+    "id": "titz",
+    "name": "Titz"
+  },
+  {
+    "id": "bedburg",
+    "name": "Bedburg"
+  },
+  {
+    "id": "noervenich",
+    "name": "Nörverich"
+  },
+  {
+    "id": "niederzier",
+    "name": "Niederzier"
+  },
+  {
+		"id": "aachen",
+		"name": "Aachen"
   }
 ]

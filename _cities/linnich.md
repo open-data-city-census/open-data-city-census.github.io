@@ -1,0 +1,4 @@
+---
+city: linnich
+layout: city
+---
