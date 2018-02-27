@@ -1,17 +1,17 @@
 update_time,license,format,overall,groups,id
-0,1,1,2,Bevölkerung,d01-vornamen-eines-geburtsjahres-gemeinde-merzenich
-0,1,1,2,Bevölkerung,d02-anderung-familienstande-eines-jahres-gemeinde-merzenich
-0,1,1,2,Bevölkerung,d03-passierte-bewegungen-eines-jahres-gemeinde-merzenich
-0,1,1,2,Bevölkerung,d04-einwohner-nach-ortsteilen-gemeinde-merzenich
-0,1,1,2,Bevölkerung,d05-einwohner-gesamt-gemeinde-merzenich
-0,1,1,2,Bevölkerung,d06-einwohner-nach-alter-und-staatsangehorigkeit-gemeinde-merzenich
-0,1,1,2,Bevölkerung,d07-familien-mit-anzahl-kinder-gemeinde-merzenich
-0,1,1,2,Bevölkerung,d08-familien-nach-grosse-gemeinde-merzenich
-0,1,1,2,Bevölkerung,d09-zu-und-wegzuge-eines-jahres-nach-ort-und-alter-gemeinde-merzenich
-0,1,1,2,Bevölkerung,d10-einzelnachweise-zu-und-wegzuge-eines-jahres-gemeinde-merzenich
-0,1,1,2,Politik und Wahlen,d12-landtagswahlen-gemeinde-merzenich
+0.5,1,1,2.5,Bevölkerung,d01-vornamen-eines-geburtsjahres-gemeinde-merzenich
+0.5,1,1,2.5,Bevölkerung,d02-anderung-familienstande-eines-jahres-gemeinde-merzenich
+0.5,1,1,2.5,Bevölkerung,d03-passierte-bewegungen-eines-jahres-gemeinde-merzenich
+0.5,1,1,2.5,Bevölkerung,d04-einwohner-nach-ortsteilen-gemeinde-merzenich
+0.5,1,1,2.5,Bevölkerung,d05-einwohner-gesamt-gemeinde-merzenich
+0.5,1,1,2.5,Bevölkerung,d06-einwohner-nach-alter-und-staatsangehorigkeit-gemeinde-merzenich
+0.5,1,1,2.5,Bevölkerung,d07-familien-mit-anzahl-kinder-gemeinde-merzenich
+0.5,1,1,2.5,Bevölkerung,d08-familien-nach-grosse-gemeinde-merzenich
+0.5,1,1,2.5,Bevölkerung,d09-zu-und-wegzuge-eines-jahres-nach-ort-und-alter-gemeinde-merzenich
+0.5,1,1,2.5,Bevölkerung,d10-einzelnachweise-zu-und-wegzuge-eines-jahres-gemeinde-merzenich
+0.5,1,1,2.5,Politik und Wahlen,d12-landtagswahlen-gemeinde-merzenich
 0,1,1,2,Politik und Wahlen,d15-bundestagswahlen-merzenich
-0,1,1,2,Bevölkerung,d14-grabstatten-und-bestattungen-merzenich
-0,1,1,2,Transport und Verkehr,d11-einzelnachweise-bussgelder-ruhender-verkehr-merzenich
-0,1,1,2,Wirtschaft und Arbeit,d16-gewerbeanmeldungen-merzenich
+1,1,1,3,Bevölkerung,d14-grabstatten-und-bestattungen-merzenich
+1,1,1,3,Transport und Verkehr,d11-einzelnachweise-bussgelder-ruhender-verkehr-merzenich
+1,1,1,3,Wirtschaft und Arbeit,d16-gewerbeanmeldungen-merzenich
 0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",d20-haushalt-merzenich
