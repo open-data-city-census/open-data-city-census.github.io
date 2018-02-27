@@ -16,7 +16,6 @@ update_time,license,format,overall,groups,id
 0,1,1,2,Bevölkerung,entwicklung-der-zuzuge-innerhalb-bottrops
 0,1,1,2,Bevölkerung,entwicklung-der-bevolkerung-am-ort-der-hauptwohnung
 0,1,1,2,Bevölkerung,entwicklung-der-migranten-und-migrantinnen-am-ort-der-hauptwohnung
-0,1,1,2,Bevölkerung,bevolkerung-haupt-und-nebenwohnsitz
 0,1,1,2,Bildung und Wissenschaft,gesamtuberblick-aller-schulen-in-bottrop
 0,1,1,2,Politik und Wahlen,wahlergebnis-der-bundestagswahl-2013-fur-bottrop
 0,1,1,2,Bevölkerung,staatsangehorigkeiten-der-in-bottrop-gemeldeten-personen-2016
@@ -28,6 +27,10 @@ update_time,license,format,overall,groups,id
 0,1,1,2,Bevölkerung,staatsangehorigkeiten-der-in-bottrop-gemeldeten-personen-2012
 0,1,1,2,Bevölkerung,staatsangehorigkeiten-der-in-bottrop-gemeldeten-personen-2013
 0,1,1,2,Bevölkerung,staatsangehorigkeiten-der-in-bottrop-gemeldeten-personen-2014
-0.5,1,1,2.5,Bevölkerung,bevolkerung-nach-altersklassen-in-den-statistischen-bezirken-2015
-0.5,1,1,2.5,Bevölkerung,bevolkerung-nach-altersklassen-in-den-statistischen-bezirken-2016
+0,1,1,2,Bevölkerung,bevolkerung-nach-altersklassen-in-den-statistischen-bezirken-2015
+0,1,1,2,Bevölkerung,bevolkerung-nach-altersklassen-in-den-statistischen-bezirken-2016
 0.5,1,1,2.5,Bevölkerung,bevolkerung-nach-altersklassen-in-den-statistischen-bezirken-2017
+1,1,1,3,Bevölkerung,bevolkerung-haupt-und-nebenwohnsitz-2008
+1,1,1,3,,bevolkerung-haupt-und-nebenwohnsitz-2009
+1,1,1,3,,bevolkerung-haupt-und-nebenwohnsitz-2010
+1,1,1,3,Bevölkerung,bevolkerung-haupt-und-nebenwohnsitz
