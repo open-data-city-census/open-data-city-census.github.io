@@ -1,33 +1,33 @@
 update_time,license,format,overall,groups,id
-0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",zufriedenheit-mit-den-lebensbedingungen-jahreszahlen
-0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",zoo-leipzig-jahreszahlen
-0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",zoo-leipzig-quartalszahlen
-0,1,0,1,"Infrastruktur, Bauen und Wohnen",wohnungsmieten-quartalszahlen
-0,1,0,1,"Infrastruktur, Bauen und Wohnen",wohnungsmieten-jahreszahlen
-0,1,0,1,"Infrastruktur, Bauen und Wohnen",wohnungsbestand-jahreszahlen1
-0,1,0,1,"Infrastruktur, Bauen und Wohnen",wohnungsbestand-jahreszahlen
-0,1,0,1,"Infrastruktur, Bauen und Wohnen",wohnsituation-jahreszahlen
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",wohnberechtigte-einwohner-nach-familienstand-jahreszahlen
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",wohnberechtigte-einwohner-nach-alter-jahreszahlen1
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",wohnberechtigte-einwohner-jahreszahlen1
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",wohnberechtigte-einwohner-quartalszahlen
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",wohnberechtigte-einwohner-jahreszahlen
+0.5,1,0,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",zufriedenheit-mit-den-lebensbedingungen-jahreszahlen
+0.5,1,0,1.5,"Kultur, Freizeit, Sport, Tourismus",zoo-leipzig-jahreszahlen
+0.5,1,0,1.5,"Kultur, Freizeit, Sport, Tourismus",zoo-leipzig-quartalszahlen
+0.5,1,0,1.5,"Infrastruktur, Bauen und Wohnen",wohnungsmieten-quartalszahlen
+0.5,1,0,1.5,"Infrastruktur, Bauen und Wohnen",wohnungsmieten-jahreszahlen
+0.5,1,0,1.5,"Infrastruktur, Bauen und Wohnen",wohnungsbestand-jahreszahlen1
+0.5,1,0,1.5,"Infrastruktur, Bauen und Wohnen",wohnungsbestand-jahreszahlen
+0.5,1,0,1.5,"Infrastruktur, Bauen und Wohnen",wohnsituation-jahreszahlen
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",wohnberechtigte-einwohner-nach-familienstand-jahreszahlen
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",wohnberechtigte-einwohner-nach-alter-jahreszahlen1
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",wohnberechtigte-einwohner-jahreszahlen1
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",wohnberechtigte-einwohner-quartalszahlen
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",wohnberechtigte-einwohner-jahreszahlen
 0,1,0,1,,witwe-bertha-wehnert-geb-beckmann-erbittet-konzessesion-zur-beforderung-von-auswanderern
-0,1,0,1,Transport und Verkehr,wetterdaten-jahreszahlen
-0,1,0,1,Transport und Verkehr,wasserhygiene-jahreszahlen
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",wanderungen-jahreszahlen1
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",wanderungen-jahreszahlen
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",wanderungen-quartalszahlen
+0.5,1,0,1.5,Transport und Verkehr,wetterdaten-jahreszahlen
+0.5,1,0,1.5,Transport und Verkehr,wasserhygiene-jahreszahlen
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",wanderungen-jahreszahlen1
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",wanderungen-jahreszahlen
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",wanderungen-quartalszahlen
 0,1,0,1,,wahl-und-verpflichtung-der-makler-nach-der-neuen-maklerordnung
 0,1,0,1,,von-den-schuhmachergesellen-gegen-die-meister-eingebrachte-beschwerden
-0,1,0,1,Soziales,volkshochschule-jahreszahlen
+0.5,1,0,1.5,Soziales,volkshochschule-jahreszahlen
 0,1,0,1,,verschiedenes-uber-kunstgeiger-und-stadtpfeifer
 0,1,0,1,,verschiedene-angelegenheiten-der-gemeinde-gohlis
-0,1,0,1,Transport und Verkehr,verkehrsunfalle-jahreszahlen
-0,1,0,1,Transport und Verkehr,verkehrsunfalle-quartalszahlen
+0.5,1,0,1.5,Transport und Verkehr,verkehrsunfalle-jahreszahlen
+0.5,1,0,1.5,Transport und Verkehr,verkehrsunfalle-quartalszahlen
 0,1,0,1,,vereinswesen-und-volksversammlungen
-0,1,0,1,Bildung und Wissenschaft,verarbeitendes-gewerbe-quartalszahlen
-0,1,0,1,Bildung und Wissenschaft,verarbeitendes-gewerbe-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,verarbeitendes-gewerbe-quartalszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,verarbeitendes-gewerbe-jahreszahlen
 0,1,0,1,,untersuchung-gegen-moritz-theodor-bost-in-reudnitz-wegen-teilnahme-am-dresdner-maiaufstand
 0,1,0,1,,untersuchung-gegen-eduard-wilhelm-engelmann-in-reudnitz-wegen-teilnahme-am-dresdner-maiaufstand
 0,1,0,1,,untersuchung-gegen-den-kupferdrucker-franz-sehm-in-anger-wegen-teilnahme-am-dresdner-maiaufstan
@@ -38,17 +38,18 @@ update_time,license,format,overall,groups,id
 0,1,0,1,,tischler-friedrich-gottlob-hofmann-beschwert-sich-uber-die-innung-wegen-verbotener-ein-und-ausf
 0,1,0,1,,tischler-friedrich-gottlob-hoffmann-sucht-nach-um-erlassung-der-mutjahre
 0,1,0,1,,tischler-friedrich-gottlob-hoffmann-beschwert-sich-uber-die-innung-wegen-versagter-erlaubnis-me
-0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",theater-jahreszahlen
-0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",theater-quartalszahlen
+0.5,1,0,1.5,"Kultur, Freizeit, Sport, Tourismus",theater-jahreszahlen
+0.5,1,0,1.5,"Kultur, Freizeit, Sport, Tourismus",theater-quartalszahlen
 0,1,0,1,,johann-christoph-bazig-erhebt-beschwerde-uber-die-posamentierer-wegen-erteilung-des-meisterrech
 0,1,0,1,,streit-zwischen-dem-nikolaiturmer-johann-luschky-und-dem-thomasturmer-ernst-meyer-wegen-teilung
-0,1,0,1,Transport und Verkehr,strassennetz-jahreszahlen
+0.5,1,0,1.5,Transport und Verkehr,strassennetz-jahreszahlen
 0,1,1,2,Transport und Verkehr,strassenbaumkataster-leipzig
-0,1,0,1,,straftaten-jahreszahlen
-0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",steuereinnahmen-quartalszahlen
-0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",steuereinnahmen-jahreszahlen
-0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",sportvereine-jahreszahlen
-0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",sporteinrichtungen-jahreszahlen
+0.5,1,0,1.5,,straftaten-jahreszahlen
+0.5,1,0,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",steuereinnahmen-quartalszahlen
+0.5,1,0,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",steuereinnahmen-jahreszahlen
+0.5,1,0,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",stadtratswahlen
+0.5,1,0,1.5,"Kultur, Freizeit, Sport, Tourismus",sportvereine-jahreszahlen
+0.5,1,0,1.5,"Kultur, Freizeit, Sport, Tourismus",sporteinrichtungen-jahreszahlen
 0,1,0,1,,schneider-johann-binder-gesucht-um-erteilung-des-meisterrechts
 0,1,0,1,,schlosser-streitigkeiten-zwischen-meistern-und-gesellen-wegen-den-kundschaften
 0,1,0,1,,schankkonzession-fur-kilian-valar
@@ -60,42 +61,44 @@ update_time,license,format,overall,groups,id
 0,1,0,1,,reklamationen-entlassungsgesuche-arztliche-gutachten-bescheinigungen-uber-dienst-und-abhangigke1
 0,1,0,1,,reklamationen-entlassungsgesuche-arztliche-gutachten-bescheinigungen-uber-dienst-und-abhangigke
 0,1,0,1,,reisepasse-von-anton-und-jacob-ferdinand-dufour-feronce
-0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",realsteuervergleich-jahreszahlen
+0.5,1,0,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",realsteuervergleich-jahreszahlen
 0,1,0,1,,quittung-uber-die-bezahlung-des-anteils-der-gebruder-dufour-an-der-sozietat-zur-anschaffun-1810
 0,1,0,1,,protokoll-wegen-gehaltener-kirchrechnung-zu-probstheida
 0,1,0,1,,plan-von-gohlis-querstrasse-lange-strasse-mockernsche-strasse-windmuhlenstrasse-waldstrasse-wie
-0,1,0,1,Transport und Verkehr,personennahverkehr-jahreszahlen
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",personenhaushalte-jahreszahlen
-0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",personal-nach-produktbereichen-jahreszahlen
-0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",personal-nach-dienstverhaltnissen-jahreszahlen
-0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",personal-nach-aufgabenbereichen-jahreszahlen
+0.5,1,0,1.5,Transport und Verkehr,personennahverkehr-jahreszahlen
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",personenhaushalte-jahreszahlen
+0.5,1,0,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",personal-nach-produktbereichen-jahreszahlen
+0.5,1,0,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",personal-nach-dienstverhaltnissen-jahreszahlen
+0.5,1,0,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",personal-nach-aufgabenbereichen-jahreszahlen
 0,1,0,1,,orgelwerk-in-der-kirche-zu-eutritzsch
 0,1,0,1,,orgelbauer-zacharias-theyssner-wegen-seines-orgelbaus-in-merseburg-und-leipzig
 0,1,0,1,,oberregierungsrat-f-w-j-von-schelling-in-berlin-gesucht-um-beschlagnahme-seiner-von-paulus-hera
-0,1,0,1,Bildung und Wissenschaft,nettoeinkommen-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,nettoeinkommen-jahreszahlen
 0,1,0,1,,naturschutzgebiete-der-stadt-leipzig
 0,1,0,1,,musikanten-in-der-neuen-kirche-und-deren-aufwartung-zu-hochzeiten
-0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",museen-quartalszahlen
-0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",museen-jahreszahlen
-0,1,0,1,Bildung und Wissenschaft,messen-und-ausstellungen-jahreszahlen
+0.5,1,0,1.5,"Kultur, Freizeit, Sport, Tourismus",museen-quartalszahlen
+0.5,1,0,1.5,"Kultur, Freizeit, Sport, Tourismus",museen-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,messen-und-ausstellungen-jahreszahlen
 0,1,0,1,Transport und Verkehr,lvb-fahrplandaten
-0,1,0,1,Transport und Verkehr,luftverkehr-quartalszahlen
-0,1,0,1,Transport und Verkehr,luftverkehr-jahreszahlen
+0.5,1,0,1.5,Transport und Verkehr,luftverkehr-quartalszahlen
+0.5,1,0,1.5,Transport und Verkehr,luftverkehr-jahreszahlen
 0,1,0,1,,lorenz-christian-wendisch-wensch-grossuhrmacher-sucht-nach-um-erhohung-seiner-besoldung-fur-bes
-0,1,0,1,Soziales,tagespflege-jahreszahlen
+0.5,1,0,1.5,Soziales,tagespflege-jahreszahlen
 0,1,0,1,,leinwandfabrikanten-aus-der-oberlausitz-und-dem-meissnischen-kreis-beschweren-sich-uber-das-von
 0,1,0,1,,legende-zur-zweiten-auflage-um-1880-strassen-und-platzverzeichnis-und-blattaufteilung-der-brand
 0,1,0,1,,legende-zur-zweiten-auflage-um-1880-blattaufteilung-der-brandkatasternummern-und-signaturen
 0,1,0,1,,legende-zur-zweiten-auflage-um-1880-blattaufteilung-der-brandkatasternummern-abteilung-b
 0,1,0,1,,legende-blattaufteilung-der-brandkatasternummern-abteilung-a-b-und-handschriftliche-nachtrage-z
-0,1,0,1,Bildung und Wissenschaft,lebensunterhalt-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,lebensunterhalt-jahreszahlen
 0,1,0,1,,larmkartierung-der-stadt-leipzig
+0.5,1,0,1.5,,landtagswahlen-kleinraumig
+0.5,1,0,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",landtagswahlen
 0,1,0,1,Transport und Verkehr,landschaftsschutzgebiete-der-stadt-leipzig
 0,1,0,1,,kurze-geschichte-der-familie-dufour-seit-ihrer-niederlassung-in-der-stadt-sauve-bis-zu-ihrer-em
 0,1,0,1,,kramerinnung-gegen-die-putzmacherin-marie-anna-eleonore-campagnoli-wegen-betreibung-eines-gewol
 0,1,0,1,,kramer-christian-friedrich-cubasch-kauft-das-weissbierbrauhaus-in-der-nikolaistrasse-und-baut-e
-0,1,0,1,,kraftfahrzeugbestand-jahreszahlen1
-0,1,0,1,Transport und Verkehr,kraftfahrzeugbestand-jahreszahlen
+0.5,1,0,1.5,,kraftfahrzeugbestand-jahreszahlen1
+0.5,1,0,1.5,Transport und Verkehr,kraftfahrzeugbestand-jahreszahlen
 0,1,0,1,,kontaktdaten-und-offnungszeiten-der-bibliotheken
 0,1,0,1,,kommunale-gebietsgliederung-leipzig-strassennamen
 0,1,0,1,,kommunale-gebietsgliederung-leipzig-strassenabschnitte
@@ -108,8 +111,8 @@ update_time,license,format,overall,groups,id
 0,1,0,1,,klage-der-bierfiedler-uber-die-stadtpfeifer-und-kunstgeiger-weil-sie-auswartige-musikanten-bei
 0,1,0,1,,kirchrechnung-zu-lindenau
 0,1,0,1,,kirchrechnungen-zu-probstheida-mit-eingepfarrten-dorfern-connewitz-und-dosen
-0,1,0,1,Soziales,kindertageseinrichtungen-jahreszahlen
-0,1,0,1,Soziales,kinder-in-kindertagesstatten-jahreszahlen
+0.5,1,0,1.5,Soziales,kindertageseinrichtungen-jahreszahlen
+0.5,1,0,1.5,Soziales,kinder-in-kindertagesstatten-jahreszahlen
 0,1,0,1,,judische-kleinhandler-die-in-der-zahlwoche-noch-feilhalten-werden-bestraft
 0,1,0,1,,johann-paul-zincke-wird-von-johann-christian-hoffmann-wegen-eines-nachteiligen-baues-verklagt
 0,1,0,1,,johann-olearius-klagt-gegen-johanne-regine-brummer-wegen-eines-auf-dem-haus-hennigs-im-salzgass
@@ -119,66 +122,67 @@ update_time,license,format,overall,groups,id
 0,1,0,1,,johann-delphin-strunck-klagt-gegen-samuel-ernst-dobricht-der-opernauffuhrungen-veranstaltet-weg
 0,0,0,0,,interaktiver-stadtplan-leipzig
 0,1,0,1,,integriertes-stadtentwicklungskonzept-leipzig-2020
-0,1,0,1,Bildung und Wissenschaft,insolvenzverfahren-jahreszahlen
-0,1,0,1,Transport und Verkehr,immissionen-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,insolvenzverfahren-jahreszahlen
+0.5,1,0,1.5,Transport und Verkehr,immissionen-jahreszahlen
 0,1,0,1,,hofrat-carl-friedrich-triers-klagt-gegen-polycarp-leonhard-zehe-wegen-einer-bergwerksverlagssch
 0,1,0,1,,hofmaler-christian-haarhausen-streitet-sich-mit-der-malerinnung-wegen-seiner-aufnahme
-0,1,0,1,Soziales,hochschulen-jahreszahlen
+0.5,1,0,1.5,Soziales,hochschulen-jahreszahlen
 0,1,0,1,,heinrich-nohr-sucht-nach-um-erlaubnis-zur-errichtung-des-hotels-garni-in-der-nikolaistrasse-wel
 0,1,0,1,,heimatschein-fur-otto-julius-bernhard-corvin-wiersbitzky-und-dessen-ehefrau-helene
 0,1,0,1,,heimatschein-fur-gustav-bernhard-cubasch
 0,1,0,1,,heimatschein-fur-amalie-ernestine-wetzel-geb-paul
-0,0,0,0,,harvester-stadtarchiv
-0,1,0,1,Bildung und Wissenschaft,handwerksbetriebe-jahreszahlen1
-0,1,0,1,Bildung und Wissenschaft,handwerksbetriebe-jahreszahlen
-0,1,0,1,Soziales,grundsicherung-fur-arbeitssuchende-sgb-ii-jahreszahlen
-0,1,0,1,Soziales,grundsicherung-fur-arbeitssuchende-quartalszahlen
-0,1,0,1,Soziales,grundsicherung-fur-arbeitssuchende-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,handwerksbetriebe-jahreszahlen1
+0.5,1,0,1.5,Bildung und Wissenschaft,handwerksbetriebe-jahreszahlen
+0.5,1,0,1.5,Soziales,grundsicherung-fur-arbeitssuchende-sgb-ii-jahreszahlen
+0.5,1,0,1.5,Soziales,grundsicherung-fur-arbeitssuchende-quartalszahlen
+0.5,1,0,1.5,Soziales,grundsicherung-fur-arbeitssuchende-jahreszahlen
 0,1,0,1,,glockengiesserhandwerk-wegen-auftreibung-des-gesellen-johann-siebert-wegen-diebstahlsvorwurf-du
-0,1,0,1,Bildung und Wissenschaft,gewerbemeldungen-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,gewerbemeldungen-jahreszahlen
 0,1,0,1,,gesuch-des-gastwirts-franz-august-sonntag-den-namen-nohr-fuhren-zu-konnen
 0,1,0,1,,geschutzte-biotope-der-stadt-leipzig
 0,1,0,1,,georg-kormart-gegen-den-buchdrucker-timotheus-ritzsch-wegen-herausgabe-der-zeitungen
 0,1,1,2,,geo-koordinaten-der-haltestellen-schulfahrplan-fahrbibliothek
 0,1,1,2,,geo-koordinaten-der-haltestellen-fahrbibliothek
 0,1,1,2,,geo-koordinaten-der-bibliotheken
-0,1,0,1,Transport und Verkehr,geografische-lage-jahreszahlen
+0.5,1,0,1.5,Transport und Verkehr,geografische-lage-jahreszahlen
 0,1,0,1,"Infrastruktur, Bauen und Wohnen",geodaten-der-leipziger-ortsteile-und-stadtbezirke
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",geborene-und-gestorbene-jahreszahlen1
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",geborene-und-gestorbene-jahreszahlen
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",geborene-und-gestorbene-quartalszahlen
-0,1,0,1,"Infrastruktur, Bauen und Wohnen",gebaudebestand-jahreszahlen
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",geborene-und-gestorbene-jahreszahlen1
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",geborene-und-gestorbene-jahreszahlen
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",geborene-und-gestorbene-quartalszahlen
+0.5,1,0,1.5,"Infrastruktur, Bauen und Wohnen",gebaudebestand-jahreszahlen
 0,1,0,1,,gasteverzeichnis-mit-menuaufstellung-von-jacob-ferdinand-dufour-feronce
-0,1,0,1,Bildung und Wissenschaft,gaste-nach-herkunftslandern-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,gaste-nach-herkunftslandern-jahreszahlen
 0,1,0,1,,flachennutzungsplan-der-stadt-leipzig
-0,1,0,1,Transport und Verkehr,flachennutzung-jahreszahlen
+0.5,1,0,1.5,Transport und Verkehr,flachennutzung-jahreszahlen
 0,1,0,1,,flachennaturdenkmale-der-stadt-leipzig
-0,1,0,1,Transport und Verkehr,flache-nach-nutzungsarten-jahreszahlen
-0,1,0,1,Bildung und Wissenschaft,firmen-wz-2008-jahreszahlen
-0,1,0,1,Bildung und Wissenschaft,firmen-wz-2003-jahreszahlen
-0,1,0,1,Bildung und Wissenschaft,unternehmen-jahreszahlen
+0.5,1,0,1.5,Transport und Verkehr,flache-nach-nutzungsarten-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,firmen-wz-2008-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,firmen-wz-2003-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,unternehmen-jahreszahlen
 0,1,1,2,,fahrplan-der-fahrbibliothek-fur-schulen-und-kindergarten
 0,1,1,2,,fahrplan-der-fahrbibliothek
+0.5,1,0,1.5,,europawahlen-kleinraumig
+0.5,1,0,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",europawahlen
 0,1,0,1,,es-wird-andreas-dietrich-apel-nicht-gestattet-holzhandel-zu-betreiben
 0,1,0,1,,erteilung-der-buchhandels-und-musikalienhandelkonzession-fur-auguste-amalie-whistling
 0,1,0,1,,erorterungen-wegen-des-redeubungsvereins-mit-robert-blum-als-vorsteher
-0,1,0,1,Transport und Verkehr,energieverbrauch-jahreszahlen
+0.5,1,0,1.5,Transport und Verkehr,energieverbrauch-jahreszahlen
 0,1,0,1,Transport und Verkehr,energie-und-co2-bilanz-2011-der-stadt-leipzig
-0,1,0,1,Bildung und Wissenschaft,einzelhandel-jahreszahlen
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",einwohner-nach-familienstand-jahreszahlen
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",einwohner-nach-alter-jahreszahlen1
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",einwohner-nach-alter-jahreszahlen
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",wohnberechtigte-einwohner-nach-alter-jahreszahlen
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",einwohner-mit-migrationshintergund-jahreszahlen
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",einwohner-jahreszahlen1
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",einwohnerdichte-jahreszahlen
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",einwohner-quartalszahlen
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",einwohner-jahreszahlen
-0,1,0,1,Soziales,einschulungen-und-nichteinschulungen-jahreszahlen
-0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",einsatz-von-haushaltsmitteln-jahreszahlen
-0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",einnahmen-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,einzelhandel-jahreszahlen
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",einwohner-nach-familienstand-jahreszahlen
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",einwohner-nach-alter-jahreszahlen1
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",einwohner-nach-alter-jahreszahlen
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",wohnberechtigte-einwohner-nach-alter-jahreszahlen
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",einwohner-mit-migrationshintergund-jahreszahlen
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",einwohner-jahreszahlen1
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",einwohnerdichte-jahreszahlen
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",einwohner-quartalszahlen
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",einwohner-jahreszahlen
+0.5,1,0,1.5,Soziales,einschulungen-und-nichteinschulungen-jahreszahlen
+0.5,1,0,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",einsatz-von-haushaltsmitteln-jahreszahlen
+0.5,1,0,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",einnahmen-jahreszahlen
 0,1,0,1,,einbau-einer-neuen-orgel-in-der-kirche-zu-sommerfeld
-0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",eheschliessungen-und-ehescheidungen-jahreszahlen
+0.5,1,0,1.5,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",eheschliessungen-und-ehescheidungen-jahreszahlen
 0,1,0,1,,dr-willmar-schwabe-gesucht-um-konzession-zur-errichtung-eines-exportgeschaftes-fur-homoopathisc
 0,1,0,1,,differenzen-zwischen-dem-handwerk-und-tischlermeister-friedrich-gottlob-hofmann-wegen-einfuhrun
 0,1,0,1,,die-zwischen-der-verwitweten-johanna-christiana-reichel-im-bruhl-gelegenen-haus-und-nach-der-st
@@ -208,56 +212,58 @@ update_time,license,format,overall,groups,id
 0,1,0,1,,christian-ernst-meyer-ehemaliger-kunstgeiger-gegen-die-stadtpfeifer-und-kunstgeiger-wegen-seine
 0,1,0,1,,catharine-sophie-geb-deussner-johann-george-leibnitz-probstheida-ehefraus-verlassenschaft
 0,1,0,1,,caspar-bose-erhebt-beschwerde-uber-die-einwohner-der-ulrichsgasse-wegen-unbefugten-bauens
-0,1,0,1,Bildung und Wissenschaft,bruttoinlandsprodukt-und-bruttowertschopfung-jahreszahlen
+0.5,1,0,1.5,,bundestagswahlen-kleinraumig
+0.5,1,0,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",bundestagswahlen1
+0.5,1,0,1.5,Bildung und Wissenschaft,bruttoinlandsprodukt-und-bruttowertschopfung-jahreszahlen
 0,1,0,1,,briefe-an-jacob-ferdinand-dufour-seit-1792-dufour-feronce-und-an-die-firma-dufour-gebruder-bzw
 0,1,0,1,,briefe-an-jacob-ferdinand-dufour-seit-1792-dufour-feronce-und-an-die-firma-dufour-gebr-bzw-dufo
 0,1,0,1,,briefe-an-anne-pauline-dufour-feronce-von-ihrem-mann-jacob-ferdinand-dufour-feronce
 0,1,0,1,,briefe-an-anne-pauline-dufour-feronce-vom-sohn-johann-marcus-albert-dufour-feronce
 0,0,0,0,,bodenrichtwerte-fur-die-stadt-leipzig-wms
-0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",bibliotheken-jahreszahlen
+0.5,1,0,1.5,"Kultur, Freizeit, Sport, Tourismus",bibliotheken-jahreszahlen
 0,1,0,1,,beschwerde-der-kunstgeiger-uber-die-stadtpfeifer-wegen-der-teilung-des-gemeinschaftlichen-verdi
 0,1,0,1,,beschwerde-der-kunstgeiger-uber-die-schalmeipfeifer-wegen-des-aufspielens-zu-hochzeiten
 0,1,0,1,,beschwerde-der-bierfiedler-uber-die-fremden-bierfiedler-weil-diese-bei-hochzeiten-und-handwerks
-0,1,0,1,Bildung und Wissenschaft,beschaftigte-jahreszahlen1
-0,1,0,1,Bildung und Wissenschaft,beschaftigte-quartalszahlen
-0,1,0,1,Bildung und Wissenschaft,beschaftigte-jahreszahlen
-0,1,0,1,Soziales,berufsbildende-schulen-jahreszahlen
-0,1,0,1,Bildung und Wissenschaft,beherbergungskapazitat-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,beschaftigte-jahreszahlen1
+0.5,1,0,1.5,Bildung und Wissenschaft,beschaftigte-quartalszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,beschaftigte-jahreszahlen
+0.5,1,0,1.5,Soziales,berufsbildende-schulen-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,beherbergungskapazitat-jahreszahlen
 0,1,0,1,,bebauungsplane-der-stadt-leipzig-ubersicht-der-geltungsbereiche
 0,1,0,1,,beate-gustave-sophie-flatho-und-johann-martin-hemm-streiten-sich-wegen-eines-widerkauflich-verk
 0,1,0,1,,baumnaturdenkmale-der-stadt-leipzig
 0,1,0,1,,bau-im-haus-des-kramermeisters-gottfried-barthel-in-der-hainstrasse
-0,1,0,1,Bildung und Wissenschaft,bauhauptgewerbe-quartalszahlen
-0,1,0,1,Bildung und Wissenschaft,bauhauptgewerbe-jahreszahlen
-0,1,0,1,"Infrastruktur, Bauen und Wohnen",baugenehmigungen-jahreszahlen1
-0,1,0,1,"Infrastruktur, Bauen und Wohnen",baugenehmigungen-quartalszahlen
-0,1,0,1,"Infrastruktur, Bauen und Wohnen",baugenehmigungen-jahreszahlen
-0,1,0,1,"Infrastruktur, Bauen und Wohnen",baufertigstellungen-jahreszahlen1
-0,1,0,1,"Infrastruktur, Bauen und Wohnen",baufertigstellungen-jahreszahlen
-0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",bader-jahreszahlen
-0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",bader-quartalszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,bauhauptgewerbe-quartalszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,bauhauptgewerbe-jahreszahlen
+0.5,1,0,1.5,"Infrastruktur, Bauen und Wohnen",baugenehmigungen-jahreszahlen1
+0.5,1,0,1.5,"Infrastruktur, Bauen und Wohnen",baugenehmigungen-quartalszahlen
+0.5,1,0,1.5,"Infrastruktur, Bauen und Wohnen",baugenehmigungen-jahreszahlen
+0.5,1,0,1.5,"Infrastruktur, Bauen und Wohnen",baufertigstellungen-jahreszahlen1
+0.5,1,0,1.5,"Infrastruktur, Bauen und Wohnen",baufertigstellungen-jahreszahlen
+0.5,1,0,1.5,"Kultur, Freizeit, Sport, Tourismus",bader-jahreszahlen
+0.5,1,0,1.5,"Kultur, Freizeit, Sport, Tourismus",bader-quartalszahlen
 0,1,1,2,,a-wochen-und-b-wochen-fur-fahrplan-fahrbibliothek
-0,1,0,1,Bildung und Wissenschaft,auszubildende-jahreszahlen
-0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",ausgaben-jahreszahlen
-0,1,0,1,Bildung und Wissenschaft,ausbaugewerbe-quartalszahlen
-0,1,0,1,Bildung und Wissenschaft,ausbaugewerbe-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,auszubildende-jahreszahlen
+0.5,1,0,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",ausgaben-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,ausbaugewerbe-quartalszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,ausbaugewerbe-jahreszahlen
 0,1,0,1,,aufstand-der-tischlergesellen-wegen-bestrafung-des-gesellen-carl-eckardt-loth
-0,1,0,1,Soziales,arzte-jahreszahlen
+0.5,1,0,1.5,Soziales,arzte-jahreszahlen
 0,1,0,1,,armbrustspanner-johann-gottfried-bodler-verfertigt-buchsenmacherarbeit-und-das-schlosserhandwer
-0,1,0,1,Bildung und Wissenschaft,arbeitslose-jahreszahlen1
-0,1,0,1,Bildung und Wissenschaft,arbeitslose-jahreszahlen
-0,1,0,1,Bildung und Wissenschaft,arbeitslose-quartalszahlen
-0,1,0,1,Soziales,apotheken-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,arbeitslose-jahreszahlen1
+0.5,1,0,1.5,Bildung und Wissenschaft,arbeitslose-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,arbeitslose-quartalszahlen
+0.5,1,0,1.5,Soziales,apotheken-jahreszahlen
 0,1,0,1,,anne-marie-mylius-klagt-gegen-dorothee-marie-brauns-geb-strunck-wegen-geliehener-gelder-zu-oper
 0,1,0,1,,anna-sophie-geb-schilling-george-leipniz-verstorbene-ehefrau-probstheida-verlassenschaft
 0,1,0,1,,anna-catharina-schrepfer-geb-herre-klagt-gegen-johann-heinrich-herrens-erben-wegen-erbgeldern
-0,1,0,1,Bildung und Wissenschaft,ankunfte-und-ubernachtungen-quartalszahlen
-0,1,0,1,Bildung und Wissenschaft,ankunfte-und-ubernachtungen-jahreszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,ankunfte-und-ubernachtungen-quartalszahlen
+0.5,1,0,1.5,Bildung und Wissenschaft,ankunfte-und-ubernachtungen-jahreszahlen
 0,1,0,1,,andreas-leipnitz-auszugler-zu-molkau-verlassenschaft
 0,1,0,1,,anamorphe-karten-mit-open-data-und-open-source-software
 0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",alterskennziffern-jahreszahlen
-0,1,0,1,Soziales,allgemeinbildende-schulen-jahreszahlen-kleinraumig
-0,1,0,1,Soziales,allgemeinbildende-schulen-jahreszahlen
+0.5,1,0,1.5,Soziales,allgemeinbildende-schulen-jahreszahlen-kleinraumig
+0.5,1,0,1.5,Soziales,allgemeinbildende-schulen-jahreszahlen
 0,1,0,1,,abt-f-bl-21-n-gohliser-strasse
 0,1,0,1,,abt-f-bl-10-n-uferstrasse-parthenstrasse-pfaffendorfer-strasse-lohrstrasse-nordstrasse-yorkstra
 0,1,0,1,,abt-f-bl-10-n-uberarbeitung-zu-nr-348-uferstrasse-parthenstrasse-pfaffendorfer-strasse-lohrstra
@@ -641,58 +647,4 @@ update_time,license,format,overall,groups,id
 0,1,0,1,,muster-eines-gesellenbriefes-glaserinnung
 0,1,0,1,,innungsstatuten-glaserinnung
 0,1,0,1,,schriften-zur-vorbereitung-der-feierlichkeiten-zur-erfindung-der-buchdruckerkunst
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",37a364a9-fcd2-4146-8c89-7bfdf000be46
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",1f4824e2-4580-4ea6-a9b8-cec491a4d5ef
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",40df0788-a814-4bcd-8f90-31c5d0757f4f
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",248dfab5-9d12-4f03-af2f-c2bd60feb225
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",03ac0b83-9b67-42a1-b7e0-fc95d1d7e2ac
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",12ff33a8-3ea3-4533-b8e6-610abce7fa03
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",30df09aa-1906-4f83-b3bc-013b3e711602
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",f79d6ed1-88b2-46c8-8217-d439e4d2aa7c
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",d546ad83-33bf-4aaa-ba3f-9f369f84f4ae
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",c29d88ab-1439-4cfd-b39a-a437a8e9b968
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",6440a8fc-b8c2-436c-be03-1d1f737da218
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",4896d898-002b-4755-8497-213fd68be9fc
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",a269bed0-af56-43ec-864b-1da1ad18ae02
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",0b2e358a-0380-4d95-97cb-39820a42c2e6
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",c00822a2-9491-47a1-8e2f-a2e3f95315ee
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",e0dacad6-4681-468d-b998-31cfed10fe6e
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",99474566-d35a-4941-bef6-545c6792609f
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",a7c877b4-aa6b-44c9-a903-ac44d0821b1f
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",23c8e458-fc70-46da-8377-ac679cca0564
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",a405b087-af0f-4184-a33c-cf3ec61636db
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",f79536af-6906-4049-9e82-76cd192bd6df
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",ce69d53e-3f2c-427a-b4b5-43da20dc4bc2
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",1fcbae91-5a2f-4b91-b1bb-e2361a2e6e30
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",4144995c-b5ae-4ca3-9740-6bc329905cba
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",13f947e0-8f41-444e-bb85-329180825509
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",6cd548bd-4c1c-43f0-8293-2fac40b79440
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",7f3bf9ee-33e3-4082-9a70-e8b997bd4f7d
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",073764aa-b1f2-4bdc-a7df-921cd2982166
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",c488a08b-024a-417e-9748-879d542cdd9d
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",9a1bf1e5-9abc-4710-bc58-4f52df89bc46
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",2fa04be7-82fc-4cef-9968-a45f5ccf0b05
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",c99be5bf-ae19-42f4-90f8-e433c2816083
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",e8f1a3a8-7942-41b7-a0e0-67e27ea53a9e
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",a1d9dd0a-3c91-46f1-a6ea-b853262e7205
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",b6d208c9-ff31-46e6-9cc7-81cd1621725b
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",12126ccc-3802-4948-aea7-d39cb5da1b5d
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",5819f922-49ec-4b52-841d-29a8fca0650e
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",4a8bb3ec-a6f5-415a-a402-d1fa52c73704
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",113069f3-ed6c-43bf-9ad8-124e86d9bba0
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",9474b731-b210-4f15-9eb3-f14f28b04e60
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",8340dcec-4cd7-486b-b1a8-d011450854c0
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",7e435695-fd2b-47d4-b0e1-fbecc9aa84e2
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",07553781-e6a9-4b84-b4cd-64d564b6c106
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",0b311667-679d-432c-9d19-1bd1afd8d051
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",4ada7b5a-734e-454d-bd95-593652aa1bcd
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",ed43b9d0-0ed7-452b-864e-5147ba33f113
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",768093b2-7d7d-4f85-8338-ccb2e01b7693
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",32737656-706c-4598-9b84-2ab6f941f5b9
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",c7faeaab-b2b0-4004-a846-d653c67a3b92
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",cb3f5a57-7de9-462a-90e8-78b7fe8c280e
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",9b27b1fe-afb4-425f-81f0-691c54060754
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",a36f8a0f-c977-43fa-811b-2bac7ddecb75
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",8ca3e518-ef8d-416c-a50f-9e963cdde65d
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",19532648-af23-4ea2-8ff2-a3b79feab8bb
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",3af93aab-e12d-4b36-960d-4b9c70c5be59
+0,0,0,0,,harvester-stadtarchiv
