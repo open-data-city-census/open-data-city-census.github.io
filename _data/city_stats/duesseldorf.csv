@@ -1,4 +1,7 @@
 update_time,license,format,overall,groups,id
+0,1,1,2,Bevölkerung,bevolkerung-auf-ebene-der-baublocke
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",baublockgrenzen-von-dusseldorf
+0,1,1,2,"Bildung und Wissenschaft,Geographie, Geologie und Geobasisdaten",standorte-der-dusseldorfer-schulen
 0,1,1,2,Umwelt und Klima,strassenreinigungsverzeichnis-2018
 0,1,0,1,"Gesundheit,Soziales",drogenhilfe-dusseldorf-berichte-seit-2014
 0,1,0,1,"Soziales,Wirtschaft und Arbeit",zukunftswerkstatt-dusseldorf-jahresberichte-seit-2012
@@ -61,40 +64,3 @@ update_time,license,format,overall,groups,id
 0,1,1,2,Politik und Wahlen,integrationsratswahl-2014-dusseldorf
 0,1,1,2,Politik und Wahlen,landtagswahl-2017-dusseldorf
 0,1,1,2,Politik und Wahlen,bundestagswahl-2017-dusseldorf
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",75387e8d-716f-4c38-a382-2a1afc8cce9d
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",abbebd91-bce6-49bb-854d-b7caecc23c4b
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",03d81d59-3f8b-4b40-8ba8-3bdd2716251e
-0,0,0,0,Politik und Wahlen,170f1585-ffb0-4877-93ef-99c1d54c03c9
-0,0,0,0,Politik und Wahlen,06fbe0a5-ecd5-4926-a093-836502e3a7a1
-0,0,0,0,Politik und Wahlen,bdc6e367-4fd1-4465-8bfb-970e4a32e810
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",126af8a4-63da-4f47-bd5a-acaea0ec5fe1
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",263ce066-714d-4076-a714-90fa3d4b6a3d
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",ca2c0f0b-3044-4b1e-8ed8-2e354615bcad
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",836db06e-f1b7-47eb-8dc1-d8598858e1b7
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",dbf67863-d8fd-412d-a927-343776afe50d
-0,0,0,0,"Bevölkerung,Politik und Wahlen",28aa13be-7490-44cf-b708-9fbde5c9819d
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",1ef69a9b-62d8-4f6d-90c0-008856e41fdb
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",6aa9a984-402b-48ed-8270-1ae20cd949f6
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",24a9719c-7908-4dc7-92b5-81b99e619024
-0,0,0,0,Politik und Wahlen,fdb1d04c-fbb6-4385-9a3c-990b2974180e
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",35efbf9a-13a6-4a4b-839e-f0d789d96f7f
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",f1781687-48c7-47a9-a784-23906463b47f
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",86926018-a251-44aa-aacc-2bff4ab3f805
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",71f91212-abe0-4da1-800e-c34ec7551064
-0,0,0,0,Politik und Wahlen,d45b49b5-bc4f-4972-a6f7-a5e918f8929d
-0,0,0,0,Bildung und Wissenschaft,72b99c1a-6121-4dc3-a946-8806f87ef5bc
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",d4eaaca8-a9ba-4d63-a98f-e53316a45861
-0,0,0,0,Bildung und Wissenschaft,d56fe72c-32db-4dd7-abfe-85bfc3dfec3e
-0,0,0,0,Politik und Wahlen,cfec8810-7918-4408-902e-4eaecd016a88
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",e5776ce4-73eb-4ab8-9c73-a87c7c22bf62
-0,0,0,0,Politik und Wahlen,ed15f709-03cd-44c8-a0bc-255d290b32ca
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",f3f3f4db-2763-4daa-b986-6307d53bbf1b
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",99c5f436-9225-45c2-a4d7-ecc869a308a0
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",54fa359e-e6a3-4a00-9c35-e9e323e0f8c6
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",a2fb9591-06d4-41c0-8181-af5433ff6f48
-0,0,0,0,Politik und Wahlen,332ff354-332f-43dd-8213-2e13fc48cad0
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",678cb318-9a71-440b-a2bb-377ed7a3e882
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",ada63fc8-7aca-4e4a-8310-cb5615110213
-0,0,0,0,Politik und Wahlen,7692d18a-d09c-45df-898c-fbc10b9d092b
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",05755891-58e4-4a45-9b6c-8b9443820a47
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",a0331f0e-fc4f-413b-b4c4-1ea220390a38
