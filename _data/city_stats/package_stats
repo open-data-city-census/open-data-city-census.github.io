@@ -1,43 +1,8 @@
 update_time,license,format,overall,groups,id
-0,1,1,2,,winterdienst-streumittelverbrauch
-0,1,1,2,"Geographie, Geologie und Geobasisdaten,Umwelt und Klima",wertstoffcontainer-standorte
-0,1,0,1,"Geographie, Geologie und Geobasisdaten,Kultur, Freizeit, Sport, Tourismus",wanderweg-durch-die-ilvericher-altrheinschlinge
-0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",vollzeitaquivalente
-0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",strassenverzeichnis1
-0,1,1,2,,strassenverkehrsunfalle-ab-2006
-0,1,1,2,Politik und Wahlen,stimmbezirke-nach-strassenname
-0,1,1,2,"Geographie, Geologie und Geobasisdaten,Soziales",standorte-schulen
-0,1,1,2,Bevölkerung,staatsangehorigkeiten-in-meerbusch
-0,1,1,2,"Bildung und Wissenschaft,Soziales",schulerzahlen-und-schulneulinge
-0,1,1,2,Politik und Wahlen,ratswahl-meerbusch
-0,1,0,1,"Geographie, Geologie und Geobasisdaten,Kultur, Freizeit, Sport, Tourismus",radtour-stadt-land-fluss-40-kilometer-rund-um-meerbusch
-0,1,1,2,"Kultur, Freizeit, Sport, Tourismus",mitglieder-der-sportvereine
-0,1,1,2,"Geographie, Geologie und Geobasisdaten",leuchten2
-0,1,1,2,Politik und Wahlen,landtagswahl-meerbusch
-0,1,1,2,Politik und Wahlen,landtagswahl-2017
-0,1,1,2,Politik und Wahlen,landratswahl-meerbusch
-0,1,1,2,Politik und Wahlen,kreistagswahl-meerbusch
-0,1,0,1,"Geographie, Geologie und Geobasisdaten,Politik und Wahlen",kommunalwahlbezirke-der-stadt-meerbusch
-0,1,1,2,"Geographie, Geologie und Geobasisdaten,Soziales",kindertagesstatten
-0,1,1,2,Bevölkerung,gaste-in-beherbergungsbetrieben
-0,1,1,2,Bevölkerung,familienstande-nach-stadtteilen
-0,1,1,2,Politik und Wahlen,europawahl-meerbusch
-0,1,1,2,Politik und Wahlen,burgermeisterwahl-meerbusch
-0,1,1,2,Politik und Wahlen,bundestagswahl-meerbusch
-0,1,1,2,Politik und Wahlen,bundestagswahl-20171
-0,1,1,2,Bevölkerung,bevolkerungsentwicklung-ubersicht
-0,1,1,2,Bevölkerung,bevolkerungsentwicklung-nach-stadtteilen
-0,1,1,2,Bevölkerung,bevolkerungsdichte-nach-stadtteilen
-0,1,1,2,Bevölkerung,bevolkerungsbewegung-nach-stadtteilen
-0,1,1,2,,behindertengerechte-objekte
-0,1,0,1,"Geographie, Geologie und Geobasisdaten,Umwelt und Klima",bauleitplane
-0,1,1,2,Bevölkerung,auslanderanteil-nach-stadtteilen
-0,1,1,2,Soziales,anzahl-kinderspielplatze
-0,1,1,2,Politik und Wahlen,anzahl-der-sitzungen-von-rat-und-ausschussen
-0,1,1,2,Bevölkerung,altersgruppen-in-meerbusch-gesamt
-0,1,0,1,,spielplatzkonzept
-0,1,0,1,,open-data-konzept
-0,1,0,1,,klimaschutzberichte
-0,1,0,1,,jahresabschluss
-0,1,0,1,,haushaltsplane-als-pdf-dateien
-0,1,0,1,,gesamtabschluss
+0,1,0,1,Noch nicht kategorisiert,statistische-jahrbucher-der-stadt-mittenwalde
+0,1,1,2,Noch nicht kategorisiert,verkehrsmessungen-mittenwalde
+0,1,0,1,Noch nicht kategorisiert,bebauungsplaene
+0,1,1,2,Noch nicht kategorisiert,einwohnermeldedaten
+0,1,0,1,Noch nicht kategorisiert,klarstellungssatzungen
+0,1,0,1,Noch nicht kategorisiert,flachennutzungsplan-stadt-mittenwalde
+0,1,0,1,Noch nicht kategorisiert,strkataster
