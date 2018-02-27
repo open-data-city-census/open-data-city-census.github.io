@@ -250,4 +250,6 @@ update_time,license,format,overall,groups,id
 0,1,0,1,"Infrastruktur, Bauen und Wohnen,Wirtschaft und Arbeit",industrieflachen-koln-bonn
 0,1,0,1,"Infrastruktur, Bauen und Wohnen,Transport und Verkehr",parkplatze-koln-bonn
 0,1,0,1,Transport und Verkehr,strassen-koln-bonn
+0,1,0,1,Transport und Verkehr,verkehrsdaten-pkw-lkw-bus-sdr-messergebnisse-2017
+0,1,0,1,Transport und Verkehr,bussgelder-fliessender-verkehr-2017
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",haushaltsplan-2013-2014
