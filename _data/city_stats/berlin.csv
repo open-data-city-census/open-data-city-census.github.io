@@ -1,4 +1,14 @@
 update_time,license,format,overall,groups,id
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",strat-larmkarte-l_den-tag-abend-nacht-index-industrie-und-gewerbe-2017-ua-atom
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",schutzgebiete-im-inspire-datenmodell-schutzgebiete-nach-naturschutzrecht-atom
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",schutzgebiete-im-inspire-datenmodell-denkmale-atom
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",geografische-bezeichnungen-im-inspire-datenmodell-atom
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",strat-larmkarte-l_den-tag-abend-nacht-index-flugverkehr-2017-ua-atom
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",klimamodell-berlin-analysedaten-2015-windfeld-22-m-22-00-uhr-umweltatlas-wfs
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",strat-larmkarte-l_n-nacht-index-strassen-u-bahnverkehr-2017-ua-atom
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",grundwassergute-sulfat-umweltatlas
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",klimamodell-berlin-analysedaten-2015-windfeld-22-m-04-00-uhr-umweltatlas-wfs
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",strat-larmkarte-l_n-nacht-index-industrie-und-gewerbe-2017-ua-atom
 1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",strat-larmkarte-fassadenpegel-an-larmbeeinflussten-wohngebauden-2012-ua
 1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",strat-larmkarte-l_den-tag-abend-nacht-index-strassenverkehr-2012-ua
 1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",strat-larmkarte-l_n-nacht-index-industrie-und-gewerbe-2012-ua
@@ -48,7 +58,6 @@ update_time,license,format,overall,groups,id
 0.5,1,0,1.5,Wirtschaft und Arbeit,energie-wasser-und-gasversorgung-im-land-brandenburg
 0.5,1,0,1.5,Wirtschaft und Arbeit,energieverwendung-des-verarbeitenden-gewerbes-im-land-berlin-und-brandenburg
 0.5,0,0,0.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",erhaltungsverordnungsgebiete-172-baugb-wms
-0.5,0,0,0.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",grundwassergute-sulfat-umweltatlas
 0.5,0,0,0.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",grundwassergleichen-des-panketalgrundwasserleiters-2016-ua
 0.5,0,0,0.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",alleinerziehende-haushalte-2014-lor-wms
 0.5,0,0,0.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",grundwassergleichen-des-hauptgrundwasserleiters-2016-ua-wfs
