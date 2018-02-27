@@ -1,26 +1,26 @@
 update_time,license,format,overall,groups,id
-0,1,1,2,Bevölkerung,bevolkerung-auf-ebene-der-baublocke
-0,1,0,1,"Geographie, Geologie und Geobasisdaten",baublockgrenzen-von-dusseldorf
-0,1,1,2,"Bildung und Wissenschaft,Geographie, Geologie und Geobasisdaten",standorte-der-dusseldorfer-schulen
-0,1,1,2,Umwelt und Klima,strassenreinigungsverzeichnis-2018
-0,1,0,1,"Gesundheit,Soziales",drogenhilfe-dusseldorf-berichte-seit-2014
-0,1,0,1,"Soziales,Wirtschaft und Arbeit",zukunftswerkstatt-dusseldorf-jahresberichte-seit-2012
-0,1,1,2,Soziales,unterkunftsplatze-fur-fluchtlinge-in-dusseldorf-seit-2014
-0,1,1,2,Soziales,entwicklung-der-unterbringungszahlen-von-fluchtlingen-in-dusseldorf-seit-2014
-0,1,1,2,Soziales,unterbringung-von-fluchtlingen-in-dusseldorf-2017
-0,1,1,2,Soziales,entwicklung-der-zahlen-von-leistungsbeziehern-nach-dem-asylbewerberleistungsgesetz-in-duss-2016
-0,1,1,2,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",standorte-offentlicher-toiletten-dusseldorf
-0,1,1,2,"Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus",standorte-und-offnungzeiten-der-dusseldorfer-stadtbuchereien
+1,1,1,3,Bevölkerung,bevolkerung-auf-ebene-der-baublocke
+1,1,0,2,"Geographie, Geologie und Geobasisdaten",baublockgrenzen-von-dusseldorf
+1,1,1,3,"Bildung und Wissenschaft,Geographie, Geologie und Geobasisdaten",standorte-der-dusseldorfer-schulen
+0.5,1,1,2.5,Umwelt und Klima,strassenreinigungsverzeichnis-2018
+0.5,1,0,1.5,"Gesundheit,Soziales",drogenhilfe-dusseldorf-berichte-seit-2014
+0.5,1,0,1.5,"Soziales,Wirtschaft und Arbeit",zukunftswerkstatt-dusseldorf-jahresberichte-seit-2012
+0.5,1,1,2.5,Soziales,unterkunftsplatze-fur-fluchtlinge-in-dusseldorf-seit-2014
+0.5,1,1,2.5,Soziales,entwicklung-der-unterbringungszahlen-von-fluchtlingen-in-dusseldorf-seit-2014
+1,1,1,3,Soziales,unterbringung-von-fluchtlingen-in-dusseldorf-2017
+0.5,1,1,2.5,Soziales,entwicklung-der-zahlen-von-leistungsbeziehern-nach-dem-asylbewerberleistungsgesetz-in-duss-2016
+0.5,1,1,2.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",standorte-offentlicher-toiletten-dusseldorf
+0.5,1,1,2.5,"Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus",standorte-und-offnungzeiten-der-dusseldorfer-stadtbuchereien
 0,1,1,2,Bevölkerung,sterbefalle-in-dusseldorf-seit-2016
 0,1,1,2,Bevölkerung,geburten-in-dusseldorf-seit-2016
-0,1,1,2,"Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus",dusseldorfer-museen
+0.5,1,1,2.5,"Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus",dusseldorfer-museen
 0,1,1,2,"Infrastruktur, Bauen und Wohnen",gebaude-in-dusseldorf-uber-55-meter
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Soziales",wohngeldempfanger-in-den-wohnquartieren-dusseldorf
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Soziales",offentlich-geforderte-wohnungen-in-den-wohnquartieren-dusseldorf
 0,1,1,2,"Bevölkerung,Infrastruktur, Bauen und Wohnen",haushalte-in-den-wohnquartieren-dusseldorf
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Soziales",eigentumsquote-in-den-wohnquartieren-dusseldorf
 0,1,1,2,"Bevölkerung,Infrastruktur, Bauen und Wohnen",bevolkerung-in-den-wohnquartieren
-0,1,1,2,"Infrastruktur, Bauen und Wohnen,Soziales",bedarfsgemeinschaften-in-den-wohnquartieren-dusseldorf
+1,1,1,3,"Infrastruktur, Bauen und Wohnen,Soziales",bedarfsgemeinschaften-in-den-wohnquartieren-dusseldorf
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Wirtschaft und Arbeit",arbeitslose-in-den-wohnquartieren-dusseldorf
 0,1,1,2,"Infrastruktur, Bauen und Wohnen",wohnungen-und-gebaude-in-den-wohnquartieren
 0,1,1,2,Bevölkerung,staatsangehorigkeiten-der-dusseldorfer-bevolkerung
@@ -28,7 +28,7 @@ update_time,license,format,overall,groups,id
 0,1,1,2,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",schlusseltabellen-zu-den-wohnquartieren-von-dusseldorf
 0,1,1,2,"Infrastruktur, Bauen und Wohnen",bautatigkeiten-in-den-wohnquartieren
 0,1,1,2,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",flachengrossen-in-dusseldorf-auf-verschiedenen-ebenen
-0,1,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",wohnquartiergrenzen-dusseldorf
+0.5,1,0,1.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",wohnquartiergrenzen-dusseldorf
 0,1,0,1,"Geographie, Geologie und Geobasisdaten,Politik und Wahlen",stimmbezirksgrenzen-dusseldorf
 0,1,0,1,"Geographie, Geologie und Geobasisdaten",stadtbezirksgrenzen-dusseldorf
 0,1,1,2,"Geographie, Geologie und Geobasisdaten",stadtteile-dusseldorf
@@ -42,7 +42,7 @@ update_time,license,format,overall,groups,id
 0,1,0,1,"Geographie, Geologie und Geobasisdaten",stadtgrenze-dusseldorf
 0,1,0,1,Politik und Wahlen,jahresinhaltsubersichten-von-ratssitzungen-in-dusseldorf
 0,1,1,2,Gesetze und Justiz,einsatzzahlen-der-rettungsdienste-in-dusseldorf-seit-2000
-0,1,0,1,"Geographie, Geologie und Geobasisdaten",stadtteilgrenzen-dusseldorf
+0.5,1,0,1.5,"Geographie, Geologie und Geobasisdaten",stadtteilgrenzen-dusseldorf
 0,1,1,2,"Kultur, Freizeit, Sport, Tourismus",besucherzahlen-der-museen-und-sammlungen-seit-1999-in-dusseldorf
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",haushaltsplan-2017-dusseldorf
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",haushaltsplan-2015-dusseldorf
@@ -54,7 +54,7 @@ update_time,license,format,overall,groups,id
 0,1,1,2,"Geographie, Geologie und Geobasisdaten",strassenverzeichnis2
 0,1,1,2,Bildung und Wissenschaft,schulerinnen-und-schuler-an-den-stadtischen-schulen-dusseldorfs-seit-2006
 0,1,1,2,Gesundheit,anzahl-medizinischer-anwendungen-in-den-offentlichen-badern-dusseldorfs-seit-2006
-0,1,1,2,Bevölkerung,vornamen1
+0.5,1,1,2.5,Bevölkerung,vornamen1
 0,1,1,2,Politik und Wahlen,bezirksvertretungswahl-2014-dusseldorf
 0,1,1,2,Politik und Wahlen,ratswahl-2014-dusseldorf
 0,1,1,2,Politik und Wahlen,kommunal-und-oberburgermeisterstichwahl-2014-dusseldorf
