@@ -1,14 +1,43 @@
 update_time,license,format,overall,groups,id
-1,1,0,2,Wirtschaft und Arbeit,strom-und-warmeerzeugung-aus-kwk
-1,1,0,2,Wirtschaft und Arbeit,energieproduktivitat-energieintensitat-energieverbrauch-je-einwohner
-1,1,0,2,Wirtschaft und Arbeit,anteil-erneuerbarer-energietrager-am-primarenergieverbrauch
-1,1,0,2,Wirtschaft und Arbeit,bruttoenergieverbrauch-nach-bereichen
-1,0,0,1,,aktenplan-der-senatsverwaltung-fur-finanzen1
-1,1,0,2,Bevölkerung,angebote-fur-kinder-jugend-und-familie
-1,1,1,3,Bevölkerung,liste-der-haufigen-vornamen-2017
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",strat-larmkarte-fassadenpegel-an-larmbeeinflussten-wohngebauden-2012-ua
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",strat-larmkarte-l_den-tag-abend-nacht-index-strassenverkehr-2012-ua
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",strat-larmkarte-l_n-nacht-index-industrie-und-gewerbe-2012-ua
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",strat-larmkarte-l_den-tag-abend-nacht-index-strassen-u-bahnverkehr-2012-ua
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",aufgrabeverbote-in-berlin
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",strat-larmkarte-gesamtlarmindex-l_den-tag-abend-nacht-raster-2012-ua
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",strat-larmkarte-l_n-nacht-index-strassen-u-bahnverkehr-2012-ua
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",strat-larmkarte-l_den-tag-abend-nacht-index-flugverkehr-ber-prognose-2015
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",verkehrsbedingte-luftbelastung-2009-umweltatlas-wms
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",alkis-berlin-amtliches-liegenschaftskatasterinformationssystem
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",digitale-color-infrarot-orthophotos-2016-dop20cir-wms
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",digitale-farbige-orthophotos-2016-dop20rgb-wms
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",digitale-farbige-orthophotos-2011-dop20rgb-wms
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",planungshinweise-zum-bodenschutz-2010-umweltatlas
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",verkehrsbedingte-emissionen-2009-umweltatlas
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",digitale-farbige-orthophotos-2009-dop20rgb-wms
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",digitale-color-infrarot-orthophotos-2015-dop20cir-sommerbefliegung-wms
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",verkehrsbedingte-luftbelastung-im-strassenraum-2015-umweltatlas
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",digitale-farbige-orthophotos-2017-dop20rgb-wms
 1,1,0,2,,senatsvorlagen-der-senatsverwaltung-fur-finanzen1
-1,1,0,2,Wirtschaft und Arbeit,co2-emmissionen-aus-dem-primarenergieverbrauch-2014
-1,1,0,2,Wirtschaft und Arbeit,energiebilanzen-der-lander
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",regelungsfunktion-der-boden-fur-den-wasserhaushalt-2010-umweltatlas
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",reale-nutzung-der-bebauten-flachen-2010-umweltatlas
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",grundwassergleichen-2013-umweltatlas-wms
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",solaranlagen-photovoltaik-auf-bezirksebene-umweltatlas
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",blockkarte-1-50-000-isu50-raumbezug-umweltatlas-2015-wfs
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",kohlenstoffvorrate-umweltatlas-wms
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",wasserversorgung-der-boden-2010-umweltatlas
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",strat-larmkarte-l_den-tag-abend-nacht-index-flugverkehr-2017-ua
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",archivfunktion-der-boden-fur-die-naturgeschichte-2010-umweltatlas-wfs
+1,0,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",ph-werte-im-oberboden-2010-umweltatlas-wms
+0.5,1,0,1.5,Wirtschaft und Arbeit,strom-und-warmeerzeugung-aus-kwk
+0.5,1,0,1.5,Wirtschaft und Arbeit,energieproduktivitat-energieintensitat-energieverbrauch-je-einwohner
+0.5,1,0,1.5,Wirtschaft und Arbeit,anteil-erneuerbarer-energietrager-am-primarenergieverbrauch
+0.5,1,0,1.5,Wirtschaft und Arbeit,bruttoenergieverbrauch-nach-bereichen
+0.5,0,0,0.5,,aktenplan-der-senatsverwaltung-fur-finanzen1
+0.5,1,0,1.5,Bevölkerung,angebote-fur-kinder-jugend-und-familie
+0.5,1,1,2.5,Bevölkerung,liste-der-haufigen-vornamen-2017
+0.5,1,0,1.5,Wirtschaft und Arbeit,co2-emmissionen-aus-dem-primarenergieverbrauch-2014
+0.5,1,0,1.5,Wirtschaft und Arbeit,energiebilanzen-der-lander
 0.5,1,0,1.5,Wirtschaft und Arbeit,primarenergieverbrauch-nach-energietragern
 0.5,1,0,1.5,Wirtschaft und Arbeit,verarbeitendes-gewerbe-im-land-berlin-und-brandenburg
 0.5,1,0,1.5,Wirtschaft und Arbeit,insolvenzen-im-land-berlin-und-brandenburg
@@ -23,8 +52,6 @@ update_time,license,format,overall,groups,id
 0.5,0,0,0.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",grundwassergleichen-des-panketalgrundwasserleiters-2016-ua
 0.5,0,0,0.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",alleinerziehende-haushalte-2014-lor-wms
 0.5,0,0,0.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",grundwassergleichen-des-hauptgrundwasserleiters-2016-ua-wfs
-0.5,0,0,0.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",archivfunktion-der-boden-fur-die-naturgeschichte-2010-umweltatlas-wfs
-0.5,0,0,0.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",alkis-berlin-amtliches-liegenschaftskatasterinformationssystem
 0.5,0,0,0.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",alkis-berlin-bauwerke-linien
 0.5,0,0,0.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",grundwassergleichen-2012-umweltatlas-wms
 0.5,0,0,0.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",alkis-berlin-vegetation-punkte
@@ -833,169 +860,3 @@ update_time,license,format,overall,groups,id
 0,1,0,1,,arbeitslosigkeit-aller-ziviler-erwerbspersonen-in-berlin-in-prozent
 0,1,0,1,,vbb-fahrplandaten-april-2015-bis-dezember-2015
 0,0,0,0,,simple-search-ubung-schulz
-0,0,0,0,"Gesetze und Justiz,Politik und Wahlen",889baf5d-6d1d-42e7-8628-feae33458892
-0,0,0,0,Umwelt und Klima,d0ac46ea-4886-487a-8d98-47fb36cb9ca8
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Umwelt und Klima",791b9dc4-dc34-41ef-bfb7-8ef207af83d0
-0,0,0,0,"Bevölkerung,Umwelt und Klima",68b2c728-7044-4923-a525-c7e66a87db02
-0,0,0,0,Politik und Wahlen,3d7ee4bc-ca7e-454f-8979-c0018e37d29b
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",7f0b5cfd-cd1d-43e2-9332-989430074de9
-0,0,0,0,Bildung und Wissenschaft,c9096adc-082c-4701-9083-93283cb1debe
-0,0,0,0,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",c4515a15-11bc-4599-a6a4-bd1fb5227e39
-0,0,0,0,Verbraucherschutz,acbfed41-1d17-4cef-bc89-7cfd0de6f7f2
-0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",76216114-105a-4206-85e3-06a675611833
-0,0,0,0,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",db68f831-0fcb-42ea-92f9-76f9386c6bdc
-0,0,0,0,"Gesundheit,Transport und Verkehr,Umwelt und Klima",803e00b9-739e-4940-9ef8-e14747356e7e
-0,0,0,0,,3c96dcf0-b08a-4f13-a76d-7eb9cb974145
-0,0,0,0,Umwelt und Klima,b89e5126-39ea-47d8-b49a-a5d12754492f
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",68e93cda-dc03-4e68-abf8-7f5ca941b128
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",b63b3d68-8bf2-4114-ad2a-0b077bd43b84
-0,0,0,0,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",d727c97a-6762-4f10-a068-84a790db3fea
-0,0,0,0,Bevölkerung,fa9af3c7-2816-41af-bfa3-b0d28b475519
-0,0,0,0,Bevölkerung,cc30d871-1187-4376-b759-8a97f96ad064
-0,0,0,0,Umwelt und Klima,1e402500-4ef1-4ba8-a2b7-5158f7d52c13
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",368fa54f-6442-4fb6-95e2-035c79fa01a5
-0,0,0,0,Umwelt und Klima,dec247b2-0df0-4aa0-9d62-8f2b32b56eb3
-0,0,0,0,Umwelt und Klima,e185ffa3-4d1e-4b06-b214-c1c102192d8e
-0,0,0,0,"Transport und Verkehr,Umwelt und Klima",390ee1cd-7e6a-419e-b0c6-28b99a76c4db
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",c2f2e84f-8845-4ad8-bc43-6d5fa2b67822
-0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",4bcfe4db-9e6e-4e3e-9fa0-c2327b625416
-0,0,0,0,"Gesundheit,Transport und Verkehr,Umwelt und Klima",54150725-fda1-4852-b8ec-54b867d1d4a8
-0,0,0,0,Umwelt und Klima,e8f11c01-ba11-4359-9630-ae805007d465
-0,0,0,0,Bildung und Wissenschaft,d823dcfc-9cb6-4b19-99ee-a3e202c8379b
-0,0,0,0,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",13f040d6-d144-4a43-b267-c644d0b30110
-0,0,0,0,"Bevölkerung,Gesundheit,Transport und Verkehr,Umwelt und Klima",19404c8e-9b5d-4d05-a532-7030ac1afc25
-0,0,0,0,Umwelt und Klima,de0a608a-b9dc-4e27-bf34-654ee0aace7f
-0,0,0,0,Umwelt und Klima,a9e3582e-1182-4be8-95f3-7363c0adc921
-0,0,0,0,Bevölkerung,2dfc708c-a2a1-4186-93ff-95d0ef13f1f3
-0,0,0,0,Wirtschaft und Arbeit,44278fcf-d295-4676-a1c0-61bd0404c65e
-0,0,0,0,Bevölkerung,0ab4fb8c-d351-4026-9f5d-8acc55a0d314
-0,0,0,0,Umwelt und Klima,58e5fca7-0468-400f-b4cd-294085dd8b33
-0,0,0,0,"Bildung und Wissenschaft,Verbraucherschutz",a01b3c1b-3a20-453f-8d18-1a58a41c9ef0
-0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",ef0a0892-e79a-479b-9c8a-791b938a3f93
-0,0,0,0,Bildung und Wissenschaft,0ccbd186-6fa1-497c-a759-74d1600a2455
-0,0,0,0,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",b82d58ed-3053-45ee-b3e8-ef92021f6d79
-0,0,0,0,Umwelt und Klima,896f7843-2baf-4729-92e9-5985d03c9616
-0,0,0,0,Umwelt und Klima,44e07ae4-f7ce-41e8-9029-f2553edb72e9
-0,0,0,0,"Gesundheit,Transport und Verkehr,Umwelt und Klima",b4cea7bb-67cd-4d46-8dae-effd801c20dc
-0,0,0,0,Bevölkerung,0ee832ad-4cf7-40bc-8ef7-9149eb5a0588
-0,0,0,0,"Gesundheit,Infrastruktur, Bauen und Wohnen,Umwelt und Klima",87429074-3ff1-4a06-80f5-d0a50136cf56
-0,0,0,0,Umwelt und Klima,43c89184-8ed9-406e-8dc2-68355af04f29
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",446170e4-2edb-4061-b91f-05497b6549bd
-0,0,0,0,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",7c827937-7850-48d1-9e10-78c96da760b0
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Umwelt und Klima,Wirtschaft und Arbeit",7ff0deb7-5f95-4aec-b761-35b1d7a81868
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Gesetze und Justiz,Infrastruktur, Bauen und Wohnen,Umwelt und Klima",d3310b02-3b7a-4a79-9c20-168b3bd8045f
-0,0,0,0,Umwelt und Klima,8d1c0310-4fc8-4066-8aa8-c567205a2a77
-0,0,0,0,"Umwelt und Klima,Öffentliche Verwaltung, Haushalt und Steuern",0e311658-8d6d-459a-b131-38d3d219e5c7
-0,0,0,0,Bildung und Wissenschaft,6d946c28-4081-4d27-9972-5a227ce81c81
-0,0,0,0,Umwelt und Klima,8c6410e5-20f3-44fe-9955-7bcb3088deba
-0,0,0,0,"Bevölkerung,Umwelt und Klima",81ce1a24-d0c9-480c-a101-61b38eb57d1f
-0,0,0,0,"Umwelt und Klima,Wirtschaft und Arbeit",9557174a-8523-4d35-8095-32e294cdae87
-0,0,0,0,Verbraucherschutz,77e8a077-2f5a-4cda-8a9c-c7f5b5ae180d
-0,0,0,0,Gesetze und Justiz,88a0c062-96dc-4111-92b7-a6c43da2014b
-0,0,0,0,"Bevölkerung,Infrastruktur, Bauen und Wohnen,Umwelt und Klima",20ed5a16-aca8-4b46-85b9-4e37e5e3a357
-0,0,0,0,Bevölkerung,acae1c2e-cafd-4515-86d0-e53118635a07
-0,0,0,0,Bevölkerung,9b2ec92a-373a-4bf4-90a3-c5d04d096c13
-0,0,0,0,"Gesundheit,Soziales",23ec8e08-9b73-4c71-8a5d-7636e0197da9
-0,0,0,0,Soziales,ed98de5c-eba8-43d6-9dfa-f73de3ab1b83
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Umwelt und Klima",378b886a-bce7-4dd6-a9dc-5b4617e3b533
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",53ba7feb-42d6-4caa-918c-afa20ffc028b
-0,0,0,0,Umwelt und Klima,200804e3-620e-4238-bf87-aa104b6be41a
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Wirtschaft und Arbeit",45b1fa83-f6fc-4e38-96c3-40fbf327ec0d
-0,0,0,0,Umwelt und Klima,b96ce657-395e-49de-9732-559fd829a1cd
-0,0,0,0,Umwelt und Klima,526ebc2a-8f5f-4e15-ae56-287e7ab4dcb4
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Umwelt und Klima",fa4ea613-a703-4f25-be02-61e52e16b1f1
-0,0,0,0,"Bevölkerung,Transport und Verkehr,Umwelt und Klima",d7d65a49-03c4-4186-abcc-d40a20e982f0
-0,0,0,0,"Umwelt und Klima,Wirtschaft und Arbeit",88467f87-6d35-4f42-8cf1-09ab8339434f
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Transport und Verkehr,Umwelt und Klima",160d052e-90d7-4746-99b1-613cc1680f1f
-0,0,0,0,"Gesetze und Justiz,Wirtschaft und Arbeit",ee19d8e9-5c8b-4288-a2ce-ebaea6c4ea37
-0,0,0,0,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",5d81cda8-4ae7-4037-86af-55888388c5ab
-0,0,0,0,"Bevölkerung,Umwelt und Klima",5796b9cb-3620-45c4-b487-bcc7311f8873
-0,0,0,0,Umwelt und Klima,b623c9af-3a74-45d2-9f87-a2df95ff1afa
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Transport und Verkehr",292e3839-8385-4aa4-9871-830cdd1eac46
-0,0,0,0,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",cb659465-76fe-4fe0-b337-f5d6ba226371
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Umwelt und Klima",4464413f-08a6-416b-a9c5-0426fc0a9c98
-0,0,0,0,"Umwelt und Klima,Öffentliche Verwaltung, Haushalt und Steuern",17686932-bd7a-4f80-92f8-2183fd6f4b9f
-0,0,0,0,Umwelt und Klima,8697cfad-c262-4684-8aeb-e8432c7fdf75
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",e48f6b87-0a58-46b9-af1a-1461dcc1e219
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",cb93c644-63f5-4d11-8441-66df81154194
-0,0,0,0,Umwelt und Klima,f22402a2-170e-4408-b08f-f19aa113acfb
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Umwelt und Klima",e95860e9-2a35-4391-89c5-87b368fffe88
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",3b2dc204-cae3-4798-89a9-f7ebd33e5b8b
-0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",1eb772b7-7925-4833-83bd-fa8fc687b5ad
-0,0,0,0,"Umwelt und Klima,Wirtschaft und Arbeit",a3f0e657-7919-403a-a342-adeac1648d64
-0,0,0,0,Umwelt und Klima,18791669-505d-405f-a6f3-6f9c870bf0fd
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Umwelt und Klima",f25e3f50-d8ef-450d-9376-64a90bec0001
-0,0,0,0,"Bevölkerung,Umwelt und Klima",d31835bd-8280-46a0-988a-9c3888d52b21
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",16d67068-6213-4c2a-910d-cfbc5b0e1c42
-0,0,0,0,,a9b0fbe4-37c9-4c79-bdf4-cfb20293a5bf
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Umwelt und Klima",06f82308-ae00-4be5-8c29-cfaed4a3e996
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Umwelt und Klima",0c93faa8-9edc-4595-bb28-8268d86bcd03
-0,0,0,0,Umwelt und Klima,dba1eec6-9e82-44ba-b48d-59be52f695f4
-0,0,0,0,Umwelt und Klima,0a48c04b-d886-49e0-baa3-4153d0cc9dbc
-0,0,0,0,Bevölkerung,6f46afa0-f54f-45da-bfa2-01c34405df45
-0,0,0,0,"Umwelt und Klima,Wirtschaft und Arbeit",cc5ab048-ccc8-4b09-824d-8a0d3107ed7c
-0,0,0,0,Bevölkerung,ae1f503e-27df-4063-8ac3-a5a4a5b47d9f
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Transport und Verkehr",e0652df0-aa4e-43c9-a5bf-2a94ea0daedb
-0,0,0,0,Politik und Wahlen,c51932ee-918a-45ee-8fae-aac198139627
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",bc8a01cf-4d3a-4c25-be18-88318751fab0
-0,0,0,0,Wirtschaft und Arbeit,89dcc3f6-d58f-464e-a2c1-1a494aa8322a
-0,0,0,0,Umwelt und Klima,9ffaf130-e133-4935-bfa6-d9e9c84f85eb
-0,0,0,0,Umwelt und Klima,71b71fca-7fb3-45f3-90af-f8c032d0c3f9
-0,0,0,0,Umwelt und Klima,d01ca064-7840-4f41-b49d-07f480d12d56
-0,0,0,0,Umwelt und Klima,653d40e9-ca29-4612-a407-28b7de85b46a
-0,0,0,0,Bevölkerung,d2f97423-a409-4b88-a8bb-0b958706d9ab
-0,0,0,0,Bevölkerung,ed88af19-f7f6-49e5-80c9-af02b85af935
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Umwelt und Klima",067c7e5b-8c40-45fb-b848-ff307a1a69f3
-0,0,0,0,Umwelt und Klima,2f2d7207-e4ad-40dc-b9c6-5008791254e0
-0,0,0,0,"Transport und Verkehr,Umwelt und Klima",cbd7fffb-9b02-4119-839e-866a41e293ae
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",f0a5183b-09b9-4f0d-8370-093fff436204
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Verbraucherschutz",7c1e809e-8c43-43b4-b542-e199bed23fcc
-0,0,0,0,Umwelt und Klima,8d8a60a9-668b-4d2d-ab87-9694abefa95a
-0,0,0,0,Umwelt und Klima,ad17009c-2b19-4126-9952-ee22a6b1493d
-0,0,0,0,Gesundheit,20f81dcd-fb91-4c19-a992-43b70bb85965
-0,0,0,0,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",e4326313-fd13-4ee5-b7d6-042fd5da12c5
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Umwelt und Klima",ea6464d5-e4e0-4774-a465-2e070a555fdd
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",b0b00ff0-b7c0-4c4e-8358-f01d337a8fec
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Transport und Verkehr",5eada903-2e78-45d2-ab57-112649e57664
-0,0,0,0,Umwelt und Klima,78a14a37-df66-4390-8112-e79f0c7012a0
-0,0,0,0,"Umwelt und Klima,Wirtschaft und Arbeit",ba41a648-6e7e-4cf3-813f-bdf9ef7d9944
-0,0,0,0,"Umwelt und Klima,Wirtschaft und Arbeit",8d8b55ef-410b-49dd-870e-2e1123bb48a4
-0,0,0,0,Politik und Wahlen,464c6d9a-5e06-43c8-ae17-1fc7745aeab7
-0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",f4ef18f0-8877-4d14-922f-e3b2d62b2857
-0,0,0,0,"Umwelt und Klima,Wirtschaft und Arbeit",ba2db24a-7fcb-4486-b0b6-4e8f9820075a
-0,0,0,0,Wirtschaft und Arbeit,c89c6414-dc29-490f-a7a2-0f344afd99ef
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",c506ee89-4a20-4566-949a-19c4cb051561
-0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",3d5c8717-43dd-4320-9977-3fed4aca3e4b
-0,0,0,0,Umwelt und Klima,e3df0bbb-56ad-4f49-a11a-227b7492d707
-0,0,0,0,"Transport und Verkehr,Umwelt und Klima",ecc84963-2066-4590-8482-7ca83a19ff7c
-0,0,0,0,"Umwelt und Klima,Wirtschaft und Arbeit",503d524d-3286-4b27-b8cb-ee1c9a9f7054
-0,0,0,0,Bildung und Wissenschaft,557e7bb6-64a0-43e2-88b4-b1b6ca58409a
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Umwelt und Klima",3f30a35d-305b-4fee-959e-79a3072d0c96
-0,0,0,0,"Gesundheit,Umwelt und Klima",cab23992-4b8c-41b7-920c-c28b3c658953
-0,0,0,0,Bildung und Wissenschaft,cda4bcd7-0820-4a93-acd3-fbf775c8bd4a
-0,0,0,0,Bildung und Wissenschaft,8ab247c4-ba35-40d3-a5b5-37ff5c436ee6
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",0822b34a-5925-48c4-97e6-5f8ccf05b94d
-0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",b9407ced-9069-4186-a184-5c4cb727a637
-0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",1fd4152c-18d4-4f22-bf28-2d392cab4637
-0,0,0,0,Umwelt und Klima,64c0adf0-d24a-4a53-a934-a893d7622934
-0,0,0,0,Soziales,9c15d26c-f2be-4602-8b7e-f65f63b07a36
-0,0,0,0,Soziales,ef9acc61-d447-4a94-bf87-cd4f272647d8
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Transport und Verkehr,Umwelt und Klima",8d646866-1e68-4f92-a626-f63b79a479d5
-0,0,0,0,Umwelt und Klima,4570d8cf-688f-4397-a07d-358b1671cbd7
-0,0,0,0,Verbraucherschutz,4959d0f7-59e7-4991-84b8-14b907713c6a
-0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",b5e69c6e-f42f-4b84-81a3-f4f29c52fbc2
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",bb5b9b12-4fc0-4958-9f2b-a8f7d09ab605
-0,0,0,0,Umwelt und Klima,ab3569e3-ec73-48ff-a9b6-2e5062d5f555
-0,0,0,0,Umwelt und Klima,41913a31-9378-4f89-b5c0-cbaaa2e61cf4
-0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",8424c3df-edae-4ce8-b8c6-05160617066c
-0,0,0,0,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",9b43cb5a-1490-4d5e-830d-f5e6be5c35ad
-0,0,0,0,"Gesundheit,Transport und Verkehr,Umwelt und Klima",aea2fb87-34f6-4c72-980a-29b4845f1c28
-0,0,0,0,"Bevölkerung,Umwelt und Klima",f0be86f5-3dc6-4444-89c2-94524673e99f
-0,0,0,0,Umwelt und Klima,fd296e49-c542-44cf-a844-63b31a55a565
-0,0,0,0,Gesundheit,dc8755dd-7fcc-4d53-86c9-cd6d155aca6a
-0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",88af1613-b597-4fba-bdbc-50579f504da5
-0,0,0,0,"Gesundheit,Transport und Verkehr,Umwelt und Klima",dde32f7e-0fed-4b83-a456-875bb5d596a3
-0,0,0,0,"Bevölkerung,Umwelt und Klima",dcee657a-70bf-4eff-8046-71cd9717133d
-0,0,0,0,Bevölkerung,19e6e76c-54fa-439c-9806-7bed0eb97e15
-0,0,0,0,Umwelt und Klima,b5680c2c-e3ce-44de-9e3c-ffa62eb5048f
-0,0,0,0,Umwelt und Klima,2cd189aa-02cd-4cb5-ab11-27fac1c0a0c3
