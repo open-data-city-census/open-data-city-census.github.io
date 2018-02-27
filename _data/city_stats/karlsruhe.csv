@@ -1,5 +1,55 @@
 update_time,license,format,overall,groups,id
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",f32288c4-90c0-4f3f-86d4-eecc92c82cd8
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",f45d5f72-9e0b-45a7-916e-5f3fb99288c5
-0,0,0,0,Politik und Wahlen,28be92bb-db2d-438b-b511-a81ea38ab4ae
-0,0,0,0,"Bevölkerung,Bildung und Wissenschaft,Geographie, Geologie und Geobasisdaten,Gesundheit,Infrastruktur, Bauen und Wohnen,Soziales,Transport und Verkehr,Wirtschaft und Arbeit,Öffentliche Verwaltung, Haushalt und Steuern",bbc48cad-274c-47f9-8b42-20b04a96b911
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",zensusergebnisse-gebaude-und-wohnungen-in-karlsruhe
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",gebaude-und-wohnungen-in-karlsruhe-zensus-2011
+0,1,0,1,"Bevölkerung,Wirtschaft und Arbeit",bevolkerung-und-erwerbstatigkeit-zensus-2011
+0,1,0,1,Bevölkerung,zensusergebnisse-bevolkerungsstruktur-in-karlsruhe
+0,1,0,1,"Infrastruktur, Bauen und Wohnen,Soziales",wohngeldstatistik
+0,0,1,1,Wirtschaft und Arbeit,wochenmarkte2
+0,1,0,1,,ubersichtskarte-geothermieanlagen
+0,1,1,2,Bildung und Wissenschaft,ubergange-auf-weiterfuhrende-schulen-ubergangsquoten
+0,1,1,2,Verbraucherschutz,trinkwasseranalyse-hochbehalter-luss
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",tourismus-jahresbericht
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",tourismus-monatsbericht
+0,1,0,1,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Kultur, Freizeit, Sport, Tourismus,Soziales,Wirtschaft und Arbeit,Öffentliche Verwaltung, Haushalt und Steuern",stadtteilprofile-karlsruhe
+0,1,1,2,"Kultur, Freizeit, Sport, Tourismus",spielflachenversorgung
+0,1,0,1,Soziales,schwerbehindertenstatistik
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",registrierte-hunde
+1,1,1,3,"Bildung und Wissenschaft,Geographie, Geologie und Geobasisdaten,Gesetze und Justiz,Gesundheit,Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus,Soziales,Transport und Verkehr,Wirtschaft und Arbeit,Öffentliche Verwaltung, Haushalt und Steuern",points-of-interest1
+0,1,0,1,Soziales,pflegestatistik
+0,1,1,2,Bildung und Wissenschaft,offentliche-und-private-allgemein-bildende-schulen
+0,1,0,1,Umwelt und Klima,nachhaltigkeitsentwicklung
+0,1,0,1,Wirtschaft und Arbeit,minijobs
+0,1,1,2,Bevölkerung,migration
+0,1,1,2,Politik und Wahlen,landtagswahl-20161
+0,0,0,0,,kvv-fahrplandaten
+0,1,0,1,Soziales,kindeswohlgefahrdung
+0,1,0,1,"Bildung und Wissenschaft,Soziales",kindertagesbetreuung1
+0.5,1,1,2.5,,ka-feedback-meldungen
+0,1,0,1,Verbraucherschutz,jahresmittelwerte-zur-trinkwasserqualitat
+0,1,0,1,"Bevölkerung,Bildung und Wissenschaft,Geographie, Geologie und Geobasisdaten,Gesundheit,Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus,Politik und Wahlen,Soziales,Transport und Verkehr,Umwelt und Klima,Wirtschaft und Arbeit,Öffentliche Verwaltung, Haushalt und Steuern",statistisches-jahrbuch1
+0,1,0,1,"Soziales,Wirtschaft und Arbeit",indikatoren-zur-gleichstellung-von-frauen-und-mannern
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",daten-des-haushaltsplans-2017-2018
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",haushaltsplan-2017-2018
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",haushaltsplan-2015-20161
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",haushaltsplan-2013-20141
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",haushaltsplan-2011-2012
+0,1,1,2,Bevölkerung,haushalte1
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",gebaude-und-wohnungen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",gebaudegrossenstruktur
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",fremdenverkehr
+0,1,0,1,"Bevölkerung,Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus,Politik und Wahlen,Öffentliche Verwaltung, Haushalt und Steuern",daten-und-fakten
+0.5,1,1,2.5,Umwelt und Klima,daten-der-wetterstation-auf-der-heinrich-hubsch-schule
+0,1,1,2,Politik und Wahlen,bundestagswahl-20174
+0,1,1,2,Politik und Wahlen,bundestagswahl-20132
+0,1,1,2,Bevölkerung,bevolkerungsbewegungen
+0,1,1,2,Bevölkerung,bevolkerung1
+0,1,0,1,Bevölkerung,bevolkerung-jahresbericht
+0,1,0,1,Bevölkerung,bevolkerung-quartalsbericht
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",bautatigkeit
+0,1,0,1,"Soziales,Wirtschaft und Arbeit",indikatoren-zum-thema-armutsbekampfung
+0,1,0,1,Wirtschaft und Arbeit,arbeitsmarkt1
+0,1,1,2,Bevölkerung,altersstruktur
+0,1,0,1,,1-fortschreibung-des-larmaktionsplanes-2016
+0,0,0,0,,ka-weather
+0,0,0,0,,ka-poi
+0,0,0,0,,ka-afsta
