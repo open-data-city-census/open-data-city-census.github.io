@@ -21,8 +21,8 @@ update_time,license,format,overall,groups,id
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Transport und Verkehr",taxistaende-hro
 0,1,1,2,"Geographie, Geologie und Geobasisdaten",karte-nach-tarnow-1790
 0,1,1,2,"Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus",tanzschulen
-1,1,1,3,"Transport und Verkehr,Wirtschaft und Arbeit",tankstellen-hro
-0,1,1,2,"Verbraucherschutz,Wirtschaft und Arbeit",supermarkte1
+0.5,1,1,2.5,"Transport und Verkehr,Wirtschaft und Arbeit",tankstellen-hro
+1,1,1,3,"Verbraucherschutz,Wirtschaft und Arbeit",supermarkte1
 0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",strassenreinigungssatzung1
 0,1,1,2,Transport und Verkehr,strassenbahnlinien-hro
 1,1,1,3,"Geographie, Geologie und Geobasisdaten,Transport und Verkehr,Öffentliche Verwaltung, Haushalt und Steuern",strassen-hro
@@ -35,18 +35,18 @@ update_time,license,format,overall,groups,id
 0,1,1,2,Transport und Verkehr,stadtbuslinien-hro
 0,1,1,2,"Geographie, Geologie und Geobasisdaten,Öffentliche Verwaltung, Haushalt und Steuern",stadtbereiche-hro
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",sporthallen-hro
-0.5,1,1,2.5,"Verbraucherschutz,Wirtschaft und Arbeit",sozialkaufhauser-und-umsonstladen
+0,1,1,2,"Verbraucherschutz,Wirtschaft und Arbeit",sozialkaufhauser-und-umsonstladen
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",solarpotential-20131
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",solarpotential-hro
 0,1,1,2,"Kultur, Freizeit, Sport, Tourismus",sehenswuerdigkeiten-hro
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",schwimmbader1
-0.5,1,1,2.5,Bildung und Wissenschaft,schulen-hro
+0,1,1,2,Bildung und Wissenschaft,schulen-hro
 0,1,1,2,"Geographie, Geologie und Geobasisdaten",schopfwerkeinflussbereiche1
 0,1,1,2,"Geographie, Geologie und Geobasisdaten",karte-nach-schmettau-1788
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Transport und Verkehr",schiffsliegeplatze
 0,1,1,2,"Gesundheit,Verbraucherschutz,Wirtschaft und Arbeit",sanitatshauser1
 0,1,1,2,"Infrastruktur, Bauen und Wohnen",sanierungsgebiet-hro
-1,1,1,3,"Gesundheit,Infrastruktur, Bauen und Wohnen,Öffentliche Verwaltung, Haushalt und Steuern",rettungswachen-hro
+0.5,1,1,2.5,"Gesundheit,Infrastruktur, Bauen und Wohnen,Öffentliche Verwaltung, Haushalt und Steuern",rettungswachen-hro
 0,1,1,2,Transport und Verkehr,reisebusterminals-hro
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",recyclinghoefe-hro
 0,1,1,2,"Geographie, Geologie und Geobasisdaten,Umwelt und Klima",realnutzungskartierung-2014
@@ -73,7 +73,7 @@ update_time,license,format,overall,groups,id
 0,1,1,2,Politik und Wahlen,oberburgermeisterwahl-20121
 0,1,1,2,"Geographie, Geologie und Geobasisdaten,Umwelt und Klima",naturdenkmale-hro
 0,1,1,2,"Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus",musik_tanzschulen-hro
-0.5,1,1,2.5,"Kultur, Freizeit, Sport, Tourismus",musikclubs-hro
+0,1,1,2,"Kultur, Freizeit, Sport, Tourismus",musikclubs-hro
 0,1,1,2,"Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus",museen
 0,1,1,2,"Infrastruktur, Bauen und Wohnen",mobilfunkantennen-hro
 0,1,0,1,"Geographie, Geologie und Geobasisdaten",luftbild-rostocker-heide-2014
@@ -95,7 +95,7 @@ update_time,license,format,overall,groups,id
 0,1,1,2,"Gesundheit,Wirtschaft und Arbeit",kliniken-hro
 1,1,1,3,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",kleingartenanlagen-hro
 1,1,1,3,"Öffentliche Verwaltung, Haushalt und Steuern",klarschiff-hro-meldungen
-0.5,1,1,2.5,"Kultur, Freizeit, Sport, Tourismus",kinos-hro
+0,1,1,2,"Kultur, Freizeit, Sport, Tourismus",kinos-hro
 0,1,1,2,"Bildung und Wissenschaft,Soziales",kindertagespflegeeinrichtungen
 0,1,1,2,Soziales,kinder_jugendbetreuung-hro
 0.5,1,1,2.5,"Bildung und Wissenschaft,Soziales",kindertagesstaetten-hro
@@ -104,10 +104,10 @@ update_time,license,format,overall,groups,id
 0.5,1,1,2.5,"Gesundheit,Verbraucherschutz,Wirtschaft und Arbeit",horgerateakustiker1
 0,1,1,2,"Geographie, Geologie und Geobasisdaten,Umwelt und Klima",hochwassergefahrenkarte-sturmflut-ostsee
 0,1,1,2,"Geographie, Geologie und Geobasisdaten,Umwelt und Klima",historische-gewasserlaufe
-1,1,1,3,Transport und Verkehr,haltestellen-hro
+0.5,1,1,2.5,Transport und Verkehr,haltestellen-hro
 0,1,1,2,"Geographie, Geologie und Geobasisdaten,Umwelt und Klima",grundwasserflurabstand
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",glascontainer-hro
-1,1,1,3,"Verbraucherschutz,Wirtschaft und Arbeit",getrankemarkte1
+0.5,1,1,2.5,"Verbraucherschutz,Wirtschaft und Arbeit",getrankemarkte1
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",spielanlagen-hro
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",geothermiepotential1
 0,1,1,2,"Geographie, Geologie und Geobasisdaten,Öffentliche Verwaltung, Haushalt und Steuern",geografische-bezeichnungen
@@ -116,17 +116,17 @@ update_time,license,format,overall,groups,id
 1,1,1,3,"Geographie, Geologie und Geobasisdaten,Öffentliche Verwaltung, Haushalt und Steuern",gemeinden-und-gemeindefreie-kommunen-mecklenburg-vorpommern
 1,1,1,3,"Geographie, Geologie und Geobasisdaten,Öffentliche Verwaltung, Haushalt und Steuern",gemeindegrenze-hro
 1,1,1,3,"Geographie, Geologie und Geobasisdaten,Öffentliche Verwaltung, Haushalt und Steuern",gemarkungen
-1,1,1,3,"Infrastruktur, Bauen und Wohnen,Wirtschaft und Arbeit",geldautomaten1
-1,1,1,3,"Verbraucherschutz,Wirtschaft und Arbeit",gaststatten
+0.5,1,1,2.5,"Infrastruktur, Bauen und Wohnen,Wirtschaft und Arbeit",geldautomaten1
+0.5,1,1,2.5,"Verbraucherschutz,Wirtschaft und Arbeit",gaststatten
 0,1,1,2,"Kultur, Freizeit, Sport, Tourismus,Wirtschaft und Arbeit",museen_galerien-hro
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",friedhoefe-hro
 1,1,1,3,"Geographie, Geologie und Geobasisdaten,Öffentliche Verwaltung, Haushalt und Steuern",fluren
-0.5,1,1,2.5,"Geographie, Geologie und Geobasisdaten,Umwelt und Klima",fliessgewasser1
-1,1,1,3,"Gesundheit,Kultur, Freizeit, Sport, Tourismus,Wirtschaft und Arbeit",fitnessstudios1
+0,1,1,2,"Geographie, Geologie und Geobasisdaten,Umwelt und Klima",fliessgewasser1
+0.5,1,1,2.5,"Gesundheit,Kultur, Freizeit, Sport, Tourismus,Wirtschaft und Arbeit",fitnessstudios1
 0.5,1,1,2.5,"Infrastruktur, Bauen und Wohnen,Öffentliche Verwaltung, Haushalt und Steuern",feuerwachen-hro
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",fernwaermevorranggebiete-hro
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",sportanlagen-hro
-1,1,1,3,"Soziales,Verbraucherschutz,Wirtschaft und Arbeit",fair-trade-einzelhandel-hro
+0.5,1,1,2.5,"Soziales,Verbraucherschutz,Wirtschaft und Arbeit",fair-trade-einzelhandel-hro
 0,1,1,2,"Verbraucherschutz,Wirtschaft und Arbeit",fahrradladen
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Transport und Verkehr,Umwelt und Klima",fahrradabstellanlagen1
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Transport und Verkehr",faehranleger-hro
@@ -144,7 +144,7 @@ update_time,license,format,overall,groups,id
 0,1,1,2,Politik und Wahlen,burgerschaftswahl-20141
 0,1,1,2,Politik und Wahlen,burgerschaftswahl-20091
 0,1,1,2,Politik und Wahlen,burgerschaftswahl-20041
-0.5,1,1,2.5,"Kultur, Freizeit, Sport, Tourismus",theater-hro
+0,1,1,2,"Kultur, Freizeit, Sport, Tourismus",theater-hro
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",brunnen-hro
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Wirtschaft und Arbeit,Öffentliche Verwaltung, Haushalt und Steuern",bodenwertzonen-1999
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Wirtschaft und Arbeit,Öffentliche Verwaltung, Haushalt und Steuern",bodenrichtwerte-2017
@@ -157,8 +157,8 @@ update_time,license,format,overall,groups,id
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Wirtschaft und Arbeit,Öffentliche Verwaltung, Haushalt und Steuern",bodenrichtwerte-2005
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Wirtschaft und Arbeit,Öffentliche Verwaltung, Haushalt und Steuern",bodenrichtwerte-2002
 0,1,1,2,"Gesundheit,Verbraucherschutz,Wirtschaft und Arbeit",blutspendeeinrichtungen1
-1,1,1,3,Bildung und Wissenschaft,bildungstrager1
-0.5,1,1,2.5,"Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus",bibliotheken-hro
+0.5,1,1,2.5,Bildung und Wissenschaft,bildungstrager1
+0,1,1,2,"Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus",bibliotheken-hro
 0,1,1,2,"Transport und Verkehr,Öffentliche Verwaltung, Haushalt und Steuern",bewohnerparkgebiete
 0,1,1,2,Bevölkerung,bevolkerungsstruktur-2016
 0,1,1,2,Bevölkerung,bevolkerungsstruktur-2015
@@ -176,7 +176,7 @@ update_time,license,format,overall,groups,id
 0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",behorden-kommunal1
 0,1,1,2,Soziales,tagespflegeeinrichtungen-hro
 0.5,1,1,2.5,"Kultur, Freizeit, Sport, Tourismus,Soziales",begegnungszentren-hro
-1,1,1,3,"Infrastruktur, Bauen und Wohnen",bebauungsplaene-umrisse-hro
+0.5,1,1,2.5,"Infrastruktur, Bauen und Wohnen",bebauungsplaene-umrisse-hro
 1,1,1,3,"Infrastruktur, Bauen und Wohnen,Transport und Verkehr",baustellen-hro
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Verbraucherschutz,Wirtschaft und Arbeit",bau-und-gartenmarkte1
 0,1,1,2,"Bildung und Wissenschaft,Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",baudenkmale-hro
@@ -185,38 +185,9 @@ update_time,license,format,overall,groups,id
 1,1,1,3,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",baenke-hro
 0,1,1,2,"Verbraucherschutz,Wirtschaft und Arbeit",backereien1
 0,1,1,2,"Gesundheit,Verbraucherschutz,Wirtschaft und Arbeit",augenoptiker1
-0.5,1,1,2.5,"Gesundheit,Verbraucherschutz,Wirtschaft und Arbeit",apotheken-hro
+0,1,1,2,"Gesundheit,Verbraucherschutz,Wirtschaft und Arbeit",apotheken-hro
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",altkleidercontainer-hro
 0,1,1,2,"Gesundheit,Wirtschaft und Arbeit",aerztehaeuser-hro
 0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",adressenliste-historisch
 1,1,1,3,"Öffentliche Verwaltung, Haushalt und Steuern",adressenliste-hro
-1,1,1,3,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",abfallbehaelter-hro
-0,0,0,0,"Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus",2a5a5198-acfc-45d3-b9c5-8428e8b796a3
-0,0,0,0,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",e2b9043e-e1ac-4138-9875-4d8e1f68463c
-0,0,0,0,"Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus",50fdd483-1d81-47af-993b-a76ad6ef3986
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",6ac24b6f-f0c0-4d19-bc28-c41c396ce30e
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",b32876e0-7ba3-46d2-8245-a57833861d80
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",cfddd095-2f78-4cee-b064-aaa8c1549f7c
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",0fd43690-4d51-40be-9b95-1e27fe016657
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",dec58954-9e47-4676-b93b-bcbda7253d40
-0,0,0.5,0.5,Soziales,d55917d0-693d-42b1-be29-adb138fcd932
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",7ff095ed-22e2-4781-b6ea-a4b8c1f0eb0b
-0,0,0,0,"Infrastruktur, Bauen und Wohnen,Transport und Verkehr",0da79d18-28ed-471f-be8b-099632602a95
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",588a4c73-26e1-4028-868e-c7d505546934
-0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",fda18fb3-943e-47a2-b900-46843d7b64c3
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",41ace34a-1562-4fbe-99db-788f6df44b44
-0,0,0,0,Transport und Verkehr,055a8ec0-d415-43a3-b408-df2fb60ab1e8
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",94143855-7c16-4e6a-bc9a-a0c59d3cfec6
-0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",96192991-78d3-495d-872d-c3dc3bce84bd
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",a01feaf1-1257-4edc-b4ac-16984b4d43dc
-0,0,0,0,"Infrastruktur, Bauen und Wohnen",85c72064-0d8e-4a01-8685-728b4ce3fb90
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus,Transport und Verkehr",4f1d71ac-8e37-402f-9479-8b55d1614f55
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",5b17d6c0-20f5-4378-81ab-070b769e1457
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",36407c54-41f5-4a0e-b71e-0007739d5203
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",248cfe1c-5772-40da-b094-f14020952c60
-0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",c6564bf0-1e86-4d36-bc73-f29cb532b6d1
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",8a941fb0-242b-427b-8ebe-bbd1f7de8e83
-0,0,0,0,Soziales,0f22f666-fa3d-43a2-bd64-d8907a236d69
-0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",b46d7d6a-c8b0-47df-ba0d-76591d4c1712
-0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",484a540c-9573-44fe-8e89-12a8a6bfac40
-0,0,0,0,Transport und Verkehr,20ce291e-9f89-4b1b-b8b9-322e9a247e26
+0.5,1,1,2.5,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",abfallbehaelter-hro
