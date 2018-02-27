@@ -1,11 +1,2 @@
 update_time,license,format,overall,groups,id
-0,1,0,1,Wirtschaft und Arbeit,datenkompass-wirtschaft-landkreis-germersheim
-0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",datenkompass-tourismus-landkreis-germersheim
-0,1,0,1,"Gesundheit,Soziales",datenkompass-soziales-und-gesundheit-landkreis-germersheim
-0,1,0,1,Wirtschaft und Arbeit,datenkompass-wirtschaftliche-entwicklungspotenziale-landkreis-germersheim
-0,1,0,1,Transport und Verkehr,langzeitzahlstelle-auf-der-b-35-in-rheinbrucke-germersheim
-0,1,0,1,Bildung und Wissenschaft,datenkompass-erziehung-und-bildung-landkreis-germersheim
-0,1,0,1,Bevölkerung,demografischer-wandel-bevolkerungsvorausberechnung-vg-ebene-landkreis-germersheim
-0,1,0,1,Bevölkerung,demografischer-wandel-bevolkerungsvorausberechnung-landkreis-germersheim
-0,1,0,1,Bevölkerung,datenkompass-bevolkerung-und-gebiet-haushalte-und-familien-landkreis-germersheim
-0,1,0,1,Wirtschaft und Arbeit,datenkompass-arbeitsmarkt-erwerbstatigkeit-landkreis-germersheim
+0,0,0,0,"Gesetze und Justiz,Soziales",3d31e00f-3241-4b24-90df-bf77ca70c3f3
