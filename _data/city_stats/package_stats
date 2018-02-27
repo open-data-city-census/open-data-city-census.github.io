@@ -1,158 +1,441 @@
 update_time,license,format,overall,groups,id
-0,0,0,0,Umwelt und Klima,larmkartierung-larmminderungsplanung-im-bereich-der-stadt-braunschweig
-0,0,0,0,Gesundheit,kartenubersicht-der-hundestationen-in-braunschweig
-0,0,0,0,Transport und Verkehr,stadtplan-mit-behindertenparkplatzen
-0,0,0,0,Transport und Verkehr,ubersichtskarte-und-informationsbroschure-fur-busfahrer
-0,0,0,0,Umwelt und Klima,kampfmittelbelastungskarte
-0,0,0,0,Transport und Verkehr,winterdienst-im-bereich-der-stadt-braunschweig
-0,0,0,0,Bevölkerung,disc-golf-parcours-braunschweig-westpark
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",ubersichtskarten
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",statistisches-jahrbuch
-0,0,0,0,Transport und Verkehr,aktuelle-verkehrssituation
-0,0,0,0,Transport und Verkehr,parkangebote-und-aktuelle-parksituation-in-der-innenstadt-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",hoheninformationen-aus-laserscanbefliegungen-im-bereich-der-stadt-braunschweig-datenserie
-0,0,0,0,Gesundheit,wohnen-im-alter
-0,0,0,0,Noch nicht kategorisiert,metadateninformationssystem-der-adv
-0,0,0,0,Umwelt und Klima,artenschutzkonzept
-0,0,0,0,Noch nicht kategorisiert,metadatenkatalog-braunschweig-csw-schnittstelle
-0,0,0,0,Umwelt und Klima,karte-moglicher-boden-und-grundwasserbelastungen-in-braunschweig
-0,0,0,0,Bevölkerung,kindertagesstatten-im-bereich-der-stadt-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",luftbilder-digitale-orthofotos-der-stadt-braunschweig-datenserie
-0,0,0,0,Wirtschaft und Arbeit,kleingarten-im-bereich-der-stadt-braunschweig
-0,0,0,0,"Gesundheit,Transport und Verkehr,Umwelt und Klima",lage-der-hydranten-im-stadtgebiet-braunschweig
-0,0,0,0,Umwelt und Klima,landschaftsrahmenplan-braunschweig
-0,0,0,0,Umwelt und Klima,altablagerungen-im-stadtgebiet-braunschweig
-0,0,0,0,Transport und Verkehr,strassenreinigungskataster
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",siedlungsentwicklung-gewerbe-und-industriegebiete
-0,0,0,0,Umwelt und Klima,biotoptypen-1993
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",geologie
-0,0,0,0,Transport und Verkehr,verkehrsmengenkarten
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",stadtinformationsanlagen-city-light-poster-im-stadtgebiet-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",luftbilder-digitale-orthofotos-der-stadt-braunschweig-aus-dem-bildflug-1998
-0,0,0,0,Umwelt und Klima,ubersicht-park-und-grunanlagen
-0,0,0,0,Bevölkerung,schulwegplane
-0,0,0,0,Umwelt und Klima,artenschutz-umweltkarte
-0,0,0,0,Transport und Verkehr,masterplan-ringgleis
-0,0,0,0,"Infrastruktur, Bauen und Wohnen",denkmale-der-stadt-braunschweig
-0,0,0,0,Umwelt und Klima,grunflachen-informationssytem-der-stadt-braunschweig-anwendung
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",open-geodata-stadtbezirke-der-stadt-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",open-geodata-statistische-bezirke-der-stadt-braunschweig
-0,0,0,0,Wirtschaft und Arbeit,kleingartenkataster1
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",open-geodata-wahlbezirke-der-stadt-braunschweig
-0,0,0,0,Noch nicht kategorisiert,produktcenter-metadaten-der-bgr
-0,0,0,0,Transport und Verkehr,schnellladestationen-fur-e-autos
-0,0,0,0,Transport und Verkehr,verkehrsentwicklungsplan
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",bewertung-unbebauter-grundstucke-im-stadtgebiet-bs
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",mieten-verschiedener-stadtischer-immobilien-im-stadtgebiet-bs
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",flachennutzungsplan-der-stadt-braunschweig
-0,0,0,0,Noch nicht kategorisiert,gisu-katalog
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",kinderstadtplan-der-stadt-braunschweig
-0,0,0,0,Transport und Verkehr,stadtkarte-der-klassifizierten-strassen
-0,0,0,0,Umwelt und Klima,biotoptypen-1987
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",bewertung-von-eigentumswohnungen-im-stadtgebiet-bs
-0,0,0,0,Umwelt und Klima,natur-und-landschaftsschutz
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",spielplatze-im-bereich-der-stadt-braunschweig
-0,0,0,0,Umwelt und Klima,biotoptypen-2005
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",digitales-3d-stadtmodell-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",schulen-in-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",stadtplan-raumbezugsebene-3
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",stadtkarte-raumbezugsebene-2
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",stadtische-wohnbaugebiete-im-bereich-der-stadt-braunschweig-anwendung
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",schulbezirke-der-stadt-braunschweig
-0,0,0,0,"Infrastruktur, Bauen und Wohnen",denkmale
-0,0,0,0,Umwelt und Klima,wasserschutzgebiet
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",luftbilder-schragaufnahmen-von-teilen-der-stadt-braunschweig-aus-dem-bildflug-2007
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",infrarot-luftbilder-digitale-cir-orthofotos-der-stadt-braunschweig-aus-dem-bildflug-2008
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",infrarot-luftbilder-digitale-cir-orthofotos-der-stadt-braunschweig-aus-dem-bildflug-2011
-0,0,0,0,Umwelt und Klima,larmkartierung-larmminderungsplanung-im-bereich-der-stadt-braunschweig-anwendung
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",stadtbezirke-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",hausnummern
-0,0,0,0,Umwelt und Klima,biotoptypen-im-bereich-der-stadt-braunschweig-datenserie
-0,0,0,0,Transport und Verkehr,strassenmittenlinien
-0,0,0,0,"Gesundheit,Transport und Verkehr,Umwelt und Klima",wasserentnahmestellen-der-feuerwehr
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",naturraumliche-gliederung
-0,0,0,0,Umwelt und Klima,baumkataster-der-stadt-braunschweig-anwendung
-0,0,0,0,Transport und Verkehr,winterdienst-im-bereich-der-stadt-braunschweig-anwendung
-0,0,0,0,Umwelt und Klima,lage-der-wertstoffcontainer-im-bereich-der-stadt-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",hoheninformationen-aus-der-laserscanbefliegung-der-stadt-braunschweig-2011
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",bewertungen-von-bebauten-und-unbebauten-grundstucken-im-bereich-der-stadt-braunschweig-datenser
-0,0,0,0,Umwelt und Klima,bodentypen-und-bodenarten
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",strassennamen
-0,0,0,0,Gesundheit,qualitat-der-badegewasser-in-braunschweig
-0,0,0,0,"Infrastruktur, Bauen und Wohnen",braunschweigs-brucken
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",bevolkerung-mit-migrationshintergrund-in-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",wahlatlas-der-stadt-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",braunschweig-app
-0,0,0,0,Umwelt und Klima,amphibienschutz
-0,1,0,1,"Geographie, Geologie und Geobasisdaten",open-geodata-wege-routen-rundgange-zu-sehenswurdigkeiten-und-naherholungsgebiete-der-stadt-brau
-0,1,0,1,"Geographie, Geologie und Geobasisdaten",open-geodata-stadtubersichtskarte-braunschweig-1-40-000
-0,1,0,1,"Geographie, Geologie und Geobasisdaten",open-geodata-stadtkarte-braunschweig-1-5-000
-0,0,0,0,Umwelt und Klima,larmaktionsplan-larmminderungsplanung
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",stadtgrundkarte-raumbezugsebene-1
-0,0,0,0,Umwelt und Klima,solarkataster-der-stadt-braunschweig
-0,1,0,1,Transport und Verkehr,open-geodata-radwege-braunschweig-1-20-000
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",baulandkataster
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",strassenverzeichnis-der-stadt-braunschweig
-0,0,0,0,Umwelt und Klima,bericht-2013-uber-altdeponien-in-der-stadt-braunschweig
-0,0,0,0,Umwelt und Klima,grundwasserverunreinigungen-in-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",videouberwachung-in-der-stadt-braunschweig1588d
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",videouberwachung-in-der-stadt-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",parkrundgang-in-braunschweig
-0,0,0,0,"Infrastruktur, Bauen und Wohnen",stadtrundgang-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",luftbilder-digitale-orthofotos-der-stadt-braunschweig-aus-dem-bildflug-2011
-0,0,0,0,Umwelt und Klima,klima-und-immissionsokologische-funktionen-in-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",bebauungsplankataster-anwendung
-0,0,0,0,Umwelt und Klima,lage-der-wertstoffcontainer-im-stadtgebiet-braunschweig-anwendung
-0,0,0,0,Umwelt und Klima,bericht-2012-uber-altdeponien-in-der-stadt-braunschweig
-0,0,0,0,Bevölkerung,bevolkerungsentwicklung-in-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",statistische-bezirke-und-baublocke
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",stadtplan-braunschweig-anwendung
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",luftbilder-digitale-orthofotos-der-stadt-braunschweig-aus-dem-bildflug-2014
-0,0,0,0,Umwelt und Klima,uberschwemmungsgebiet-der-oker
-0,0,0,0,Umwelt und Klima,uberschwemmungsgebiet-der-schunter
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",luftbilder-digitale-orthofotos-der-stadt-braunschweig-aus-dem-bildflug-2001
-0,0,0,0,Umwelt und Klima,uberschwemmungsgebiet-wabe-und-mittelriede
-0,0,0,0,Umwelt und Klima,luftreinhalte-und-aktionsplan
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",luftbilder-schragaufnahmen-der-stadt-braunschweig-aus-dem-bildflug-2015
-0,0,0,0,Bevölkerung,bevolkerungsprognose-der-stadt-braunschweig-2012-2030
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",siedlungsentwicklung-wohnbaugebiete
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",blik-braunschweiger-leit-und-informationssystem-fur-kultur
-0,0,0,0,Transport und Verkehr,fahrradstadtplan-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",historisch-synoptische-karte-der-innenstadt-von-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",hoheninformationen-aus-der-laserscanbefliegung-der-stadt-braunschweig-2003
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",wahlbezirke-und-wahllokale-in-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",gemarkungs-und-flurubersicht-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",bewertung-von-erbbaurechten-im-stadtgebiet-bs
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",braunschweig-in-der-metropolregion
-0,0,0,0,Umwelt und Klima,klimaschutzkonzept
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",ausgelegte-bebauungsplane
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",bebauungsplankataster
-0,1,0,1,"Geographie, Geologie und Geobasisdaten",open-geodata-regionalkarte-braunschweig-1-100-000
-0,1,0,1,"Geographie, Geologie und Geobasisdaten",open-geodata-stadtplan-braunschweig-1-20-000
-0,0,0,0,Umwelt und Klima,solarkataster-der-stadt-braunschweig-anwendung
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",einkaufsfuhrer-der-stadt-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",stadtplan-braunschweig-raumbezugsebene-3
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",stadtische-wohnbaugebiete-im-bereich-der-stadt-braunschweig
-0,0,0,0,"Infrastruktur, Bauen und Wohnen",sehenswurdigkeiten-in-braunschweig
-0,0,0,0,Gesundheit,beratungsangebote-fur-senioren
-0,0,0,0,Gesundheit,ambulante-dienste-im-bereich-der-stadt-braunschweig
-0,1,0,1,"Geographie, Geologie und Geobasisdaten",open-geodata-braunschweig-freies-kartenmaterial-und-weitere-geodaten-im-internet-datenserie
-0,0,0,0,Umwelt und Klima,ausgleichs-und-ersatzflachen-des-kompensationsflachenkatasters
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",cityservice
-0,0,0,0,Umwelt und Klima,uberwachungsberichte-uber-altdeponien-im-bereich-der-stadt-braunschweig-datenserie
-0,0,0,0,Umwelt und Klima,baumkataster-der-stadt-braunschweig
-0,0,0,0,Bevölkerung,kinder-und-jugendfreizeiteinrichtungen
-0,0,0,0,Bevölkerung,seniorenbegegnungsstatten-in-der-stadt-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",luftbilder-digitale-orthofotos-der-stadt-braunschweig-aus-dem-bildflug-2005
-0,1,0,1,"Geographie, Geologie und Geobasisdaten",open-geodata-liste-der-braunschweiger-strassennamen
-0,0,0,0,"Infrastruktur, Bauen und Wohnen",innenstadtspielfahrte
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",geoportal-frisbi
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",bewertung-bebauter-grundstucke-im-stadtgebiet-braunschweig
-0,0,0,0,Bevölkerung,altersstrukturen-in-braunschweig
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",braunschweig-app-anwendung
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",luftbilder-digitale-orthofotos-der-stadt-braunschweig-aus-dem-bildflug-2008
-0,0,0,0,Wirtschaft und Arbeit,kleingartenkataster
-0,0,0,0,Transport und Verkehr,verkehrszahlungsdaten
-0,0,0,0,Transport und Verkehr,widmung-offentlicher-verkehrflachen
-0,0,0,0,"Geographie, Geologie und Geobasisdaten",stadtische-liegenschaften
-0,0,0,0,"Infrastruktur, Bauen und Wohnen",strassenbilder
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-des-landes-und-der-stadtgemeinde-bremen-2016-20171
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-des-landes-und-der-stadtgemeinde-bremen-2016-ist-daten1
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-des-landes-und-der-stadtgemeinde-bremen-2012-ist-daten1
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-des-landes-und-der-stadtgemeinde-bremen-2011-ist-daten1
+0,0,0.5,0.5,"Öffentliche Verwaltung, Haushalt und Steuern",zuwendungen-in-bremen-2014-20151
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-des-landes-und-der-stadtgemeinde-bremen-2015-ist-daten1
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",themen-und-schlagworte-im-transparenzportal1
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-des-landes-und-der-stadtgemeinde-bremen-2014-ist-daten1
+0,0,0.5,0.5,"Öffentliche Verwaltung, Haushalt und Steuern",zuwendungen-in-bremen-2012-20131
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",zugriffszahlen-downloads-unter-daten-bremen-de-20131
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-des-landes-und-der-stadtgemeinde-bremen-2013-ist-daten1
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",zugriffszahlen-des-schwarzen-bretts-unter-bremen-de-fur-20131
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",zugriffszahlen-internetauftritt-seniorenlotse-bremen-de-20131
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",zugriffszahlen-landesportal-bremen-20131
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",zugriffszahlen-internetauftritt-frauenseiten-bremen-de-20131
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",zugriffszahlen-internetauftritt-bremen-de-20131
+0,1,0.5,1.5,Soziales,iko-kennzahlenvergleich-sgb-viii-zeitreihe-erziehungshilfe-von-2005-bis-2011-in-bremen1
+0,0,0.5,0.5,"Öffentliche Verwaltung, Haushalt und Steuern",zuwendungen-in-bremen-2011-20121
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-des-landes-und-der-stadtgemeinde-bremen-2014-20151
+0,0,0.5,0.5,"Öffentliche Verwaltung, Haushalt und Steuern",zuwendungen-in-bremen-20111
+0,1,1,2,Bevölkerung,vornamen-top-100-in-bremen-20121
+0,1,1,2,Bevölkerung,vornamen-top-100-in-bremen-20111
+0,1,1,2,Bevölkerung,vornamen-top-100-in-bremen-20101
+0,1,1,2,Bevölkerung,vornamen-top-100-in-bremen-20091
+0,1,1,2,Bevölkerung,vornamen-top-100-in-bremen-20081
+0,1,1,2,Bevölkerung,vornamen-top-100-in-bremen-20071
+0,1,1,2,Bevölkerung,vornamen-top-100-in-bremen-20061
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushaltsportrat-20121
+0,1,0,1,Umwelt und Klima,entsorgungsanlagen-in-bremen2
+0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",tarifvertrage-bremen-allgemeinverbindlich-erklart1
+0,0,0.5,0.5,"Öffentliche Verwaltung, Haushalt und Steuern",zuwendungen-in-bremen-2009-20101
+0,1,0,1,Umwelt und Klima,baumfallungen-und-baumpflanzungen-in-bremen1
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen-20161
+0,1,0,1,Gesetze und Justiz,gesetze-rechtsvorschriften-verordnungen-rundschreiben-und-satzungen-des-landes-bremen1
+0,1,0,1,Gesetze und Justiz,vertrage-und-vereinbarungen-bremen1
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen-20081
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen-20091
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen-20101
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen-20111
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen-20121
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen-20131
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen-20141
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen-20151
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen1
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",geographie-geologie-und-geobasisdaten-bremen
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",verwaltungsvorschriften-bremen1
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",geschaftsverteilungs-und-organisationsplane-bremen1
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",offene-daten-bremen-gesamtubersicht-aller-offenen-datensatze1
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",uberwachungskamerastandorte-in-offentlichen-einrichtungen-in-bremen1
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amter-im-land-bremen
+0,1,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Transport und Verkehr",strassenverzeichnis-der-stadt-bremen1
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals-20161
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20161
+0,0,0,0,Gesundheit,toilettenstandorte-in-bremen-projekt-nette-toilette2
+0,0,0,0,Umwelt und Klima,ozonwerte-in-bremen2
+0,1,0,1,Umwelt und Klima,badeseedaten-in-bremen2
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals-20081
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals-20091
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals-20101
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals-20111
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals-20121
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals-20131
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals-20141
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals-20151
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20151
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20141
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20131
+0,1,0,1,Bevölkerung,wanderungen-von-auslandern-uber-gemeindegrenzen-der-stadt-bremen-nach-geschlecht-und-staatsange1
+0,1,0,1,Bevölkerung,vorausschatzung-naturliche-und-raumliche-bevolkerungsbewegungen-nach-geschlecht-2030-in-bremen1
+0,1,0,1,Bevölkerung,vorausschatzung-durchschnittsalter-nach-geschlecht-2030-in-bremen1
+0,1,0,1,Bevölkerung,vorausschatzung-bevolkerung-nach-altersjahren-und-geschlecht-20301
+0,1,1,2,Bevölkerung,umlandwanderungen-nach-herkunfts-bzw-zielkreisen-in-bremen-bremer-umland1
+0,1,0,1,Bevölkerung,innerstadtische-wanderungen-nach-staatsangehorigkeit-in-bremen1
+0,1,0,1,Bevölkerung,gestorbene-nach-geschlecht-staatsangehorigkeit-und-altersgruppen-in-bremen1
+0,1,0,1,Bevölkerung,durchschnittliches-alter-der-bevolkerung-bremen1
+0,1,0,1,Politik und Wahlen,burgerschaftswahl-landtag1
+0,1,0,1,Politik und Wahlen,bundestagswahl-zweitstimmen1
+0,1,0,1,Bevölkerung,bevolkerungsdaten-nach-altersgruppen-geschlecht-und-haushaltsgrosse1
+0,1,0,1,Bevölkerung,bevolkerung-nach-migrationsstatus-geschlecht-und-altersgruppen1
+0,1,0,1,Bevölkerung,bevolkerung-nach-geschlecht-staatsangehorigkeit-und-altersgruppen1
+0,1,0,1,Bevölkerung,bevolkerung-nach-geschlecht-familienstand-und-altersgruppen1
+0,1,0,1,Bevölkerung,bevolkerung-nach-altersjahren-und-geschlecht1
+0,1,0,1,Bevölkerung,bevolkerung-nach-altersgruppen-und-wohndauer1
+0,1,0,1,Politik und Wahlen,beiratewahlen1
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",spielplatze-in-bremen1
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",kita-einrichtungen-einrichtungen-zur-tagesbetreuung-von-kindern-in-bremen1
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-des-landes-und-der-stadtgemeinde-bremen-2012-20131
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20121
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",umrisspolygone-der-kommunalen-friedhofe-in-bremen1
+0,1,0,1,Umwelt und Klima,umrisspolygone-der-offentlichen-grunanlagen-in-bremen1
+0,1,1,2,"Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus",bibliotheken-in-bremen1
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",parkbanke-in-offentlichen-grunanlagen-und-auf-kommunalen-friedhofen-in-bremen1
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",hundekotbehalterstandorte-in-bremen1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen,Öffentliche Verwaltung, Haushalt und Steuern",barrierefreiheit-von-einrichtungen-in-bremen-projekt-stadtfuhrer-barrierefreies-bremen1
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals
+0,0,0,0,"Geographie, Geologie und Geobasisdaten",karteninhalte-von-geoinformation-bremen1
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",dienstleistungsbeschreibungen-der-behorden-in-bremen1
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20111
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20101
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20091
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20081
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20071
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20061
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20051
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20041
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20031
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20021
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20011
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20001
+0,1,0,1,Wirtschaft und Arbeit,wochenmarkte-in-bremen2
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",zollamter-in-bremen1
+0,1,0,1,"Gesundheit,Öffentliche Verwaltung, Haushalt und Steuern",behindertenverbande-in-bremen1
+0,1,0,1,Wirtschaft und Arbeit,berufs-und-fachverbande-in-bremen1
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",deichverbande-in-bremen1
+0,1,0,1,Wirtschaft und Arbeit,handelsverbande-in-bremen1
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",jugendverbande-in-bremen1
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",kulturverbande-in-bremen1
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",musikverbande-in-bremen1
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",verbraucherinitiativen-in-bremen1
+0,1,0,1,Wirtschaft und Arbeit,wirtschaftsverbande-in-bremen1
+0,1,0,1,Wirtschaft und Arbeit,unternehmensverbande-in-bremen1
+0,1,1,2,Politik und Wahlen,wahllokale-in-bremen1
+0,1,0,1,Gesundheit,aids-beratungsstellen-in-bremen1
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",sportvereine-in-bremen1
+0,1,0,1,Soziales,obdachlosenhilfeneinrichtungen-in-bremen1
+0,1,0,1,"Gesundheit,Soziales",pflegeberatungsstellen-in-bremen1
+0,1,0,1,Gesetze und Justiz,rechtsberatungsstellen-in-bremen1
+0,1,0,1,Bildung und Wissenschaft,privatschulen-in-bremen1
+0,1,0,1,Gesundheit,rettungsdienste-in-bremen1
+0,1,0,1,"Gesundheit,Soziales",soziale-hilfsdienste-in-bremen1
+0,1,0,1,Soziales,sozialpadagogische-familienhilfen-einrichtungen-in-bremen1
+0,1,0,1,Soziales,sozialverbande-in-bremen1
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",schwimmbader-in-bremen1
+0,1,0,1,"Gesundheit,Soziales",pflegeeinrichtungen-in-bremen1
+0,1,0,1,"Bildung und Wissenschaft,Wirtschaft und Arbeit",forschungseinrichtungen-in-bremen1
+0,1,0,1,Bildung und Wissenschaft,fort-und-weiterbildungseinrichtungen-in-bremen1
+0,1,0,1,"Gesundheit,Soziales",mutter-kind-einrichtungen-in-bremen1
+0,1,0,1,Gesundheit,hausnotruf-einrichtungen-in-bremen1
+0,1,0,1,Gesundheit,madchennotruf-einrichtungen-in-bremen1
+0,1,0,1,Gesundheit,tierarztnotdienste-in-bremen1
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",volkskunde-einrichtungen-in-bremen1
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",volkstanz-einrichtungen-und-vereine-in-bremen1
+0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",kinderheime-waisenhauser-in-bremen1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",wohnen-im-alter-einrichtungen-in-bremen1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",wohnen-fur-menschen-mit-behinderungen-einrichtungen-in-bremen1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",wohnmobilstellplatze-in-bremen1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",wohnungshilfeeinrichtungen-in-bremen1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",wohnungsvermittlungen-in-bremen1
+0,1,0,1,Bildung und Wissenschaft,akademien-einrichtungen-in-bremen1
+0,1,0,1,Bevölkerung,ahnen-und-familienforschung-einrichtungen-in-bremen1
+0,1,0,1,Umwelt und Klima,abwasser-einrichtungen-in-bremen1
+0,1,0,1,Umwelt und Klima,entsorgungsbetriebe-in-bremen1
+0,1,0,1,"Bildung und Wissenschaft,Öffentliche Verwaltung, Haushalt und Steuern",erwachsenenschulen-in-bremen1
+0,1,0,1,"Bildung und Wissenschaft,Öffentliche Verwaltung, Haushalt und Steuern",forderzentren-in-bremen1
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus,Öffentliche Verwaltung, Haushalt und Steuern",burgerhauser-in-bremen1
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",sehenswurdigkeiten-in-bremen1
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",denkmalpflegeeinrichtungen-in-bremen1
+0,1,0,1,Umwelt und Klima,wasserrettungsdienste-in-bremen1
+0,1,0,1,Gesundheit,tierheilpraktiker-in-bremen1
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",tierheime-und-tierschutzvereine-in-bremen1
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",parks-in-bremen1
+0,1,0,1,Bildung und Wissenschaft,hochschulen-in-bremen1
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",theater-in-bremen1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",parkhauser-in-bremen1
+0,1,0,1,Gesundheit,apotheken-in-bremen1
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",abfall-und-recyclinghofe-in-bremen1
+0,1,0.5,1.5,Bildung und Wissenschaft,schulen-in-bremen1
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-des-landes-und-der-stadtgemeinde-bremen-2016-2017
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-des-landes-und-der-stadtgemeinde-bremen-2016-ist-daten
+0,1,0,1,Wirtschaft und Arbeit,wochenmarkte-in-bremen1
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-des-landes-und-der-stadtgemeinde-bremen-2012-ist-daten
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-des-landes-und-der-stadtgemeinde-bremen-2011-ist-daten
+0,0,0.5,0.5,"Öffentliche Verwaltung, Haushalt und Steuern",zuwendungen-in-bremen-2014-2015
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-des-landes-und-der-stadtgemeinde-bremen-2015-ist-daten
+0,1,0,1,"Gesetze und Justiz,Öffentliche Verwaltung, Haushalt und Steuern",gesetzblatter-bremen-2016
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",themen-und-schlagworte-im-transparenzportal
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-des-landes-und-der-stadtgemeinde-bremen-2014-ist-daten
+0,0,0.5,0.5,"Öffentliche Verwaltung, Haushalt und Steuern",zuwendungen-in-bremen-2012-2013249ca
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",zugriffszahlen-downloads-unter-daten-bremen-de-20130acfe
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",zollamter-in-bremencc1a1
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-des-landes-und-der-stadtgemeinde-bremen-2013-ist-datenaff98
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",zugriffszahlen-des-schwarzen-bretts-unter-bremen-de-fur-20135cf5d
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",zugriffszahlen-internetauftritt-seniorenlotse-bremen-de-2013e45af
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",zugriffszahlen-landesportal-bremen-20136cc2d
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",zugriffszahlen-internetauftritt-frauenseiten-bremen-de-20131a2a0
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",zugriffszahlen-internetauftritt-bremen-de-201367005
+0,1,0.5,1.5,Soziales,iko-kennzahlenvergleich-sgb-viii-zeitreihe-erziehungshilfe-von-2005-bis-2011-in-bremencbca5
+0,0,0.5,0.5,"Öffentliche Verwaltung, Haushalt und Steuern",zuwendungen-in-bremen-2011-20120e1ad
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-des-landes-und-der-stadtgemeinde-bremen-2014-2015ad2ca
+0,0,0.5,0.5,"Öffentliche Verwaltung, Haushalt und Steuern",zuwendungen-in-bremen-2011f696f
+0,1,1,2,Bevölkerung,vornamen-top-100-in-bremen-2012c4762
+0,1,1,2,Bevölkerung,vornamen-top-100-in-bremen-201173ad9
+0,1,1,2,Bevölkerung,vornamen-top-100-in-bremen-201057ca7
+0,1,1,2,Bevölkerung,vornamen-top-100-in-bremen-20099fbc2
+0,1,1,2,Bevölkerung,vornamen-top-100-in-bremen-2008f85b6
+0,1,1,2,Bevölkerung,vornamen-top-100-in-bremen-20070f40b
+0,1,1,2,Bevölkerung,vornamen-top-100-in-bremen-2006cba75
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushaltsportrat-20129c0f3
+0,1,0,1,Umwelt und Klima,entsorgungsanlagen-in-bremen1
+0,1,0,1,"Gesundheit,Öffentliche Verwaltung, Haushalt und Steuern",behindertenverbande-in-bremence83d
+0,1,0,1,Wirtschaft und Arbeit,berufs-und-fachverbande-in-bremen33df5
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",deichverbande-in-bremen2efb0
+0,1,0,1,Wirtschaft und Arbeit,handelsverbande-in-bremencc734
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",jugendverbande-in-bremenf1349
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",kulturverbande-in-bremen0a091
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",musikverbande-in-bremen3b030
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",verbraucherinitiativen-in-bremen550b4
+0,1,0,1,Wirtschaft und Arbeit,wirtschaftsverbande-in-bremenfa95d
+0,1,0,1,Wirtschaft und Arbeit,unternehmensverbande-in-bremena3f8c
+0,1,1,2,Politik und Wahlen,wahllokale-in-bremene6940
+0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",tarifvertrage-bremen-allgemeinverbindlich-erklarteea56
+0,0,0.5,0.5,"Öffentliche Verwaltung, Haushalt und Steuern",zuwendungen-in-bremen-2009-2010396b2
+0,1,0,1,Gesundheit,aids-beratungsstellen-in-bremend30d3
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",sportvereine-in-bremenf6d2f
+0,1,0,1,Umwelt und Klima,baumfallungen-und-baumpflanzungen-in-bremen12520
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen-2016
+0,1,0,1,Gesetze und Justiz,gesetze-rechtsvorschriften-verordnungen-rundschreiben-und-satzungen-des-landes-bremen
+0,1,0,1,Gesetze und Justiz,vertrage-und-vereinbarungen-bremen
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen-2008
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen-2009
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen-2010
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen-2011
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen-2012
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen-2013
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen-2014
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen-2015
+0,1,0,1,Gesetze und Justiz,gesetze-und-rechtsverordnungen-bremen81c4d
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",karten-plane-und-geo-informationssysteme-bremenedcb4
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",verwaltungsvorschriften-bremen448b7
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",geschaftsverteilungs-und-organisationsplane-bremencf438
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",offene-daten-bremen-gesamtubersicht-aller-offenen-datensatzee173a
+0,1,0,1,Soziales,obdachlosenhilfeneinrichtungen-in-bremen3e6c8
+0,1,0,1,"Gesundheit,Soziales",pflegeberatungsstellen-in-bremenf2f71
+0,1,0,1,Gesetze und Justiz,rechtsberatungsstellen-in-bremen1002c
+0,1,0,1,Bildung und Wissenschaft,privatschulen-in-bremenef76a
+0,1,0,1,Gesundheit,rettungsdienste-in-bremen900ce
+0,1,0,1,"Gesundheit,Soziales",soziale-hilfsdienste-in-bremen9af45
+0,1,0,1,Soziales,sozialpadagogische-familienhilfen-einrichtungen-in-bremen3e901
+0,1,0,1,Soziales,sozialverbande-in-bremen67c30
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",schwimmbader-in-bremendbc00
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",uberwachungskamerastandorte-in-offentlichen-einrichtungen-in-bremen4190f
+0,1,0,1,"Gesundheit,Soziales",pflegeeinrichtungen-in-bremen6cfbb
+0,1,0,1,"Bildung und Wissenschaft,Wirtschaft und Arbeit",forschungseinrichtungen-in-bremen6e085
+0,1,0,1,Bildung und Wissenschaft,fort-und-weiterbildungseinrichtungen-in-bremen14af8
+0,1,0,1,"Gesundheit,Soziales",mutter-kind-einrichtungen-in-bremen13f25
+0,1,0,1,Gesundheit,hausnotruf-einrichtungen-in-bremenc200f
+0,1,0,1,Gesundheit,madchennotruf-einrichtungen-in-bremen28ec4
+0,1,0,1,Gesundheit,tierarztnotdienste-in-bremen2d63e
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",volkskunde-einrichtungen-in-bremenb00d0
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",volkstanz-einrichtungen-und-vereine-in-bremen07ab4
+0,1,0,1,"Soziales,Öffentliche Verwaltung, Haushalt und Steuern",kinderheime-waisenhauser-in-bremend1632
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",wohnen-im-alter-einrichtungen-in-bremen50b1a
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",wohnen-fur-menschen-mit-behinderungen-einrichtungen-in-bremen845c3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",wohnmobilstellplatze-in-bremena38c4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",wohnungshilfeeinrichtungen-in-bremen9cd22
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",wohnungsvermittlungen-in-bremenc247f
+0,1,0,1,Bildung und Wissenschaft,akademien-einrichtungen-in-bremen03dfb
+0,1,0,1,Bevölkerung,ahnen-und-familienforschung-einrichtungen-in-bremend4256
+0,1,0,1,Umwelt und Klima,abwasser-einrichtungen-in-bremen7baec
+0,1,0,1,Umwelt und Klima,entsorgungsbetriebe-in-bremendeeb8
+0,1,0,1,"Bildung und Wissenschaft,Öffentliche Verwaltung, Haushalt und Steuern",erwachsenenschulen-in-bremen8c95e
+0,1,0,1,"Bildung und Wissenschaft,Öffentliche Verwaltung, Haushalt und Steuern",forderzentren-in-bremen2c2a9
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus,Öffentliche Verwaltung, Haushalt und Steuern",burgerhauser-in-bremen0cce2
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",sehenswurdigkeiten-in-bremen7d56b
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amter-in-bremen709af
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",denkmalpflegeeinrichtungen-in-bremen3c50c
+0,1,0,1,Umwelt und Klima,wasserrettungsdienste-in-bremen0006f
+0,1,0,1,Gesundheit,tierheilpraktiker-in-bremen33bf4
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",tierheime-und-tierschutzvereine-in-bremen6bff5
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",parks-in-bremen12f22
+0,1,0,1,Bildung und Wissenschaft,hochschulen-in-bremen0575c
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",theater-in-bremenc31ae
+0,1,0,1,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",parkhauser-in-bremen7460b
+0,1,0,1,Gesundheit,apotheken-in-bremenb4780
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",abfall-und-recyclinghofe-in-bremen931bf
+0,1,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Transport und Verkehr",strassenverzeichnis-der-stadt-bremen4a692
+0,1,0,1,"Gesetze und Justiz,Öffentliche Verwaltung, Haushalt und Steuern",amtsblatter-bremen-2016
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals-2016
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-2016
+0,0,0,0,Gesundheit,toilettenstandorte-in-bremen-projekt-nette-toilette1
+0,0,0,0,Umwelt und Klima,ozonwerte-in-bremen1
+0,1,0,1,Umwelt und Klima,badeseedaten-in-bremen1
+0,1,0,1,"Gesetze und Justiz,Öffentliche Verwaltung, Haushalt und Steuern",gesetzblatter-bremen-2015
+0,1,0,1,"Gesetze und Justiz,Öffentliche Verwaltung, Haushalt und Steuern",gesetzblatter-bremen-2014
+0,1,0,1,"Gesetze und Justiz,Öffentliche Verwaltung, Haushalt und Steuern",gesetzblatter-bremen-2013
+0,1,0,1,"Gesetze und Justiz,Öffentliche Verwaltung, Haushalt und Steuern",amtsblatter-bremen-2013
+0,1,0,1,"Gesetze und Justiz,Öffentliche Verwaltung, Haushalt und Steuern",amtsblatter-bremen-2014
+0,1,0,1,"Gesetze und Justiz,Öffentliche Verwaltung, Haushalt und Steuern",amtsblatter-bremen-2015
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals-2008
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals-2009
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals-2010
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals-2011
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals-2012
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals-2013
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals-2014
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-dokumente-des-transparenzportals-2015
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-2015
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-2014
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-2013
+0,1,0,1,Bevölkerung,wanderungen-von-auslandern-uber-gemeindegrenzen-der-stadt-bremen-nach-geschlecht-und-staatsangefc937
+0,1,0,1,Bevölkerung,vorausschatzung-naturliche-und-raumliche-bevolkerungsbewegungen-nach-geschlecht-2030-in-bremencfe4a
+0,1,0,1,Bevölkerung,vorausschatzung-durchschnittsalter-nach-geschlecht-2030-in-bremen23c09
+0,1,0,1,Bevölkerung,vorausschatzung-bevolkerung-nach-altersjahren-und-geschlecht-20303d455
+0,1,1,2,Bevölkerung,umlandwanderungen-nach-herkunfts-bzw-zielkreisen-in-bremen-bremer-umlandbd1ef
+0,1,0,1,Bevölkerung,innerstadtische-wanderungen-nach-staatsangehorigkeit-in-bremena93bc
+0,1,0,1,Bevölkerung,gestorbene-nach-geschlecht-staatsangehorigkeit-und-altersgruppen-in-bremen7efdc
+0,1,0,1,Bevölkerung,durchschnittliches-alter-der-bevolkerung-bremen24aad
+0,1,0,1,Politik und Wahlen,burgerschaftswahl-landtag21e26
+0,1,0,1,Politik und Wahlen,bundestagswahl-zweitstimmen5a3ca
+0,1,0,1,Bevölkerung,bevolkerungsdaten-nach-altersgruppen-geschlecht-und-haushaltsgrosse57749
+0,1,0,1,Bevölkerung,bevolkerung-nach-migrationsstatus-geschlecht-und-altersgruppen77f10
+0,1,0,1,Bevölkerung,bevolkerung-nach-geschlecht-staatsangehorigkeit-und-altersgruppenacea3
+0,1,0,1,Bevölkerung,bevolkerung-nach-geschlecht-familienstand-und-altersgruppen685eb
+0,1,0,1,Bevölkerung,bevolkerung-nach-altersjahren-und-geschlecht83ade
+0,1,0,1,Bevölkerung,bevolkerung-nach-altersgruppen-und-wohndauerdbfcc
+0,1,0,1,Politik und Wahlen,beiratewahlen27c31
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",spielplatze-in-bremenda431
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",kita-einrichtungen-einrichtungen-zur-tagesbetreuung-von-kindern-in-bremenbe264
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-des-landes-und-der-stadtgemeinde-bremen-2012-201346d35
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-201209235
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",umrisspolygone-der-kommunalen-friedhofe-in-bremen8fd80
+0,1,0,1,Umwelt und Klima,umrisspolygone-der-offentlichen-grunanlagen-in-bremen85c98
+0,1,0.5,1.5,Bildung und Wissenschaft,schulen-in-bremenf2965
+0,1,1,2,"Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus",bibliotheken-in-bremen14ce2
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",parkbanke-in-offentlichen-grunanlagen-und-auf-kommunalen-friedhofen-in-bremenca3fe
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",hundekotbehalterstandorte-in-bremenc6815
+0,1,0,1,"Infrastruktur, Bauen und Wohnen,Öffentliche Verwaltung, Haushalt und Steuern",barrierefreiheit-von-einrichtungen-in-bremen-projekt-stadtfuhrer-barrierefreies-bremen6bd94
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",amtliche-informationen-informationsregister7416d
+0,0,0,0,"Geographie, Geologie und Geobasisdaten",karteninhalte-von-geoinformation-bremen68ebe
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",dienstleistungsbeschreibungen-der-behorden-in-bremenf31ea
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-2011a3d6a
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20107a24a
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-200968ca9
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-2008411e3
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-2007635b7
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20061287b
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-2005e94da
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-2004c43ce
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-2003ab374
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20020bf04
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-200168fe1
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aktuelle-meldungen-und-pressemitteilungen-fur-das-jahr-20002aab1
+0,0,0,0,Umwelt und Klima,ec71d119-5553-48cb-b357-024c785eacdc
+0,0,0,0,Umwelt und Klima,f93d1ba0-7e66-490d-90a2-26179990a98e
+0,0,0,0,Umwelt und Klima,a5731b41-971e-47b1-a91b-e0692a8ef281
+0,0,0,0,Umwelt und Klima,8918aadc-5bbb-4992-9301-a3b6da5a9d51
+0,0,0,0,Umwelt und Klima,af3615f5-c4cf-4073-9904-182cdea30a8e
+0,0,1,1,Bildung und Wissenschaft,ea86210f-9446-41bb-9aed-b4730c796ef7
+0,0,0,0,"Bildung und Wissenschaft,Umwelt und Klima",e1261ebc-fea8-4ab7-b8b5-d2c4aea8261f
+0,0,1,1,Wirtschaft und Arbeit,a62d1fbc-3e61-4c23-adf9-26b4a1532263
+0,0,0,0,Bildung und Wissenschaft,cf6f41c8-543b-4751-9bd9-c3304c1d36bc
+0,0,0.5,0.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",012c1cc3-6232-4f4b-aa56-bcddf8d14a28
+0,0,0,0,Bildung und Wissenschaft,ffbcc1b8-8f43-46ed-a3ee-3eea6735f9a2
+0,0,0,0,,e5a79c3d-698c-4bc3-b054-026bb642c8ad
+0,0,0.5,0.5,Bildung und Wissenschaft,854a8e12-b3a2-49d5-8b82-97af29183f5c
+0,0,0,0,Bildung und Wissenschaft,7f915c20-6667-40d7-ab45-2358775ac812
+0,0,1,1,Wirtschaft und Arbeit,753511ec-4dd1-4364-8a98-11add6f3cdc1
+0,0,0.5,0.5,"Öffentliche Verwaltung, Haushalt und Steuern",2bc43407-b6c1-4bd7-8941-a559f8c78aef
+0,0,0,0,Politik und Wahlen,cb0a878d-6110-4513-9b22-04ebf8ede4df
+0,0,1,1,"Kultur, Freizeit, Sport, Tourismus",4374db87-a6ce-429f-a520-3c6cbb32a85f
+0,0,0,0,"Bildung und Wissenschaft,Öffentliche Verwaltung, Haushalt und Steuern",866c7ce9-c674-40dd-b0c4-17c96a47eec1
+0,0,1,1,"Infrastruktur, Bauen und Wohnen",50c593dd-445b-4400-8efa-e1d270a4c3a2
+0,0,1,1,Wirtschaft und Arbeit,fab8af4c-ac73-4207-943a-361fffe7c54c
+0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",236e7731-23ae-49fe-9590-e0023c382a62
+0,0,0,0,Transport und Verkehr,e0a24b0b-00eb-48ff-a2f7-250ec64adfc2
+0,0,0.5,0.5,Bildung und Wissenschaft,17fc0b21-bac0-474b-b657-e20e7463b72e
+0,0,0,0,"Bevölkerung,Politik und Wahlen",2ad3ce25-eeb9-497f-ad4c-d3fee99f814e
+0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",d5122a0f-22a6-47a9-9c80-fbe50c41bd6b
+0,0,1,1,"Kultur, Freizeit, Sport, Tourismus",a064ad86-7a3e-4ccc-ba17-6d8177723f11
+0,0,1,1,Wirtschaft und Arbeit,2f4dd54d-28bc-4743-bee9-9690a943ffee
+0,0,0,0,Umwelt und Klima,fca82703-01d3-4466-91e4-13ebbb36b52f
+0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",fd8a2457-c383-4131-9224-155049fed77c
+0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",14c3bfc0-cc3f-4ab7-9a12-7347d25d7809
+0,0,0,0,Umwelt und Klima,7f3226c1-f853-4f74-b9e8-bd326caddf31
+0,0,1,1,"Kultur, Freizeit, Sport, Tourismus",52c67f7b-93da-4ced-993c-1cbd2e355269
+0,0,0,0,"Bildung und Wissenschaft,Öffentliche Verwaltung, Haushalt und Steuern",95551d1d-8484-4147-bd17-77ba8aa449ab
+0,0,0,0,Umwelt und Klima,35eb4e2a-7d8f-4458-b637-9ded5e914a25
+0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",300d75f4-8749-4c51-8da6-24c2f772a46f
+0,0,0.5,0.5,"Wirtschaft und Arbeit,Öffentliche Verwaltung, Haushalt und Steuern",b131dabd-a188-4dfa-b001-6b0040a960d2
+0,0,1,1,Wirtschaft und Arbeit,9c5a2941-0ee3-4976-8689-710d4057b0df
+0,0,1,1,Wirtschaft und Arbeit,f3a5b566-e238-4193-993a-87049227d81b
+0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",8457ef48-8ac2-4aa6-bd23-80c922311527
+0,0,1,1,Wirtschaft und Arbeit,41af70ff-c33b-487d-a562-1bad0c6e7efe
+0,0,1,1,Wirtschaft und Arbeit,a1a58fa9-528a-428e-84b8-fd9b18ae0c60
+0,0,1,1,"Bevölkerung,Bildung und Wissenschaft,Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Soziales,Transport und Verkehr,Wirtschaft und Arbeit",65532bd1-49a3-4bae-b747-4bedd97b37d5
+0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",2d9b315f-a3cb-4452-8e56-c1624dda28c3
+0,0,1,1,Bildung und Wissenschaft,73ed8bd6-5a4c-4960-90a4-3c7731c18696
+0,0,1,1,Bildung und Wissenschaft,85f5d7bc-179c-42cf-a9e2-d18def226733
+0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",a82704bf-4a45-4251-86a0-f8aed504232d
+0,0,0,0,Bildung und Wissenschaft,e9ab94bd-f1d0-4b29-a4dd-9881495d637a
+0,0,0,0,Bildung und Wissenschaft,1ab48be0-c4f4-443f-a376-b0b1c155a474
+0,0,0,0,Umwelt und Klima,f3858b51-15b2-497f-ac7e-7ec125637157
+0,0,1,1,Wirtschaft und Arbeit,72bb8c65-4806-4527-815f-7848237e36aa
+0,0,0.5,0.5,Umwelt und Klima,6e4c45ed-a2d4-4d60-960b-753223a799ba
+0,1,0,1,,3ac61426-d5ed-4d80-94bb-3bf1b46bc91e
+0,0,1,1,Transport und Verkehr,31fd1e81-b8cb-48c0-af4e-608af0503d44
+0,0,0.5,0.5,Umwelt und Klima,776c3a04-652a-44ee-a52a-437436b76dfd
+0,0,0.5,0.5,"Kultur, Freizeit, Sport, Tourismus",7d130c4f-8231-4f94-ba3a-f92129c49c47
+0,0,0,0,Umwelt und Klima,b311fbda-da13-477e-8a51-675b745d8b1f
+0,0,0,0,Umwelt und Klima,946dfd4e-78d5-4ee1-8da6-43ad5c5285b7
+0,0,1,1,"Kultur, Freizeit, Sport, Tourismus",abdd6a7e-a524-4960-b1e6-56d762710735
+0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",358fa165-a8a8-47d6-a152-e31c43eec6f5
+0,0,0.5,0.5,Umwelt und Klima,d13114f0-d27f-42dd-a424-ab791831185e
+0,0,1,1,Wirtschaft und Arbeit,722fd154-44df-4c80-811f-166c0e7b992f
+0,0,0.5,0.5,Wirtschaft und Arbeit,10566284-b4ea-4d45-ba7b-b16e57797b52
+0,0,0,0,Bildung und Wissenschaft,54af33fb-6d7e-46c7-afdd-dece70200f12
+0,0,0,0,Bildung und Wissenschaft,734d9404-37ca-45f3-8828-4c8cb3c992e0
+0,0,0,0,Umwelt und Klima,9db6d2a0-efd9-4e40-b989-bf2578d4b5b7
+0,0,1,1,Bildung und Wissenschaft,6578ee55-ebce-4a3d-a6bb-5e95cb54d478
+0,0,0,0,Bildung und Wissenschaft,643ed37d-b11e-466d-941e-71bf61b21827
+0,0,0,0,Umwelt und Klima,60c0fb14-8b76-44a5-b498-31c8f8dd41e3
+0,0,1,1,Wirtschaft und Arbeit,3daee487-70e9-4434-83b0-43bbbc483d27
+0,0,0.5,0.5,Wirtschaft und Arbeit,03e889fd-d3ce-4361-bb40-5d89abfa7b4a
+0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",78514b30-67ba-4883-92b0-5b4d555bae49
+0,0,0,0,Umwelt und Klima,2e0c7ba5-e108-4f29-b066-bd9f5cf0eb9d
+0,0,1,1,Bildung und Wissenschaft,922889cd-e66d-4b37-bb02-9bc576559709
+0,0,1,1,"Kultur, Freizeit, Sport, Tourismus",ffcb7799-8284-46d8-8ca4-f812d719d475
+0,0,0,0,Bildung und Wissenschaft,443a3bf2-95d4-4cb2-8ac9-105d2531f90c
+0,0,1,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",c043ac81-99ed-4cfc-90f9-d4d398d32043
+0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",00a8bba0-96c8-48b3-bf5e-aa9f69ef1bf5
+0,0,1,1,Bildung und Wissenschaft,93f5e35d-2bcc-491d-abb9-6161192494c6
+0,0,0,0,"Bildung und Wissenschaft,Gesundheit,Umwelt und Klima",8fd47ec8-f3b3-4abb-bbef-1d712774593d
+0,0,1,1,Bildung und Wissenschaft,b9e2ca2d-6654-4dae-b06e-7e19f738c5f3
+0,0,1,1,Wirtschaft und Arbeit,2c87ff32-67af-4edd-8aa4-57c547f7275c
+0,0,0.5,0.5,Gesetze und Justiz,6de07317-04be-418d-b0b7-242d99c517aa
+0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",39ada90b-a696-4b1a-9c8d-ed09010d7326
+0,0,1,1,"Bevölkerung,Soziales",53a83c6b-27f9-4dcc-8c2a-c2e5e9a1833f
+0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Transport und Verkehr",f1d28f5a-057f-491d-8b97-f88832183d73
+0,0,0,0,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",88f7f92e-caa9-4a8e-a1cb-2f3fd728312d
+0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",03eb4bf9-1e96-4c9e-9e57-41e3850451d7
+0,0,0.5,0.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",9ef6cb9b-44b8-4faa-b9dc-46f1360e5bb3
+0,0,0,0,Bildung und Wissenschaft,4c5a933d-8c3f-4160-91ce-7226daf5ade7
+0,0,0.5,0.5,Umwelt und Klima,f7f3c7c7-010c-4e1a-abc4-26cfa63cee18
+0,0,0,0,Umwelt und Klima,508863a3-4cb5-4c45-b425-69a2246d24cb
+0,0,0.5,0.5,Gesetze und Justiz,34762c8b-531f-408d-8a87-5ca5d108d6e7
+0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",41d0ae41-dbe6-42fb-862e-853df375bbab
+0,0,1,1,"Kultur, Freizeit, Sport, Tourismus",121a8fef-e9bf-4795-a6f9-63dfcae3b20c
+0,0,0.5,0.5,Bildung und Wissenschaft,9a90bc6c-9cb8-4d05-af4d-655668d49669
+0,0,1,1,Bildung und Wissenschaft,b3ad44f1-bd9e-4bdc-b8c0-bb77c4c70956
+0,0,0,0,,182b14e4-823e-466f-85fe-ed0f6532acd5
