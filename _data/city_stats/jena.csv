@@ -1,0 +1,28 @@
+update_time,license,format,overall,groups,id
+0,0,1,1,"Bevölkerung,Umwelt und Klima",wohngebaude-und-wohungen
+0,0,1,1,Bevölkerung,wohnberechtigte-bevolkerung
+0,0,1,1,Politik und Wahlen,wahllokale1
+0.5,0,1,1.5,Bevölkerung,vornamen4
+0,0,1,1,"Öffentliche Verwaltung, Haushalt und Steuern",verwaltung
+0,0,1,1,"Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus",veranstaltungen
+0,0,1,1,Bevölkerung,statistische-privathaushalte
+0,0,0,0,"Bevölkerung,Öffentliche Verwaltung, Haushalt und Steuern",statistische-bezirke1
+0,0,1,1,"Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus",points-of-interest
+0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",plz-bezirke
+0,0,0,0,"Bevölkerung,Politik und Wahlen,Öffentliche Verwaltung, Haushalt und Steuern",ortsteile1
+0,0,1,1,"Öffentliche Verwaltung, Haushalt und Steuern",offener-haushalt
+0,0,0,0,,neues-wohnen-jena-zwatzen-schalltechnische-untersuchung
+0,0,0,0,Umwelt und Klima,naturdenkmale1
+0,0,0,0,"Kultur, Freizeit, Sport, Tourismus",laufwege
+0,0,1,1,Umwelt und Klima,katasterflache
+0,0,1,1,Umwelt und Klima,kabelverzweiger-kvz-der-telekom
+0,0,1,1,Umwelt und Klima,entsorgungseinrichtungen
+0,0,1,1,Bevölkerung,einwohner-hauptwohnung-nach-alter-und-geschlecht
+0,0,1,1,Bevölkerung,einwohner-hauptwohnung-nach-alter
+0,0,1,1,Bevölkerung,einwohner-mit-hauptwohnung
+0,0,0,0,Umwelt und Klima,rechtskraftige-bebauungsplane
+0,0,0,0,Umwelt und Klima,besonderes-stadtebaurecht
+0,0,0,0,Umwelt und Klima,zustandigkeit-bauordnung
+0,0,1,1,Umwelt und Klima,baumkataster
+0,0,0,0,Umwelt und Klima,baulandkataster1
+0,0,1,1,Umwelt und Klima,adressen-verortet
