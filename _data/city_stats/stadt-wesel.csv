@@ -23,14 +23,11 @@ update_time,license,format,overall,groups,id
 0,1,0,1,Bildung und Wissenschaft,anmeldungen-zur-weiterfuhrenden-schule-in-wesel-2016
 0,1,1,2,Umwelt und Klima,ausgabestellen-fur-hundekot-beutel-im-stadtgebiet-wesel
 0,1,1,2,"Kultur, Freizeit, Sport, Tourismus",gedenkstatten-in-wesel
-0,1,0,1,"Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus",statistiken-der-stadtbucherei-wesel
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",aufwand-und-ertrag-der-gebaude-der-stadt-wesel-2015
 0,1,1,2,"Kultur, Freizeit, Sport, Tourismus",sehenswurdigkeiten-in-wesel
 0,1,1,2,"Infrastruktur, Bauen und Wohnen,Soziales",still-und-wickelpunkte-in-wesel
-0,1,0,1,Bildung und Wissenschaft,schulstatistik-2016-2017-fur-wesel
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",zugriffsstatistiken-von-wesel-de-2016
 0,1,0,1,Bevölkerung,vornamenstatistik-fur-neugeborene-2016-in-wesel
-0,1,0,1,Bevölkerung,jahresstatistik-standesamt-wesel
 0,1,1,2,Transport und Verkehr,messstellen-zur-geschwindigkeitsuberwachung-in-wesel
 0,1,0,1,"Geographie, Geologie und Geobasisdaten",umring-stadtgebiet-wesel
 0,1,1,2,Bevölkerung,haushalte-in-wesel-in-den-stadtteilen-seit-2007
@@ -90,3 +87,8 @@ update_time,license,format,overall,groups,id
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",zugriffsstatistiken-von-wesel-de-2017
 0,1,0,1,,vornamenstatistik-fur-neugeborene-2017-in-wesel
 0.5,1,0,1.5,,zugriffsstatistiken-von-wesel-de-2018
+1,1,0,2,,haushaltsplan-entwurf-2018-stadt-wesel
+1,1,0,2,Bevölkerung,jahresstatistik-standesamt-wesel
+1,1,0,2,Bildung und Wissenschaft,schulstatistik-2016-2017-fur-wesel
+1,1,0,2,,schulstatistik-2017-2018-fur-wesel
+1,1,0,2,"Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus",statistiken-der-stadtbucherei-wesel
