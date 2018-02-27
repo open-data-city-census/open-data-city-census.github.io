@@ -1,0 +1,76 @@
+update_time,license,format,overall,groups,id
+0,1,0,1,,wanderwege-aachen-brand
+0,1,0,1,,wahlkreise-landtagswahl-2017
+0,1,1,2,Bevölkerung,vornamen2
+0,1,0,1,"Geographie, Geologie und Geobasisdaten,Umwelt und Klima",umweltzone1
+0.5,1,1,2.5,,testdaten
+0,1,0.5,1.5,"Geographie, Geologie und Geobasisdaten",strassenliste
+0,1,0,1,"Geographie, Geologie und Geobasisdaten,Politik und Wahlen",stimmbezirke-der-stadt-aachen-fur-die-landtags-und-bundestagswahl-2017
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",stellenplan-der-stadtverwaltung-aachen
+0,1,0,1,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",statistische-bezirke-grenzen
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",stadtplan-amtlich
+0,1,0.5,1.5,,stadtische-friedhofe
+0,1,0,1,"Bevölkerung,Infrastruktur, Bauen und Wohnen",stadtbezirke-aachen
+0,1,0,1,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",solarkataster
+0,1,0.5,1.5,"Infrastruktur, Bauen und Wohnen",signalanlagen
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",schutzhutten-im-aachener-wald
+0,1,0,1,,schuldaten-stadt-aachen
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",rettungspunkte-im-aachener-wald
+0,1,0.5,1.5,,prufung-geeigneter-datensatze
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",parkscheinautomaten-2015
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",link-zum-interaktiven-haushalt
+0,1,0,1,Wirtschaft und Arbeit,link-zu-the-locator-eu-zur-verfugung-gestellt-von-der-agit
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",knotenpunkte-im-aachener-wald
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",jahrsbericht-2015_201604personal_vorsorgeaufwendungen
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",jahresbericht-2015_schwerbehindertenquote
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",jahresbericht-2015_mitarbeiterzahlen
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",jahresbericht-2015_betriebliches-vorschlagswesen
+0,1,1,2,,jahresbericht-2015_gesamtverteilung-beschaftigte-nach-alter
+0,1,0,1,"Bevölkerung,Infrastruktur, Bauen und Wohnen,Öffentliche Verwaltung, Haushalt und Steuern",jahresbericht-stadt-stolberg
+0,1,0,1,"Bevölkerung,Bildung und Wissenschaft,Gesundheit,Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus,Politik und Wahlen,Soziales,Transport und Verkehr,Wirtschaft und Arbeit,Öffentliche Verwaltung, Haushalt und Steuern",statistisches-jahrbuch-der-stadt-aachen
+0,1,0,1,,hohenfestpunkte-hfp
+0,1,1,2,Bevölkerung,haushalte-nach-grosse
+0,1,0,1,"Infrastruktur, Bauen und Wohnen,Transport und Verkehr",haltestellen-avv
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",jahresbericht-2015_beihilfe
+0,1,0.5,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",gemeindehaushalt
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",gemeindegrenze-der-stadt-aachen
+0,1,0,1,,freifunk-aachen
+0,1,1,2,,ergebnisse-der-wahl-zum-integrationsrat_20140525
+0,1,1,2,,ergebnisse-der-staedteregionsratswahl_20140525
+0,1,1,2,,ergebnisse-der-staedteregionsratsstichwahl_20140615
+0,1,1,2,,ergebnisse-der-stadteregionstagswahl_201405251
+0,1,1,2,"Bevölkerung,Politik und Wahlen",ergebnisse-der-stadteregionstagswahl_20090830
+0,1,1,2,"Bevölkerung,Politik und Wahlen",ergebnisse-der-stadteregionsratswahl_20090830
+0,1,1,2,,ergebnisse-der-ratswahlstolberg_20140525
+0,1,1,2,"Bevölkerung,Politik und Wahlen",ergebnisse-der-ratswahl_20140525
+0,1,1,2,"Bevölkerung,Politik und Wahlen",ergebnisse-der-ratswahl_20090830
+0,1,1,2,,ergebnisse-der-landtagswahl_20170514
+0,1,1,2,"Bevölkerung,Politik und Wahlen",ergebnisse-der-landtagswahl_201205131
+0,1,1,2,"Bevölkerung,Politik und Wahlen",ergebnisse-der-landtagswahl_20100509
+0,1,1,2,"Bevölkerung,Politik und Wahlen",ergebnisse-der-stadteregionsratswahl_20140525
+0,1,1,2,"Bevölkerung,Politik und Wahlen",ergebnisse-der-stadteregionsratstichwahl_20140615
+0,1,1,2,"Bevölkerung,Politik und Wahlen",ergebnisse-der-stadteregionstagswahl_20140525
+0,1,1,2,"Bevölkerung,Politik und Wahlen",ergebnisse-der-integrationswahl_20140525
+0,1,1,2,"Bevölkerung,Politik und Wahlen",ergebnisse-der-integrationswahl_20100704
+0,1,1,2,"Bevölkerung,Politik und Wahlen",ergebnisse-der-integrationswahl_20100207
+0,1,1,2,"Bevölkerung,Politik und Wahlen",ergebnisse-der-europawahl_20140525
+0,1,1,2,"Bevölkerung,Politik und Wahlen",ergebnisse-der-burgermeisterwahl_20140525
+0,1,1,2,"Bevölkerung,Politik und Wahlen",ergebnisse-der-burgermeisterwahl_20090830
+0,0,1,1,,ergebnisse-der-bundestagswahl_20170924
+0,1,1,2,Bevölkerung,ergebnisse-der-bundestagswahl_20130922
+0,1,1,2,"Bevölkerung,Politik und Wahlen",ergebnisse-der-bundestagswahl_20090927
+0,1,1,2,,ergebnisse-der-buergermeisterwahl_20140525
+0,1,1,2,"Bevölkerung,Politik und Wahlen",ergebnisse-der-bezirksvertretungswahl_20140525
+0,1,1,2,"Bevölkerung,Politik und Wahlen",ergebnisse-der-bezirksvertretungswahl_20090830
+0,1,1,2,,ergebnisse-der-landtagswahl_20120513
+0,1,1,2,,ergebisse-der-europawahl_20140525
+0,1,1,2,,einwohnerstatistik-verlauf
+0,1,1,2,"Bevölkerung,Infrastruktur, Bauen und Wohnen",einwohnerstatistik-allgemein-nach-statistischen-bezirken
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",denkmalbereiche
+0,1,0,1,Bevölkerung,demografiemonitoring-der-stadt-aachen
+0,1,0.5,1.5,Transport und Verkehr,bundesverkehrswegezahlung
+0,1,1,2,"Bevölkerung,Politik und Wahlen",buergerentscheid_20130310
+0,0,0.5,0.5,,bauwerksliste
+0,1,0,1,Transport und Verkehr,baustellen-stadtgebiet-aachen
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",adressen_stadtaachen
+0,1,1,2,"Kultur, Freizeit, Sport, Tourismus,Wirtschaft und Arbeit",aachen-wifi-koordinaten_19-08-2015
