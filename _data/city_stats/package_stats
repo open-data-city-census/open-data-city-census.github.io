@@ -1,11 +1,6 @@
 update_time,license,format,overall,groups,id
-0,1,0,1,Wirtschaft und Arbeit,datenkompass-wirtschaft-landkreis-kusel
-0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",datenkompass-tourismus-landkreis-kusel
-0,1,0,1,"Gesundheit,Soziales",datenkompass-soziales-und-gesundheit-landkreis-kusel
-0,1,0,1,Wirtschaft und Arbeit,datenkompass-wirtschaftliche-entwicklungspotenziale-landkreis-kusel
-0,1,0,1,Bevölkerung,demografischer-wandel-bevolkerungsvorausberechnung-landkreis-kuselcc4c5
-0,1,0,1,Bildung und Wissenschaft,datenkompass-erziehung-und-bildung-landkreis-kusel
-0,1,0,1,Bevölkerung,demografischer-wandel-bevolkerungsvorausberechnung-vg-ebene-landkreis-kusel
-0,1,0,1,Bevölkerung,demografischer-wandel-bevolkerungsvorausberechnung-landkreis-kusel
-0,1,0,1,Bevölkerung,datenkompass-bevolkerung-und-gebiet-haushalte-und-familien-landkreis-kusel
-0,1,0,1,Wirtschaft und Arbeit,datenkompass-arbeitsmarkt-erwerbstatigkeit-landkreis-kusel
+0,1,0,1,Transport und Verkehr,langzeitzahlstelle-auf-der-a-6-in-landstuhl
+0,1,0,1,Transport und Verkehr,langzeitzahlstelle-auf-der-a-6-in-ak-landstuhl-vq-west
+0,1,0,1,Transport und Verkehr,langzeitzahlstelle-auf-der-a-6-in-ak-landstuhl-vq-ost
+0,1,0,1,Transport und Verkehr,langzeitzahlstelle-auf-der-a-62-in-ak-landstuhl-vq-sud
+0,1,0,1,Transport und Verkehr,langzeitzahlstelle-auf-der-a-62-in-ak-landstuhl-vq-nord
