@@ -1,7 +1,7 @@
 update_time,license,format,overall,groups,id
-0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",burgeranliegen-online-mangelmelder
+1,1,0,2,"Öffentliche Verwaltung, Haushalt und Steuern",burgeranliegen-online-mangelmelder
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",pressemitteilungen-stadt-bonn
-0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",leitlinien-open-government-data-bonn
+0.5,1,0,1.5,"Öffentliche Verwaltung, Haushalt und Steuern",leitlinien-open-government-data-bonn
 0,1,0,1,"Bevölkerung,Bildung und Wissenschaft,Gesundheit,Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus,Politik und Wahlen,Soziales,Transport und Verkehr,Verbraucherschutz,Wirtschaft und Arbeit,Öffentliche Verwaltung, Haushalt und Steuern",veranstaltungskalender-komplettubersicht
 0,1,0,1,Politik und Wahlen,bundestagswahl-2013970be
 0,1,0,1,Politik und Wahlen,bundestagswahl-200980d97
@@ -60,7 +60,7 @@ update_time,license,format,overall,groups,id
 0,1,0,1,"Transport und Verkehr,Umwelt und Klima,Wirtschaft und Arbeit",pressemitteilungen
 0,1,0,1,"Transport und Verkehr,Umwelt und Klima,Wirtschaft und Arbeit",kennzahlen-der-stadtwerke-bonn
 0,1,0,1,"Transport und Verkehr,Wirtschaft und Arbeit",beteiligungen
-0,1,0,1,"Transport und Verkehr,Umwelt und Klima,Wirtschaft und Arbeit",ausschreibungen
+1,1,0,2,"Transport und Verkehr,Umwelt und Klima,Wirtschaft und Arbeit",ausschreibungen
 0,1,0,1,"Infrastruktur, Bauen und Wohnen",immobilienangebote
 0,1,0,1,"Umwelt und Klima,Öffentliche Verwaltung, Haushalt und Steuern",vierteljahresberichte-der-bonnorange-aor
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",haushaltssatzungen
@@ -77,8 +77,8 @@ update_time,license,format,overall,groups,id
 0,1,0,1,"Bevölkerung,Soziales,Umwelt und Klima",fair-trade-einkaufsfuhrer
 0,1,0,1,Wirtschaft und Arbeit,kennzahlen-ansiedlungs-und-investitionsvorhaben
 0,1,0,1,Wirtschaft und Arbeit,verfugbarkeit-ausgewahlter-gewerbeflachen
-0,1,0,1,Wirtschaft und Arbeit,kennzahlen-vermietete-buroflachen
-0,1,0,1,Wirtschaft und Arbeit,buroflachenpreise
+0.5,1,0,1.5,Wirtschaft und Arbeit,kennzahlen-vermietete-buroflachen
+0.5,1,0,1.5,Wirtschaft und Arbeit,buroflachenpreise
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",ausschreibungen-vergabeverfahren
 0,1,0,1,"Bevölkerung,Infrastruktur, Bauen und Wohnen,Soziales",monitoring-ausbau-u3-betreuungsplatze
 0,0,0,0,"Öffentliche Verwaltung, Haushalt und Steuern",amtsblatt
@@ -129,7 +129,7 @@ update_time,license,format,overall,groups,id
 0,1,0,1,"Bevölkerung,Bildung und Wissenschaft,Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Soziales",kinderbonn-de
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",stellenplan-2015-2016
 0,1,0,1,Umwelt und Klima,energiebilanz-stadtgebiet-bonn
-0,1,0,1,Umwelt und Klima,co2-bilanz-stadtgebiet-bonn
+0.5,1,0,1.5,Umwelt und Klima,co2-bilanz-stadtgebiet-bonn
 0,1,0,1,"Infrastruktur, Bauen und Wohnen,Transport und Verkehr,Umwelt und Klima",geschaftsbericht-tiefbauamt-2014
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",beteiligungsbericht-2014
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",produktplane-der-stadtbezirke-2015-2016
@@ -140,7 +140,7 @@ update_time,license,format,overall,groups,id
 0,1,0,1,Bevölkerung,vornamen-von-neugeborenen-im-jahr-2013
 0,1,0,1,Bevölkerung,vornamen-von-neugeborenen-im-jahr-2014
 0,1,0,1,"Bevölkerung,Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus,Soziales",stadtbibliothek-metadaten
-0,1,0,1,"Bevölkerung,Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus,Soziales",stadtbibliothek-jahrliche-gesamtbestandsliste
+0.5,1,0,1.5,"Bevölkerung,Bildung und Wissenschaft,Kultur, Freizeit, Sport, Tourismus,Soziales",stadtbibliothek-jahrliche-gesamtbestandsliste
 0,1,0,1,"Bevölkerung,Bildung und Wissenschaft",schulstatistik-schuljahr-2015-2016
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",controllingberichte-haushalt-2015
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",haushaltssatzung-2015-2016
@@ -179,7 +179,7 @@ update_time,license,format,overall,groups,id
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-finanzpositionen-metadaten
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",haushalt-profitcenter-metadaten
 0,1,0,1,"Bevölkerung,Geographie, Geologie und Geobasisdaten",standorte-der-friedhofe
-0,1,0,1,"Geographie, Geologie und Geobasisdaten,Umwelt und Klima",baumstandorte
+1,1,0,2,"Geographie, Geologie und Geobasisdaten,Umwelt und Klima",baumstandorte
 0,1,0,1,"Bevölkerung,Kultur, Freizeit, Sport, Tourismus",standorte-der-grillplatze
 0,1,0,1,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",standorte-der-kirchen-kapellen-und-kloster
 0,1,0,1,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",standorte-der-postfilialen
@@ -214,7 +214,7 @@ update_time,license,format,overall,groups,id
 0,1,0,1,"Bevölkerung,Infrastruktur, Bauen und Wohnen,Soziales,Transport und Verkehr,Umwelt und Klima,Öffentliche Verwaltung, Haushalt und Steuern",nachhaltigkeitsberichte-der-stadt-bonn
 0,1,0,1,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Öffentliche Verwaltung, Haushalt und Steuern",hotspots-der-stadtverwaltung-wlan-standorte
 0,1,0,1,Bevölkerung,vornamen-von-neugeborenen-im-jahr-2016
-0,1,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Transport und Verkehr",zahlstellen-radwege
+1,1,0,2,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Transport und Verkehr",zahlstellen-radwege
 0,1,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Öffentliche Verwaltung, Haushalt und Steuern",stadtische-liegenschaften1
 0,1,0,1,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Politik und Wahlen",standorte-der-wahllokale
 0,1,0,1,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Politik und Wahlen",flachen-der-wahlbezirke-stimmbezirke
@@ -230,8 +230,8 @@ update_time,license,format,overall,groups,id
 0,1,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Transport und Verkehr",standorte-der-motorradparkplatze
 0,1,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Transport und Verkehr",standorte-der-parkplatze-pkw-motorrad-wohnmobil-wohnwagen-und-busparkplatze
 0,1,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Transport und Verkehr",standorte-der-fahrradstellplatze
-0,1,0,1,Transport und Verkehr,bussgelder-fliessender-verkehr-2016
-0,1,0,1,Transport und Verkehr,verkehrsdaten-pkw-lkw-bus-sdr-messergebnisse
+1,1,0,2,Transport und Verkehr,bussgelder-fliessender-verkehr-2016
+1,1,0,2,Transport und Verkehr,verkehrsdaten-pkw-lkw-bus-sdr-messergebnisse
 0,1,0,1,Politik und Wahlen,strassenverzeichnis-wahlbezirke-stimmbezirke-wahllokale-2017
 0,1,0,1,Transport und Verkehr,cambio-carsharing-fahrzeuge
 0,1,0,1,Politik und Wahlen,bundestagswahl-20172
@@ -240,16 +240,17 @@ update_time,license,format,overall,groups,id
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",controllingberichte-haushalt-2017
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",produktplan-nkf-gesamtplan-2017-2018
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",haushaltsplane-finanzplandaten
-0,1,0,1,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",abfallplaner-mullabfuhrtermine-2018
-0,1,0,1,Bevölkerung,vornamen-von-neugeborenen-im-jahr-2017
+0.5,1,0,1.5,"Infrastruktur, Bauen und Wohnen,Umwelt und Klima",abfallplaner-mullabfuhrtermine-2018
+0.5,1,0,1.5,Bevölkerung,vornamen-von-neugeborenen-im-jahr-2017
 0,1,0,1,Transport und Verkehr,bestandszahlen-fahrzeugzulassungen-kfz-2017
-0,1,0,1,"Infrastruktur, Bauen und Wohnen,Transport und Verkehr",fahrradmessstellen-ergebnisse-radzahlungen
-0,1,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus,Umwelt und Klima",flachen-urban-gardening
-0,1,0,1,"Geographie, Geologie und Geobasisdaten,Umwelt und Klima",land-surface-temperature-lst-koln-bonn
-0,1,0,1,"Geographie, Geologie und Geobasisdaten",digitales-hohenmodell-dgm-koln-bonn
-0,1,0,1,"Infrastruktur, Bauen und Wohnen,Wirtschaft und Arbeit",industrieflachen-koln-bonn
-0,1,0,1,"Infrastruktur, Bauen und Wohnen,Transport und Verkehr",parkplatze-koln-bonn
-0,1,0,1,Transport und Verkehr,strassen-koln-bonn
-0,1,0,1,Transport und Verkehr,verkehrsdaten-pkw-lkw-bus-sdr-messergebnisse-2017
-0,1,0,1,Transport und Verkehr,bussgelder-fliessender-verkehr-2017
+1,1,0,2,"Infrastruktur, Bauen und Wohnen,Transport und Verkehr",fahrradmessstellen-ergebnisse-radzahlungen
+0.5,1,0,1.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus,Umwelt und Klima",flachen-urban-gardening
+0.5,1,0,1.5,"Geographie, Geologie und Geobasisdaten,Umwelt und Klima",land-surface-temperature-lst-koln-bonn
+1,1,0,2,"Geographie, Geologie und Geobasisdaten",digitales-hohenmodell-dgm-koln-bonn
+0.5,1,0,1.5,"Infrastruktur, Bauen und Wohnen,Wirtschaft und Arbeit",industrieflachen-koln-bonn
+0.5,1,0,1.5,"Infrastruktur, Bauen und Wohnen,Transport und Verkehr",parkplatze-koln-bonn
+0.5,1,0,1.5,Transport und Verkehr,strassen-koln-bonn
+1,1,0,2,Transport und Verkehr,verkehrsdaten-pkw-lkw-bus-sdr-messergebnisse-2017
+1,1,0,2,Transport und Verkehr,bussgelder-fliessender-verkehr-2017
+1,1,0,2,Transport und Verkehr,verwarn-und-bussgelder-ruhender-verkehr-parkverstosse-2017
 0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",haushaltsplan-2013-2014
