@@ -210,7 +210,7 @@ update_time,license,format,overall,groups,id
 0,1,0,1,"Geographie, Geologie und Geobasisdaten",flaechennutzung-koeln-anzahl
 0,1,1,2,"Bevölkerung,Gesetze und Justiz,Öffentliche Verwaltung, Haushalt und Steuern",statistik-ordungsamt-koeln-2016
 0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",monitoring-offene-daten-koeln-2016
-0,1,0,1,"Bildung und Wissenschaft,Infrastruktur, Bauen und Wohnen",bandbreitenuebersicht-schulen-koeln
+0.5,1,0,1.5,"Bildung und Wissenschaft,Infrastruktur, Bauen und Wohnen",bandbreitenuebersicht-schulen-koeln
 0,1,0,1,"Bevölkerung,Kultur, Freizeit, Sport, Tourismus,Soziales",karneval-koeln-2017
 0,1,0,1,"Gesetze und Justiz,Kultur, Freizeit, Sport, Tourismus,Transport und Verkehr",sperrzone-lkw-karneval-koeln-2017
 0,1,1,2,"Geographie, Geologie und Geobasisdaten,Umwelt und Klima",baumkataster-koeln
@@ -228,10 +228,10 @@ update_time,license,format,overall,groups,id
 0,1,1,2,"Kultur, Freizeit, Sport, Tourismus,Umwelt und Klima",statistik-koelner-zoo
 0,1,1,2,"Kultur, Freizeit, Sport, Tourismus,Umwelt und Klima",zeiten-preise-koelner-zoo
 0,1,1,2,"Kultur, Freizeit, Sport, Tourismus,Umwelt und Klima",anzahl-arten-exemplare-koelner-zoo
-0,1,0,1,Transport und Verkehr,vertriebsstellen-ansprechpartner-kvb-koeln
-0,1,0,1,Transport und Verkehr,haltestellen-stadtbahn-und-bus-kvb-koeln
-0,1,0,1,Transport und Verkehr,fahrtreppen-kvb-koeln
-0,1,0,1,Transport und Verkehr,aufzuege-kvb-koeln
+0.5,1,0,1.5,Transport und Verkehr,vertriebsstellen-ansprechpartner-kvb-koeln
+0.5,1,0,1.5,Transport und Verkehr,haltestellen-stadtbahn-und-bus-kvb-koeln
+0.5,1,0,1.5,Transport und Verkehr,fahrtreppen-kvb-koeln
+0.5,1,0,1.5,Transport und Verkehr,aufzuege-kvb-koeln
 0,1,1,2,Bevölkerung,graeber-ehrenbuerger-koeln
 0,1,1,2,Transport und Verkehr,bussgelddaten-koeln-2016
 0,1,1,2,Politik und Wahlen,wahlgebaeunde-koeln-bundestagswahl-2017
@@ -242,13 +242,13 @@ update_time,license,format,overall,groups,id
 0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",haushaltsplan-entwurf-koeln-2018
 0,1,0,1,"Geographie, Geologie und Geobasisdaten,Kultur, Freizeit, Sport, Tourismus,Soziales",silvester
 0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",haushaltsplan-koeln-2018
-0,1,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",bebauungsplaene-koeln
-0,1,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",flurstuecke-koeln
-0,1,0,1,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Kultur, Freizeit, Sport, Tourismus,Soziales",karneval-koeln-2018
-0,0,1,1,"Bevölkerung,Transport und Verkehr",raddialog-ehrenfeld-koeln-2017
-0,1,0,1,"Geographie, Geologie und Geobasisdaten",historische-luftbilder-koeln
-0,1,1,2,"Bevölkerung,Transport und Verkehr",bussgelddaten-koeln-2017
-0,1,0,1,Bildung und Wissenschaft,pilotprojekt-daten-fuer-die-stadt
+0.5,1,0,1.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",bebauungsplaene-koeln
+0.5,1,0,1.5,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",flurstuecke-koeln
+0.5,1,0,1.5,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Kultur, Freizeit, Sport, Tourismus,Soziales",karneval-koeln-2018
+0.5,0,1,1.5,"Bevölkerung,Transport und Verkehr",raddialog-ehrenfeld-koeln-2017
+0.5,1,0,1.5,"Geographie, Geologie und Geobasisdaten",historische-luftbilder-koeln
+0.5,1,1,2.5,"Bevölkerung,Transport und Verkehr",bussgelddaten-koeln-2017
+1,1,0,2,Bildung und Wissenschaft,pilotprojekt-daten-fuer-die-stadt
 0,1,0,1,Politik und Wahlen,wettbewerb-teilnahmebedingungen
 0,1,0,1,Politik und Wahlen,wahldaten-auf-wahlbezirksebene
 0,1,0,1,Politik und Wahlen,bundestagswahl2-wahlkreis
