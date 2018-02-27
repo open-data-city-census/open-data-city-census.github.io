@@ -1,1 +1,1001 @@
-
+update_time,license,format,overall,groups,id
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",zustandigkeitsdaten-der-hamburger-verwaltung3
+0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",zustandigkeitsdaten-der-hamburger-verwaltung2
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",zustandigkeitsdaten-der-hamburger-verwaltung1
+0,1,0,1,"Öffentliche Verwaltung, Haushalt und Steuern",zustandigkeitsdaten-der-hamburger-verwaltung
+0,1,0,1,Transport und Verkehr,zeb-netz-der-hauptverkehrsstrassen-und-bezirksstrassen-mit-gesamtstadtischer-bedeutung-hamburg
+0,1,1,2,Transport und Verkehr,zeb-netz-der-hauptverkehrsstrassen-und-bezirksstrassen-mit-gesamtstadtischer-bedeutung
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",wohnungsdaten-zu-stadtteilen7
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",wohnungsdaten-zu-stadtteilen6
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",wohnungsdaten-zu-stadtteilen5
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",wohnungsdaten-zu-stadtteilen4
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",wohnungsdaten-zu-stadtteilen3
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",wohnungsdaten-zu-stadtteilen2
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",wohnungsdaten-zu-stadtteilen1
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",wohnungsdaten-zu-stadtteilen
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",wohnungsbauprojekte8
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",wohnungsbauprojekte7
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",wohnungsbauprojekte6
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",wohnungsbauprojekte5
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",wohnungsbauprojekte4
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",wohnungsbauprojekte3
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",wohnungsbauprojekte2
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",wohnungsbauprojekte1
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg26
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg25
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg24
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg23
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg22
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg21
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg20
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg19
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg18
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg17
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg16
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg15
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg14
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg13
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg12
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg11
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg10
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg9
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg8
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg7
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg6
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg5
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg4
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg3
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg2
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg1
+0,1,1,2,,wfs-hafenmessfahrten-2014-hamburg
+0,1,0,1,Umwelt und Klima,wasserrechte-fur-grundwasser-und-oberflachengewasser6
+0,1,1,2,Umwelt und Klima,wasserrechte-fur-grundwasser-und-oberflachengewasser5
+0,1,1,2,Umwelt und Klima,wasserrechte-fur-grundwasser-und-oberflachengewasser4
+0,1,1,2,Umwelt und Klima,wasserrechte-fur-grundwasser-und-oberflachengewasser3
+0,1,1,2,Umwelt und Klima,wasserrechte-fur-grundwasser-und-oberflachengewasser2
+0,1,1,2,Umwelt und Klima,wasserrechte-fur-grundwasser-und-oberflachengewasser1
+0,1,0,1,Umwelt und Klima,warmekataster-warmebedarf-hamburg1
+0,1,1,2,Umwelt und Klima,warmekataster-warmebedarf-hamburg
+0,1,0,1,Umwelt und Klima,warmekataster-heizungsart-zensus2011-hamburg1
+0,1,1,2,Umwelt und Klima,warmekataster-heizungsart-zensus2011-hamburg
+0,1,0,1,Umwelt und Klima,warmekataster-fernwarmeversorgte-gebiete-hamburg1
+0,1,1,2,Umwelt und Klima,warmekataster-fernwarmeversorgte-gebiete-hamburg
+0,1,0,1,Umwelt und Klima,warmekataster-energieerzeugungsanlagen-hamburg1
+0,1,1,2,Umwelt und Klima,warmekataster-energieerzeugungsanlagen-hamburg
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-80-m7
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-80-m6
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-80-m5
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-80-m4
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-80-m3
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-80-m2
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-80-m1
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-80-m
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-60-m7
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-60-m6
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-60-m5
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-60-m4
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-60-m3
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-60-m2
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-60-m1
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-60-m
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-40-m8
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-40-m7
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-40-m6
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-40-m5
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-40-m4
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-40-m3
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-40-m2
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-40-m1
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-40-m
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-100-m7
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-100-m6
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-100-m5
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-100-m4
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-100-m3
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-100-m2
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-100-m1
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",warmeentzugsleistung-bis-100-m
+0,1,0,1,Politik und Wahlen,wahlergebnisse-zu-stadtteilen6
+0,1,0,1,Politik und Wahlen,wahlergebnisse-zu-stadtteilen5
+0,1,1,2,Politik und Wahlen,wahlergebnisse-zu-stadtteilen4
+0,1,1,2,Politik und Wahlen,wahlergebnisse-zu-stadtteilen3
+0,1,1,2,Politik und Wahlen,wahlergebnisse-zu-stadtteilen2
+0,1,1,2,Politik und Wahlen,wahlergebnisse-zu-stadtteilen1
+0,1,1,2,Politik und Wahlen,wahlergebnisse-zu-stadtteilen
+0,1,0,1,Umwelt und Klima,vogelschutzgebiete-in-hamburg9
+0,1,1,2,Umwelt und Klima,vogelschutzgebiete-in-hamburg8
+0,1,1,2,Umwelt und Klima,vogelschutzgebiete-in-hamburg7
+0,1,1,2,Umwelt und Klima,vogelschutzgebiete-in-hamburg6
+0,1,1,2,Umwelt und Klima,vogelschutzgebiete-in-hamburg5
+0,1,1,2,Umwelt und Klima,vogelschutzgebiete-in-hamburg4
+0,1,1,2,Umwelt und Klima,vogelschutzgebiete-in-hamburg3
+0,1,1,2,Umwelt und Klima,vogelschutzgebiete-in-hamburg2
+0,1,1,2,Umwelt und Klima,vogelschutzgebiete-in-hamburg1
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",virtuelle-passpunkte-hamburg11
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",virtuelle-passpunkte-hamburg10
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",virtuelle-passpunkte-hamburg9
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",virtuelle-passpunkte-hamburg8
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",virtuelle-passpunkte-hamburg7
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",virtuelle-passpunkte-hamburg6
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",virtuelle-passpunkte-hamburg5
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",virtuelle-passpunkte-hamburg4
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",virtuelle-passpunkte-hamburg3
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",virtuelle-passpunkte-hamburg2
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",virtuelle-passpunkte-hamburg1
+0,1,0,1,Umwelt und Klima,versickerungspotentialkarte-hamburg7
+0,1,1,2,Umwelt und Klima,versickerungspotentialkarte-hamburg6
+0,1,1,2,Umwelt und Klima,versickerungspotentialkarte-hamburg5
+0,1,1,2,Umwelt und Klima,versickerungspotentialkarte-hamburg4
+0,1,1,2,Umwelt und Klima,versickerungspotentialkarte-hamburg3
+0,1,1,2,Umwelt und Klima,versickerungspotentialkarte-hamburg2
+0,1,1,2,Umwelt und Klima,versickerungspotentialkarte-hamburg1
+0,1,0,1,Transport und Verkehr,verlegung-wilhelmsburger-reichsstrasse7
+0,1,1,2,Transport und Verkehr,verlegung-wilhelmsburger-reichsstrasse6
+0,1,1,2,Transport und Verkehr,verlegung-wilhelmsburger-reichsstrasse5
+0,1,1,2,Transport und Verkehr,verlegung-wilhelmsburger-reichsstrasse4
+0,1,1,2,Transport und Verkehr,verlegung-wilhelmsburger-reichsstrasse3
+0,1,1,2,Transport und Verkehr,verlegung-wilhelmsburger-reichsstrasse2
+0,1,1,2,Transport und Verkehr,verlegung-wilhelmsburger-reichsstrasse1
+0,1,1,2,Transport und Verkehr,verlegung-wilhelmsburger-reichsstrasse
+0,1,0,1,Transport und Verkehr,verkehrszahlstellen-hamburg6
+0,1,1,2,Transport und Verkehr,verkehrszahlstellen-hamburg5
+0,1,1,2,Transport und Verkehr,verkehrszahlstellen-hamburg4
+0,1,1,2,Transport und Verkehr,verkehrszahlstellen-hamburg3
+0,1,1,2,Transport und Verkehr,verkehrszahlstellen-hamburg2
+0,1,1,2,Transport und Verkehr,verkehrszahlstellen-hamburg1
+0,1,1,2,Transport und Verkehr,verkehrszahlstellen-hamburg
+0,1,0.5,1.5,Transport und Verkehr,verkehrsstarken-hamburg5
+0,1,1,2,Transport und Verkehr,verkehrsstarken-hamburg4
+0,1,1,2,Transport und Verkehr,verkehrsstarken-hamburg3
+0,1,1,2,Transport und Verkehr,verkehrsstarken-hamburg2
+0,1,1,2,Transport und Verkehr,verkehrsstarken-hamburg1
+0,1,1,2,Transport und Verkehr,verkehrsstarken-hamburg
+0,1,0,1,Transport und Verkehr,verkehrsmengenkarte-hamburg
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg21
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg20
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg19
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg18
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg17
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg16
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg15
+0,1,0,1,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg14
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg13
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg12
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg11
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg10
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg9
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg8
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg7
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg6
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg5
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg4
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg3
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg2
+0,1,1,2,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg1
+0,1,0,1,Transport und Verkehr,verkehrsmengen-auf-hauptverkehrsstrassen-in-hamburg
+0,1,1,2,Transport und Verkehr,verkehrslage-auf-autobahnen-schleifen-hamburg11
+0,1,1,2,Transport und Verkehr,verkehrslage-auf-autobahnen-schleifen-hamburg10
+0,1,1,2,Transport und Verkehr,verkehrslage-auf-autobahnen-schleifen-hamburg9
+0,1,1,2,Transport und Verkehr,verkehrslage-auf-autobahnen-schleifen-hamburg8
+0,1,1,2,Transport und Verkehr,verkehrslage-auf-autobahnen-schleifen-hamburg7
+0,1,1,2,Transport und Verkehr,verkehrslage-auf-autobahnen-schleifen-hamburg6
+0,1,1,2,Transport und Verkehr,verkehrslage-auf-autobahnen-schleifen-hamburg5
+0,1,1,2,Transport und Verkehr,verkehrslage-auf-autobahnen-schleifen-hamburg4
+0,1,1,2,Transport und Verkehr,verkehrslage-auf-autobahnen-schleifen-hamburg3
+0,1,1,2,Transport und Verkehr,verkehrslage-auf-autobahnen-schleifen-hamburg2
+0,1,1,2,Transport und Verkehr,verkehrslage-auf-autobahnen-schleifen-hamburg1
+0,1,1,2,Transport und Verkehr,verkehrskameras-hamburg12
+0,1,1,2,Transport und Verkehr,verkehrskameras-hamburg11
+0,1,1,2,Transport und Verkehr,verkehrskameras-hamburg10
+0,1,1,2,Transport und Verkehr,verkehrskameras-hamburg9
+0,1,1,2,Transport und Verkehr,verkehrskameras-hamburg8
+0,1,1,2,Transport und Verkehr,verkehrskameras-hamburg7
+0,1,1,2,Transport und Verkehr,verkehrskameras-hamburg6
+0,1,1,2,Transport und Verkehr,verkehrskameras-hamburg5
+0,1,0,1,Transport und Verkehr,verkehrskameras-hamburg4
+0,1,1,2,Transport und Verkehr,verkehrskameras-hamburg3
+0,1,1,2,Transport und Verkehr,verkehrskameras-hamburg2
+0,1,1,2,Transport und Verkehr,verkehrskameras-hamburg1
+0,1,0,1,Umwelt und Klima,verdunstungspotential-boden5
+0,1,1,2,Umwelt und Klima,verdunstungspotential-boden4
+0,1,1,2,Umwelt und Klima,verdunstungspotential-boden3
+0,1,1,2,Umwelt und Klima,verdunstungspotential-boden2
+0,1,1,2,Umwelt und Klima,verdunstungspotential-boden1
+0,1,0,1,Umwelt und Klima,verbandsgrenzen-wasser-und-bodenverbande-hamburg3
+0,1,1,2,Umwelt und Klima,verbandsgrenzen-wasser-und-bodenverbande-hamburg2
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",verbandsgrenzen-wasser-und-bodenverbande-hamburg1
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",verbandsgrenzen-wasser-und-bodenverbande-hamburg
+0,1,0,1,Transport und Verkehr,velo-und-freizeitrouten-hamburg9
+0,1,1,2,Transport und Verkehr,velo-und-freizeitrouten-hamburg8
+0,1,0,1,Transport und Verkehr,velo-und-freizeitrouten-hamburg7
+0,1,1,2,Transport und Verkehr,velo-und-freizeitrouten-hamburg6
+0,1,1,2,Transport und Verkehr,velo-und-freizeitrouten-hamburg5
+0,1,1,2,Transport und Verkehr,velo-und-freizeitrouten-hamburg4
+0,1,1,2,Transport und Verkehr,velo-und-freizeitrouten-hamburg3
+0,1,1,2,Transport und Verkehr,velo-und-freizeitrouten-hamburg2
+0,1,1,2,Transport und Verkehr,velo-und-freizeitrouten-hamburg1
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",utm-raster-hamburg2
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",utm-raster-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",ubersichtskarte-uber-normierte-bodenrichtwerte-fur-hamburg5
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",ubersichtskarte-uber-normierte-bodenrichtwerte-fur-hamburg4
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",ubersichtskarte-uber-normierte-bodenrichtwerte-fur-hamburg3
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",ubersichtskarte-uber-normierte-bodenrichtwerte-fur-hamburg2
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",ubersichtskarte-uber-normierte-bodenrichtwerte-fur-hamburg1
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",ubersichtskarte-uber-normierte-bodenrichtwerte-fur-hamburg
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",ubersicht-kachelbezeichnungen3
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",ubersicht-kachelbezeichnungen2
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",ubersicht-kachelbezeichnungen1
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",ubersicht-kachelbezeichnungen
+0,1,0,1,Umwelt und Klima,uberschwemmungsgebiete-hamburg-vorlaufig-gesichert
+0,1,0,1,Umwelt und Klima,uberschwemmungsgebiete-hamburg1
+0,1,1,2,Umwelt und Klima,uberschwemmungsgebiete-hamburg
+0,1,0,1,Transport und Verkehr,tempo-30-zonen-hamburg1
+0,1,0,1,Transport und Verkehr,tempo-30-zonen-hamburg
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",temperatur-in-minus-100-mnn7
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",temperatur-in-minus-100-mnn6
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",temperatur-in-minus-100-mnn5
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",temperatur-in-minus-100-mnn4
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",temperatur-in-minus-100-mnn3
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",temperatur-in-minus-100-mnn2
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",temperatur-in-minus-100-mnn1
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",temperatur-in-minus-100-mnn
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-99-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-997-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-997-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-996-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-996-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-995-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-995-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-993-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-992-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-992-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-991-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-98-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-98-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-98-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-988-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-987-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-987-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-975-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-975-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-970-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-970-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-96-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-966-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-965-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-965-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-95-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-95-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-93-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-93-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-92-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-924-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-924-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-922-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-922-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-920-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-920-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-91-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-919-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-918-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-917-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-913-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-913-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-911-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-910-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-90-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-90-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-906-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-906-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-905-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-905-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-8-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-8-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-89-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-899-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-899-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-898-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-898-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-897-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-897-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-896-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-896-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-895-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-895-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-88-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-88-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-886-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-886-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-885-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-885-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-884-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-884-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-883-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-883-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-882-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-882-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-881-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-881-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-87-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-87-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-87-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-87-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-87-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-87-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-87-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-87-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-87-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-87-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-87-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-87-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-87-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-87-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-87-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-87-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-879-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-879-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-878-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-878-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-870-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-870-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-867-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-865-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-865-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-864-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-864-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-863-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-860-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-860-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-85-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-85-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-859-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-851-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-851-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-84-hamburg16
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-84-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-84-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-84-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-84-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-84-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-84-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-84-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-84-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-84-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-84-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-84-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-84-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-84-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-84-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-84-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-84-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-847-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-846-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-842-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-835-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-834-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-82-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-827-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-827-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-825-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-825-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-823-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-823-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-822-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-822-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-821-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-821-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-820-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-820-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-819-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-819-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-818-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-817-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-816-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-815-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-814-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-813-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-813-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-812-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-812-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-810-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-810-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-80-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-808-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-808-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-807-hamburg-aufgehoben
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-807-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-807-1-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-807-1-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-79-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-79-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-797-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-797-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-795-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-78-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-78-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-788-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-788-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-786-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-785-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-785-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-784-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-784-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-77-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-779-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-778-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-777-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-776-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-76-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-765-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-763-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-763-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-75-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-75-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-759-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-750-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-750-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-735-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-735-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-734-hamburg16
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-734-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-734-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-734-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-734-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-734-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-734-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-734-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-734-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-734-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-734-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-734-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-734-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-734-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-734-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-734-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-734-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-72-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-729-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-729-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-727-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-727-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-723-hamburg16
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-723-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-723-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-723-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-723-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-723-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-723-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-723-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-723-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-723-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-723-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-723-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-723-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-723-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-723-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-723-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-723-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-721-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-721-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-71-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-71-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-718-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-718-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-715-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-710-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-710-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-70-hamburg16
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-70-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-70-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-70-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-70-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-70-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-70-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-70-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-70-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-70-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-70-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-70-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-70-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-70-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-70-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-70-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-70-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-709-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-708-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-708-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-705-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-705-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-705-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-705-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-705-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-705-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-705-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-705-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-705-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-705-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-705-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-705-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-705-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-705-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-705-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-705-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-702-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-702-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-701-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-701-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-700-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-69-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-697-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-697-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-695-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-694-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-694-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-68-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-68-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-688-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-688-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-688-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-688-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-688-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-688-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-688-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-688-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-688-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-688-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-688-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-688-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-688-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-688-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-688-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-688-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-685-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-67-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-67-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-67-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-67-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-67-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-67-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-67-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-67-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-67-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-67-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-67-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-67-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-67-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-67-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-67-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-67-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-676-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-676-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-668-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-668-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-667-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-667-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-664-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-664-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-663-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-663-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-662-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-662-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-662-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-662-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-662-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-662-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-662-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-662-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-662-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-662-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-662-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-662-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-662-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-662-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-662-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-662-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-660-hamburg16
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-660-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-660-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-660-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-660-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-660-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-660-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-660-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-660-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-660-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-660-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-660-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-660-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-660-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-660-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-660-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-660-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-657-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-657-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-657-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-655-hamburg16
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-655-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-655-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-655-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-655-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-655-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-655-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-655-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-655-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-655-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-655-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-655-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-655-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-655-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-655-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-655-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-655-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-651-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-651-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-650-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-650-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-64-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-64-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-647-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-647-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-646-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-646-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-645-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-645-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-644-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-644-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-643-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-643-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-643-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-643-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-643-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-643-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-643-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-643-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-643-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-643-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-643-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-643-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-643-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-643-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-643-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-643-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-640-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-639-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-638-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-629-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-625-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-624-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-623-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-621-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-621-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-619-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-619-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-618-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-616-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-616-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-612-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-611-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-611-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-611-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-611-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-611-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-611-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-611-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-611-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-611-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-611-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-611-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-611-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-611-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-611-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-611-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-611-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-610-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-606-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-601-hamburg16
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-601-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-601-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-601-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-601-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-601-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-601-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-601-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-601-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-601-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-601-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-601-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-601-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-601-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-601-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-601-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-601-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-5-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-598-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-598-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-596-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-596-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-595-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-595-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-593-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-593-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-58-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-58-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-589-hamburg16
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-589-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-589-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-589-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-589-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-589-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-589-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-589-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-589-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-589-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-589-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-589-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-589-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-589-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-589-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-589-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-589-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-588-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-585-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-583-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-583-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-581-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-581-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-581-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-581-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-581-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-581-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-581-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-581-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-581-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-581-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-581-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-581-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-581-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-581-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-581-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-581-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-579-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-579-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-577-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-577-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-573-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-573-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-572-hamburg16
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-572-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-572-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-572-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-572-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-572-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-572-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-572-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-572-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-572-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-572-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-572-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-572-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-572-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-572-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-572-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-572-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-571-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-571-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-569-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-569-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-568-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-567-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-567-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-566-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-566-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-564-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-563-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-563-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-55-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-55-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-555-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-554-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-551-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-54-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-54-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-544-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-544-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-542-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-542-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-541-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-541-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-539-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-537-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-537-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-534-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-534-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-533-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-533-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-52-hamburg16
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-52-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-52-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-52-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-52-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-52-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-52-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-52-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-52-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-52-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-52-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-52-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-52-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-52-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-52-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-52-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-52-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-51-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-51-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-517-hamburg16
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-517-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-517-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-517-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-517-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-517-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-517-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-517-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-517-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-517-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-517-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-517-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-517-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-517-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-517-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-517-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-517-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-515-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-512-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-512-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-511-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-511-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-511-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-511-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-511-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-511-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-511-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-511-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-511-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-511-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-511-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-511-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-511-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-511-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-511-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-511-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-50-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-509-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-509-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-508-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-508-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-504-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-501-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-501-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-500-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-500-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-4-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-498-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-498-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-495-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-494-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-494-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-488-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-488-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-483-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-483-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-478-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-478-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-477-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-476-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-476-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-474-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-472-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-471-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-471-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-470-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-470-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-46-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-46-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-466-hamburg16
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-466-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-466-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-466-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-466-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-466-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-466-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-466-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-466-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-466-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-466-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-466-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-466-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-466-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-466-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-466-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-466-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-465-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-465-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-464-hamburg16
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-464-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-464-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-464-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-464-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-464-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-464-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-464-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-464-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-464-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-464-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-464-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-464-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-464-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-464-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-464-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-464-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-45-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-459-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-459-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-459-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-459-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-459-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-459-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-459-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-459-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-459-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-459-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-459-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-459-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-459-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-459-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-459-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-459-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-456-hamburg16
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-456-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-456-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-456-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-456-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-456-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-456-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-456-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-456-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-456-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-456-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-456-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-456-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-456-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-456-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-456-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-456-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-455-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-453-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-453-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-452-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-451-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-450-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-44-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-44-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-448-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-447-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-447-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-446-hamburg
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-442-hamburg16
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-442-hamburg15
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-442-hamburg14
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-442-hamburg13
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-442-hamburg12
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-442-hamburg11
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-442-hamburg10
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-442-hamburg9
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-442-hamburg8
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-442-hamburg7
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-442-hamburg6
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-442-hamburg5
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-442-hamburg4
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-442-hamburg3
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-442-hamburg2
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-442-hamburg1
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",teilbebauungsplan-tb-442-hamburg
