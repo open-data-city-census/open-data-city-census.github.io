@@ -1,9 +1,11 @@
 update_time,license,format,overall,groups,id
-0,0,0.5,0.5,"Öffentliche Verwaltung, Haushalt und Steuern",f64efc11-1334-4b3f-b61e-1486c9ab92b2
-0,0,0.5,0.5,"Kultur, Freizeit, Sport, Tourismus",6b656fe0-8a09-4688-b7f1-19aae9e01210
-0,0,0.5,0.5,"Öffentliche Verwaltung, Haushalt und Steuern",a6a24fa6-0c49-407c-a610-8b659bf19959
-0,0,0.5,0.5,"Öffentliche Verwaltung, Haushalt und Steuern",446aefab-b463-4b06-8255-8bb03dd46920
-0,0,0.5,0.5,"Öffentliche Verwaltung, Haushalt und Steuern",6999bc3f-449a-4f8a-9931-ed3afd17cb24
-0,0,0.5,0.5,"Öffentliche Verwaltung, Haushalt und Steuern",b709edf7-3c31-403b-b102-17f451fe2f61
-0,0,0.5,0.5,"Öffentliche Verwaltung, Haushalt und Steuern",658244a2-91f9-421d-9333-cfa4e922fcaa
-0,0,0.5,0.5,"Öffentliche Verwaltung, Haushalt und Steuern",eb705217-5f3e-43d2-87be-8218bdac025c
+0,1,0,1,Wirtschaft und Arbeit,datenkompass-wirtschaft-landkreis-neuwied
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",datenkompass-tourismus-landkreis-neuwied
+0,1,0,1,"Gesundheit,Soziales",datenkompass-soziales-und-gesundheit-landkreis-neuwied
+0,1,0,1,Wirtschaft und Arbeit,datenkompass-wirtschaftliche-entwicklungspotenziale-landkreis-neuwied
+0,1,0,1,Transport und Verkehr,langzeitzahlstelle-auf-der-b-256-in-rheinbrucke-neuwied
+0,1,0,1,Bildung und Wissenschaft,datenkompass-erziehung-und-bildung-landkreis-neuwied
+0,1,0,1,Bevölkerung,demografischer-wandel-bevolkerungsvorausberechnung-vg-ebene-landkreis-neuwied
+0,1,0,1,Bevölkerung,demografischer-wandel-bevolkerungsvorausberechnung-landkreis-neuwied
+0,1,0,1,,datenkompass-bevolkerung-und-gebiet-haushalte-und-familien-landkreis-neuwied
+0,1,0,1,Wirtschaft und Arbeit,datenkompass-arbeitsmarkt-erwerbstatigkeit-landkreis-neuwied
