@@ -1,80 +1,70 @@
 update_time,license,format,overall,groups,id
-0,1,1,2,"Bevölkerung,Infrastruktur, Bauen und Wohnen",wohnflache
-0,1,0,1,,wms-stadtkarten-2016-schwarz-weiss
-0,1,0,1,,wms-stadtkarten-2016-farbig
-0,1,0,1,"Geographie, Geologie und Geobasisdaten",wms-stadtkarten-2012-graustufen
-0,1,0,1,"Geographie, Geologie und Geobasisdaten",wms-stadtkarten-2012-farbig
-0,1,0,1,,wms-luftbild-2014
-0,1,0,1,,wms-luftbild-2013
-0,1,0,1,"Geographie, Geologie und Geobasisdaten",wms-luftbild-2012
-0,1,0,1,,wms-laufende-bodenordnungsverfahren
-0,1,0,1,,wms-bodenrichtwerte-2016
-0,1,0,1,,wms-bodenrichtwerte-2014
-0,1,0,1,,wms-bodenrichtwerte-2012
-0,1,0,1,,wms-bodenrichtwerte-2010
-0,1,1,2,"Infrastruktur, Bauen und Wohnen,Wirtschaft und Arbeit",beschaftigte
-0,1,1,2,Politik und Wahlen,stadtverordnetenwahl
-1,1,0.5,2.5,Bevölkerung,vornamensstatistik-von-2000-bis-2014
-1,1,1,3,,verkehrsmeldungen
-0,1,1,2,"Kultur, Freizeit, Sport, Tourismus",tourismus-gaste-aus-dem-ausland
-0,1,1,2,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Transport und Verkehr",strassenverzeichnis-der-stadt-frankfurt-am-main
-0,1,1,2,Soziales,kindertageseinrichtungen-besuchsquote
-0,1,1,2,Bevölkerung,bevolkerung-stadtteile
-0,1,1,2,"Bevölkerung,Infrastruktur, Bauen und Wohnen",bauen-und-wohnen
-0,1,1,2,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Transport und Verkehr",stadtgebiet-flache
-0,1,1,2,"Bevölkerung,Infrastruktur, Bauen und Wohnen",sozialleistungen-und-grundsicherung
-0,1,1,2,Bevölkerung,bevolkerung-region-rhein-main
-0,1,1,2,"Infrastruktur, Bauen und Wohnen,Soziales,Wirtschaft und Arbeit",arbeitsmarktbf5b0
-1,1,1,3,,parkdaten-statisch
-1,1,1,3,,parkdaten-dynamisch
-0,1,1,2,"Öffentliche Verwaltung, Haushalt und Steuern",steuereinnahmen-und-schuldenstand
-0,1,1,2,Politik und Wahlen,kommunalwahlen-hessen
-1,1,1,3,"Geographie, Geologie und Geobasisdaten",hauskoordinaten-der-stadtgrundkarte-frankfurt
-0,1,1,2,"Bevölkerung,Infrastruktur, Bauen und Wohnen",haushalte-in-stadtteilen
-0,1,0,1,"Kultur, Freizeit, Sport, Tourismus,Umwelt und Klima",grun-gurtel-rundwanderweg
-0,1,1,2,"Gesundheit,Soziales,Wirtschaft und Arbeit",arztedichte-und-sozialleistungen
-0,1,1,2,"Gesundheit,Soziales,Wirtschaft und Arbeit",niedergelassene-kassenarzte
-0,1,0,1,"Geographie, Geologie und Geobasisdaten",frankfurter-stadtteilgrenzen-fur-gis-systeme
-0.5,1,0.5,2.0,,daten-des-haushaltsplans-2017-der-stadt-frankfurt-am-main
-0,1,0.5,1.5,,daten-des-haushaltsplans-2015-2016-der-stadt-frankfurt-am-main
-0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus,Politik und Wahlen",burgerentscheid-2015-rennbahn
-0,1,1,2,"Bevölkerung,Infrastruktur, Bauen und Wohnen,Soziales",kindertageseinrichtungen
-0,1,1,2,Bildung und Wissenschaft,bildungswege
-0,1,1,2,Bevölkerung,bevolkerungsbewegungen-stadtteile
-0,1,1,2,Bevölkerung,bevolkerungsstruktur
-0,1,1,2,"Geographie, Geologie und Geobasisdaten,Kultur, Freizeit, Sport, Tourismus,Umwelt und Klima",baumkataster-frankfurt-am-main
-0,1,1,2,"Bevölkerung,Infrastruktur, Bauen und Wohnen",wohnumfeld-offentlicher-raum
-0,1,1,2,Wirtschaft und Arbeit,arbeitsmarkt-wirtschaft
-0,1,1,2,"Bevölkerung,Wirtschaft und Arbeit",arbeitsmarkt
-0,1,1,2,,wahl-zum-ortsbeirat-9-2016
-0,1,1,2,,wahl-zum-ortsbeirat-8-2016
-0,1,1,2,,wahl-zum-ortsbeirat-7-2016
-0,1,1,2,,wahl-zum-ortsbeirat-6-2016
-0,1,1,2,,wahl-zum-ortsbeirat-5-2016
-0,1,1,2,,wahl-zum-ortsbeirat-4-2016
-0,1,1,2,,wahl-zum-ortsbeirat-3-2016
-0,1,1,2,,wahl-zum-ortsbeirat-2-2016
-0,1,1,2,,wahl-zum-ortsbeirat-16-2016
-0,1,1,2,,wahl-zum-ortsbeirat-15-2016
-0,1,1,2,,wahl-zum-ortsbeirat-14-2016
-0,1,1,2,,wahl-zum-ortsbeirat-13-2016
-0,1,1,2,,wahl-zum-ortsbeirat-12-2016
-0,1,1,2,,wahl-zum-ortsbeirat-1-2016
-0,1,1,2,,wahl-zum-ortsbeirat-11-2016
-0,1,1,2,,wahl-zum-ortsbeirat-10-2016
-0,1,1,2,,wahlgebietsgliederung-2017
-0,1,1,2,,wahlbevolkerung-zum-31-12-2016
-0,1,1,2,,wahlbevolkerung-zum-31-12-2010
-0,1,1,2,,wahlbevolkerung-zum-30-06-2015
-0,1,0,1,,wahlatlas-2015-geodaten
-0,1,1,2,,veranderung-der-wahlbevolkerung-2015-zu-2010
-0,1,1,2,,landtagswahl-2013-landesstimmen
-0,1,1,2,,wahl-zur-stadtverordnetenversammlung-2016
-0,1,1,2,,kommunalwahl-2011
-0,1,1,2,,europawahl-20141
-0,1,1,2,,bundestagswahlen
-0,1,1,2,,bundestagswahl-2017-ergebnisse-in-frankfurt-am-main
-0,1,1,2,,bundestagswahl-2013-zweitstimmen
-0,1,0,1,,wahlatlas-2015-druckformat
-0,0,0,0,Bildung und Wissenschaft,d3b4e68f-37c7-4482-8275-90a00ca0bfb7
-0,0,0.5,0.5,"Bevölkerung,Bildung und Wissenschaft,Geographie, Geologie und Geobasisdaten,Gesundheit,Infrastruktur, Bauen und Wohnen,Politik und Wahlen,Wirtschaft und Arbeit",60398847-580f-4871-82bd-3cc6275fb220
+0,1,0,1,"Bevölkerung,Bildung und Wissenschaft,Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus,Politik und Wahlen",infrastrukturdatenbank-der-stadt-gelsenkirchen-wms-amp-wfs
+0,1,0,1,"Infrastruktur, Bauen und Wohnen",bebauungsplan-der-stadt-gelsenkirchen-wms-amp-wfs
+0,1,1,2,"Infrastruktur, Bauen und Wohnen",hotspots-in-gelsenkirchen
+0,1,1,2,"Bevölkerung,Wirtschaft und Arbeit",arbeitsmarktstatistik-arbeitslose-nach-stadtteilen-gelsenkirchen
+0,1,1,2,"Bevölkerung,Wirtschaft und Arbeit",arbeitsmarktstatistik-arbeitslose-nach-rechtskreisen-des-sgb
+0,1,1,2,"Bevölkerung,Wirtschaft und Arbeit",arbeitsmarktstatistik-arbeitslose-gelsenkirchen
+0,1,1,2,"Bevölkerung,Wirtschaft und Arbeit",arbeitsmarktstatistik-sozialversicherungspflichtige-auf-stadtteilebene-gelsenkirchen
+0,1,1,2,"Bevölkerung,Wirtschaft und Arbeit",arbeitsmarktstatistik-sgb-ii-rechtskreis-auf-stadtteilebene-gelsenkirchen
+0,1,1,2,Bevölkerung,bevolkerungsstruktur-migration-gesamtstadt-woche
+0,1,1,2,Bevölkerung,bevolkerungsstruktur-der-haushalte-nach-stadtteil
+0,1,1,2,Politik und Wahlen,wahlraume-bundestagswahl-2017-gelsenkirchen
+0,1,1,2,Bevölkerung,vornamen-der-unter-1-jahrigen
+0,1,1,2,"Kultur, Freizeit, Sport, Tourismus,Umwelt und Klima",baumkataster-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",schwimmbader-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",kinos-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",erinnerungsorte-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Transport und Verkehr",baustellen-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Soziales",zwar-gruppen-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Soziales",notunterkunfte-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Soziales",unterbringungen-demenzkranke-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Soziales",tagespflegeeinrichtungen-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Soziales",senioren-und-pflegeheime-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus,Soziales",seniorenbegegnungsstatten-in-gelsenkirchen
+0,1,1,2,"Gesundheit,Infrastruktur, Bauen und Wohnen",rehabilitation-in-gelsenkirchen
+0,1,1,2,"Gesundheit,Infrastruktur, Bauen und Wohnen,Soziales",pflege-in-gelsenkirchen
+0,1,1,2,"Bevölkerung,Infrastruktur, Bauen und Wohnen,Soziales",migrantenselbstorganisation-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Soziales",kurzzeitpflegeheime-in-gelsenkirchen
+0,1,1,2,"Gesundheit,Infrastruktur, Bauen und Wohnen",krankenhauser-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus,Soziales",infocenter-generationennetz-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Soziales",hilfe-demenz-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Öffentliche Verwaltung, Haushalt und Steuern",feuerwehr-und-katastrophenschutz-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Soziales",einrichtungen-fur-menschen-mit-behinderung-in-gelsenkirchen
+0,1,1,2,"Gesundheit,Infrastruktur, Bauen und Wohnen,Soziales",beratungsstellen-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Soziales",kinder-und-jugendfreizeiteinrichtungen-in-gelsenkirchen
+0,1,1,2,"Geographie, Geologie und Geobasisdaten",strassenverzeichnis-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",bauspielplatze-in-gelsenkirchen
+0,1,1,2,"Geographie, Geologie und Geobasisdaten,Kultur, Freizeit, Sport, Tourismus",halden-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",veranstaltungsorte-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",grunanlagen-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Transport und Verkehr,Umwelt und Klima",radverkehr-verleihpunkte-und-radstationen-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",privatunterkunfte-und-ubernachtungsmoglichkeiten-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",sportanlagen-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",spielpunkte-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",spielen-und-freizeit-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Wirtschaft und Arbeit",einzelhandel-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Kultur, Freizeit, Sport, Tourismus",kunst-im-offentlichen-raum-in-gelsenkirchen
+0,1,1,2,"Gesundheit,Infrastruktur, Bauen und Wohnen",defibrillatoren-offentliche-in-gelsenkirchen
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",nachrichten-aus-gelsenkirchen
+0,1,0,1,"Kultur, Freizeit, Sport, Tourismus",veranstaltungen-in-gelsenkirchen
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",liegenschaftskataster-stadt-gelsenkirchen
+0,1,0,1,"Geographie, Geologie und Geobasisdaten",webkarte-stadt-gelsenkirchen
+0,1,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",luftbilder-senkrecht-stadt-gelsenkirchen
+0,1,1,2,"Bildung und Wissenschaft,Infrastruktur, Bauen und Wohnen,Soziales",kindertagespflege-einrichtungen-in-gelsenkirchen
+0,1,1,2,"Bildung und Wissenschaft,Infrastruktur, Bauen und Wohnen,Soziales",tageseinrichtungen-fur-kinder-gelsenkirchen
+0,1,1,2,"Bildung und Wissenschaft,Infrastruktur, Bauen und Wohnen",schulische-bildung-einrichtungen-in-gelsenkirchen
+0,1,1,2,"Infrastruktur, Bauen und Wohnen,Öffentliche Verwaltung, Haushalt und Steuern",rathaus-und-burgerservice
+0,1,0,1,"Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen",verwaltungsgrenzen-der-stadt-gelsenkirchen-wms-amp-wfs
+0,1,1,2,Bevölkerung,bevolkerungsstruktur-nach-nationalitat-geschlecht-gesamtstadt-quartal-gelsenkirchen
+0,1,1,2,Bevölkerung,bevolkerungsstruktur-nach-nationalitat-geschlecht-gesamtstadt-jahr-gelsenkirchen
+0,1,1,2,Bevölkerung,bevolkerungsstruktur-nach-geschlecht-strasse-quartal-gelsenkirchen
+0,1,1,2,Bevölkerung,bevolkerungsstruktur-nach-alter-geschlecht-stadtteil-quartal-gelsenkirchen
+0,0,0,0,"Bevölkerung,Politik und Wahlen",83bb4910-fd52-4e69-9842-43df1e608b3e
+0,0,0,0,"Bevölkerung,Politik und Wahlen",65ff0847-c4e2-4c82-b14c-c03e9ad41493
+0,0,0,0,"Bevölkerung,Politik und Wahlen",ac59c820-6921-48c2-8015-455716d0c3f5
+0,0,0,0,"Bevölkerung,Politik und Wahlen",788105ea-c3bb-4b36-bc51-38615362971a
+0,0,0,0,"Bevölkerung,Politik und Wahlen",e6700922-80cf-4aef-8460-10a97b2044f1
+0,0,0,0,"Bevölkerung,Geographie, Geologie und Geobasisdaten,Infrastruktur, Bauen und Wohnen,Politik und Wahlen",18cd28a8-299c-4204-9b9d-b3c829ec84f2
+0,0,0,0,"Bevölkerung,Politik und Wahlen",ecf95e43-2f50-44db-bfdd-c9e59b2130d0
+0,0,0,0,"Bevölkerung,Politik und Wahlen",af00f749-1fe5-4f40-8f4a-f8ae55426013
