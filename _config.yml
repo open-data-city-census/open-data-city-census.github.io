@@ -1,7 +1,7 @@
-title: Open Data City Index
+title: Open Data Zensus
 email: mila.frerichs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Der Open Data City Index bewertet die Städte und Kommunen Deutschlands
+  Der Open Data Zensus bewertet die Städte und Kommunen Deutschlands
   bei Ihren Anstrengungen Offene Daten bereitzustellen. Dieser Index wird
   automatisiert erstellt und täglich aktualisiert.
 baseurl: "" # the subpath of your site, e.g. /blog
