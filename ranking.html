@@ -6,9 +6,9 @@ layout: default
 		<div id="city-datasets">
 			<div class="flex bg-grey-dark p-6 w-full" id="ranking-header">
 					<div class="flex ml-4 w-1/5 flex-col justify-center">Stadt</div>
-					<div class="flex w-1-8 pl-2 flex-col justify-center">Punktzahl</div>
+					<div class="flex w-1/4 pl-2 flex-col justify-center">Punktzahl</div>
 					<div class="flex w-1/3 pl-2 flex-col justify-center">Datenqualität</div>
-					<div class="flex w-1/6 pl-2 flex-col justify-center">Datensätze</div>
+					<div class="flex w-1-8 pl-2 flex-col justify-center">Datensätze</div>
 					<div class="flex w-1/6 pl-2 flex-col justify-center">Datensätze mit offener Lizenz</div>
 			</div>
 			<div class="" id="ranking-body">
@@ -19,8 +19,9 @@ layout: default
 						<div class="flex w-1/5 p-2 align-middle flex-col justify-center text-xl">
 							<a href="{{site.baseUrl}}/cities/{{entry.id}}.html">{{entry.name}}</a>
 						</div>
-						<div class="flex w-1-8 p-2 align-middle flex-col justify-center overlay-container" data-name="entry-{{entry.overall_rank}}">
+						<div class="flex w-1/4 p-2 align-middle flex-col justify-center overlay-container" data-name="entry-{{entry.overall_rank}}">
 							<div class="">
+                {% include detail_rank.html entry=entry %}
 								{{100 | minus: entry.overall_rank_data | round: 2 }}
 							</div>
 							<div class="">
@@ -43,7 +44,8 @@ layout: default
               {% assign license_text = means.license_mean | round: 2 | replace: '.',',' | append: " von 1" %}
               {% include quality.html update_time=means.update_time_mean update_text=update_text license=means.license_mean license_text=license_text format=means.format_mean format_text=format_text classes=classes %}
 						</div>
-						<div class="flex p-2 w-1/6 flex-col justify-center">{{entry.datasets | ceil}}</div>
+						<div class="flex p-2 w-1-8 flex-col justify-center">
+              {{entry.datasets | ceil}}</div>
 						<div class="flex p-2 w-1/6 flex-col justify-center">
 							{% include donot_helper.html item=entry.datasets byItem=entry.open_datasets %}
 						</div>

@@ -1,0 +1,13 @@
+{% assign value = include.value %}
+{% assign color = "red" %}
+{% if value <= 66 and value > 33 %}
+  {% assign color = "yellow" %}
+{% elsif value < 33 %}
+  {% assign color = "green" %}
+{% endif %}
+<div class="flex flex-col overlay-container indicators">
+  <div class="pt-1 items-baseline">
+    <div class="w-6 h-6 {{color}}">&nbsp;</div>
+  </div>
+  <div class="overlay">{{include.value}}</div>
+</div>

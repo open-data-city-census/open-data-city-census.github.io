@@ -1,0 +1,16 @@
+<div class="flex flex-row">
+  {% assign t = include.entry.dataset_score_rank_std | ceil %}
+  {% include rank_item.html value=t text="Qualität (40%)"%}
+  {% assign category_score = include.entry.category_score_rank_std | ceil %}
+  {% include rank_item.html value=category_score %}
+  {% assign variance_score = include.entry.category_variance_rank_std | ceil %}
+  {% include rank_item.html value=variance_score %}
+  {% assign dataset_rank = include.entry.dataset_rank_std | ceil %}
+  {% include rank_item.html value=dataset_rank %}
+  {% assign formats_rank = include.entry.formats_rank_std | ceil %}
+  {% include rank_item.html value=formats_rank %}
+  {% assign last_update_rank = include.entry.last_update_rank_std | ceil %}
+  {% include rank_item.html value=last_update_rank %}
+  {% assign category_rank = include.entry.category_rank_std | ceil %}
+  {% include rank_item.html value=category_rank %}
+</div>
