@@ -101,6 +101,7 @@ var rankingChange = 'https://s3.amazonaws.com/open-data-germany-orgs/ranks/'+las
 document.onreadystatechange = function () {
   var q = d3.queue();
   if(document.getElementById('city-datasets')) {
+    showTrend();
     q.defer(d3.csv, rankingsCsv)
     .defer(d3.csv, rankingChange)
     .awaitAll(function(error, results) {
